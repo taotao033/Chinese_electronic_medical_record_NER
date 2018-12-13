@@ -1,0 +1,3885 @@
+T1	IndependentSymptoms 16 19	纳 差
+T2	IndependentSymptoms 22 25	乏 力
+T3	AnatomicSite 42 43	肝
+T4	AnatomicSite 60 61	肝
+T5	AnatomicSite 72 73	肝
+T6	AnatomicSite 112 113	肝
+T7	IndependentSymptoms 144 147	呕 血
+T8	IndependentSymptoms 150 153	黑 便
+T9	Operation 188 209	食 管 胃 底 曲 张 静 脉 套 扎 术
+T10	IndependentSymptoms 228 231	黑 便
+T11	AnatomicSite 240 247	上 消 化 道
+T12	AnatomicSite 254 257	食 道
+T13	AnatomicSite 286 293	食 管 静 脉
+T14	IndependentSymptoms 438 441	乏 力
+T15	AnatomicSite 446 451	中 上 腹
+T16	SymptomsDescribed 452 455	不 适
+T17	IndependentSymptoms 460 463	恶 心
+T18	IndependentSymptoms 466 469	呕 吐
+T19	AnatomicSite 474 475	心
+T20	SymptomsDescribed 476 477	悸
+T21	IndependentSymptoms 480 483	气 促
+T22	AnatomicSite 488 489	胸
+T23	SymptomsDescribed 490 491	闷
+T24	AnatomicSite 494 495	胸
+T25	SymptomsDescribed 496 497	痛
+T26	AnatomicSite 502 503	腹
+T27	SymptomsDescribed 504 505	胀
+T28	AnatomicSite 510 511	头
+T29	SymptomsDescribed 512 513	昏
+T30	AnatomicSite 516 517	头
+T31	SymptomsDescribed 518 519	痛
+T32	IndependentSymptoms 554 557	便 血
+T33	IndependentSymptoms 610 617	食 欲 减 退
+T34	AnatomicSite 718 719	腹
+T35	SymptomsDescribed 720 721	痛
+T36	AnatomicSite 726 729	剑 下
+T37	SymptomsDescribed 736 739	绞 痛
+T38	IndependentSymptoms 778 781	呕 吐
+T39	IndependentSymptoms 786 789	发 热
+T40	IndependentSymptoms 792 795	寒 战
+T41	AnatomicSite 800 801	眼
+T42	SymptomsDescribed 802 803	黄
+T43	IndependentSymptoms 806 809	尿 黄
+T44	IndependentSymptoms 822 825	反 酸
+T45	IndependentSymptoms 828 831	嗳 气
+T46	AnatomicSite 834 835	腹
+T47	SymptomsDescribed 836 837	胀
+T48	AnatomicSite 840 841	腹
+T49	SymptomsDescribed 842 843	泻
+T50	IndependentSymptoms 846 849	皮 疹
+T51	AnatomicSite 852 855	皮 下
+T52	SymptomsDescribed 856 859	出 血
+T53	AnatomicSite 862 863	胸
+T54	SymptomsDescribed 864 865	闷
+T55	IndependentSymptoms 868 871	憋 气
+T56	IndependentSymptoms 874 881	烦 躁 不 安
+T57	IndependentSymptoms 884 891	意 识 障 碍
+T58	AnatomicSite 916 925	肝 内 外 胆 管
+T59	Operation 934 943	胆 囊 切 除 术
+T60	AnatomicSite 950 951	脾
+T61	AnatomicSite 952 955	胰 腺
+T62	AnatomicSite 966 971	门 静 脉
+T63	AnatomicSite 974 979	腹 膜 后
+T64	AnatomicSite 990 997	下 腔 静 脉
+T65	AnatomicSite 1030 1037	腹 主 动 脉
+T66	AnatomicSite 1074 1075	腹
+T67	SymptomsDescribed 1076 1077	痛
+T68	AnatomicSite 1162 1165	胆 管
+T69	IndependentSymptoms 1196 1203	精 神 不 振
+T70	IndependentSymptoms 1206 1211	饮 食 少
+T71	AnatomicSite 1278 1283	上 腹 部
+T72	SymptomsDescribed 1284 1291	隐 痛 不 适
+T73	IndependentSymptoms 1320 1323	反 酸
+T74	IndependentSymptoms 1326 1329	烧 心
+T75	IndependentSymptoms 1332 1335	嗳 气
+T76	IndependentSymptoms 1340 1343	恶 心
+T77	IndependentSymptoms 1346 1349	呕 吐
+T78	AnatomicSite 1354 1355	胸
+T79	SymptomsDescribed 1356 1357	闷
+T80	IndependentSymptoms 1360 1363	憋 喘
+T81	AnatomicSite 1368 1369	胸
+T82	SymptomsDescribed 1370 1371	痛
+T83	AnatomicSite 1374 1377	后 背
+T84	SymptomsDescribed 1378 1379	痛
+T85	AnatomicSite 1384 1385	腹
+T86	SymptomsDescribed 1386 1387	泻
+T87	IndependentSymptoms 1392 1395	发 热
+T88	IndependentSymptoms 1398 1401	畏 寒
+T89	IndependentSymptoms 1406 1409	呕 血
+T90	IndependentSymptoms 1412 1415	便 血
+T91	AnatomicSite 1440 1445	上 腹 部
+T92	SymptomsDescribed 1446 1449	疼 痛
+T93	AnatomicSite 1490 1491	胃
+T94	AnatomicSite 1516 1517	胃
+T95	AnatomicSite 1526 1533	食 管 裂 孔
+T96	Operation 1544 1563	结 肠 多 发 息 肉 镜 下 切 除
+T97	AnatomicSite 1580 1583	胃 窦
+T98	AnatomicSite 1596 1597	胃
+T99	AnatomicSite 1620 1621	肠
+T100	AnatomicSite 1632 1635	幽 门
+T101	AnatomicSite 1660 1667	结 肠 肝 曲
+T102	AnatomicSite 1670 1675	降 结 肠
+T103	AnatomicSite 1702 1703	胃
+T104	AnatomicSite 1736 1739	上 腹
+T105	SymptomsDescribed 1740 1741	痛
+T106	AnatomicSite 1826 1829	上 腹
+T107	SymptomsDescribed 1830 1833	疼 痛
+T108	AnatomicSite 1870 1875	下 腹 部
+T109	SymptomsDescribed 1876 1879	疼 痛
+T110	IndependentSymptoms 1902 1911	大 便 不 成 形
+T111	IndependentSymptoms 1942 1951	粘 液 脓 血 便
+T112	IndependentSymptoms 1956 1959	恶 心
+T113	IndependentSymptoms 1962 1965	呕 吐
+T114	IndependentSymptoms 1970 1973	发 热
+T115	AnatomicSite 2028 2031	结 肠
+T116	IndependentSymptoms 2084 2091	睡 眠 欠 佳
+T117	AnatomicSite 2184 2189	上 腹 部
+T118	SymptomsDescribed 2190 2197	疼 痛 不 适
+T119	SymptomsDescribed 2200 2203	疼 痛
+T120	SymptomsDescribed 2206 2209	胀 痛
+T121	SymptomsDescribed 2214 2223	放 射 性 疼 痛
+T122	AnatomicSite 2258 2259	胃
+T123	AnatomicSite 2280 2281	胃
+T124	IndependentSymptoms 2352 2355	恶 心
+T125	IndependentSymptoms 2358 2361	呕 吐
+T126	IndependentSymptoms 2366 2369	反 酸
+T127	IndependentSymptoms 2372 2375	烧 心
+T128	IndependentSymptoms 2380 2383	呕 血
+T129	IndependentSymptoms 2386 2389	黑 便
+T130	IndependentSymptoms 2394 2397	寒 战
+T131	IndependentSymptoms 2400 2403	发 热
+T132	IndependentSymptoms 2416 2419	呕 血
+T133	IndependentSymptoms 2422 2425	黑 便
+T134	IndependentSymptoms 2430 2437	里 急 后 重
+T135	IndependentSymptoms 2442 2445	咳 嗽
+T136	IndependentSymptoms 2448 2451	咳 痰
+T137	AnatomicSite 2456 2457	胸
+T138	SymptomsDescribed 2458 2459	闷
+T139	IndependentSymptoms 2462 2465	憋 气
+T140	IndependentSymptoms 2470 2473	尿 频
+T141	IndependentSymptoms 2474 2477	尿 急
+T142	IndependentSymptoms 2478 2481	尿 痛
+T143	IndependentSymptoms 2486 2493	意 识 障 碍
+T144	IndependentSymptoms 2496 2507	肢 体 活 动 困 难
+T145	AnatomicSite 2550 2551	胃
+T146	IndependentSymptoms 2608 2613	睡 眠 差
+T147	AnatomicSite 2682 2683	胃
+T148	AnatomicSite 2692 2695	贲 门
+T149	AnatomicSite 2718 2731	贲 门 大 弯 侧 后 壁
+T150	AnatomicSite 2790 2791	胃
+T151	AnatomicSite 2816 2817	胃
+T152	AnatomicSite 2846 2847	胃
+T153	AnatomicSite 2856 2857	肠
+T154	AnatomicSite 2876 2877	胃
+T155	AnatomicSite 2884 2899	食 管 - 贲 门 交 界 处
+T156	IndependentSymptoms 3010 3019	进 食 阻 塞 感
+T157	AnatomicSite 3022 3027	胸 骨 后
+T158	SymptomsDescribed 3028 3031	不 适
+T159	AnatomicSite 3036 3037	腹
+T160	SymptomsDescribed 3038 3039	痛
+T161	AnatomicSite 3042 3043	腹
+T162	SymptomsDescribed 3044 3045	胀
+T163	IndependentSymptoms 3050 3053	反 酸
+T164	IndependentSymptoms 3056 3059	嗳 气
+T165	IndependentSymptoms 3064 3067	恶 心
+T166	IndependentSymptoms 3070 3073	呕 吐
+T167	IndependentSymptoms 3076 3079	消 瘦
+T168	IndependentSymptoms 3082 3089	食 欲 减 退
+T169	SymptomsDescribed 3092 3095	不 适
+T170	AnatomicSite 3148 3155	贲 门 粘 膜
+T171	IndependentSymptoms 3202 3209	睡 眠 欠 佳
+T172	AnatomicSite 3268 3269	腹
+T173	SymptomsDescribed 3270 3271	泻
+T174	SymptomsDescribed 3272 3275	不 适
+T175	IndependentSymptoms 3280 3283	血 便
+T176	IndependentSymptoms 3288 3291	恶 心
+T177	IndependentSymptoms 3294 3297	呕 吐
+T178	AnatomicSite 3302 3303	腹
+T179	SymptomsDescribed 3304 3305	痛
+T180	AnatomicSite 3308 3309	腹
+T181	SymptomsDescribed 3310 3311	胀
+T182	IndependentSymptoms 3316 3323	大 便 困 难
+T183	AnatomicSite 3326 3329	肛 门
+T184	SymptomsDescribed 3330 3335	坠 胀 感
+T185	IndependentSymptoms 3340 3347	里 急 后 重
+T186	AnatomicSite 3394 3397	肛 门
+T187	AnatomicSite 3406 3413	乙 状 结 肠
+T188	AnatomicSite 3428 3431	肠 壁
+T189	AnatomicSite 3472 3475	肠 腔
+T190	Operation 3546 3557	D I X O N 术
+T191	AnatomicSite 3598 3605	乙 状 结 肠
+T192	AnatomicSite 3624 3635	肠 壁 浆 膜 下 层
+T193	AnatomicSite 3642 3647	神 经 束
+T194	AnatomicSite 3664 3673	中 央 淋 巴 结
+T195	AnatomicSite 3686 3695	肠 旁 淋 巴 结
+T196	Medicine 3780 3785	乐 沙 定
+T197	Medicine 3804 3820	希 罗 达 I-Medicine
+T198	AnatomicSite 3863 3866	双 手
+T199	SymptomsDescribed 3871 3874	麻 木
+T200	SymptomsDescribed 3875 3878	不 适
+T201	IndependentSymptoms 3883 3886	恶 心
+T202	IndependentSymptoms 3889 3892	呕 吐
+T203	AnatomicSite 3897 3898	腹
+T204	SymptomsDescribed 3899 3900	痛
+T205	AnatomicSite 3903 3904	腹
+T206	SymptomsDescribed 3905 3906	胀
+T207	IndependentSymptoms 3949 3952	发 热
+T208	IndependentSymptoms 3955 3958	乏 力
+T209	IndependentSymptoms 3961 3964	咳 嗽
+T210	IndependentSymptoms 3967 3970	气 促
+T211	IndependentSymptoms 3973 3980	身 目 黄 染
+T212	AnatomicSite 3997 3998	胃
+T213	IndependentSymptoms 4071 4078	大 便 带 血
+T214	IndependentSymptoms 4093 4100	便 意 频 繁
+T215	IndependentSymptoms 4103 4110	里 急 后 重
+T216	IndependentSymptoms 4115 4118	发 热
+T217	AnatomicSite 4123 4124	腹
+T218	SymptomsDescribed 4125 4126	胀
+T219	AnatomicSite 4127 4128	腹
+T220	SymptomsDescribed 4129 4130	痛
+T221	AnatomicSite 4171 4174	肝 胆
+T222	AnatomicSite 4193 4196	结 肠
+T223	Operation 4229 4242	左 半 结 肠 切 除 术
+T224	AnatomicSite 4255 4262	乙 状 结 肠
+T225	AnatomicSite 4313 4314	腹
+T226	SymptomsDescribed 4315 4316	泻
+T227	IndependentSymptoms 4319 4322	血 便
+T228	SymptomsDescribed 4325 4328	不 适
+T229	AnatomicSite 4459 4464	上 腹 部
+T230	SymptomsDescribed 4465 4468	不 适
+T231	Operation 4553 4562	胃 癌 根 治 术
+T232	Operation 4565 4578	远 端 胃 大 部 切 除
+T233	Operation 4581 4602	R O U X - E N - Y 重 建
+T234	IndependentSymptoms 4635 4638	咳 嗽
+T235	AnatomicSite 4641 4646	上 腹 部
+T236	SymptomsDescribed 4655 4658	渗 液
+T237	Operation 4695 4712	腹 壁 切 口 清 创 缝 合 术
+T238	AnatomicSite 4741 4744	静 脉
+T239	AnatomicSite 4801 4802	胃
+T240	AnatomicSite 5009 5012	身 体
+T241	IndependentSymptoms 5019 5022	消 瘦
+T242	AnatomicSite 5049 5054	上 腹 部
+T243	SymptomsDescribed 5055 5062	疼 痛 不 适
+T244	SymptomsDescribed 5065 5068	疼 痛
+T245	SymptomsDescribed 5077 5084	烧 灼 样 痛
+T246	SymptomsDescribed 5101 5104	疼 痛
+T247	AnatomicSite 5107 5114	上 腹 正 中
+T248	IndependentSymptoms 5127 5130	恶 心
+T249	IndependentSymptoms 5135 5138	呕 吐
+T250	AnatomicSite 5141 5144	肛 门
+T251	IndependentSymptoms 5163 5166	发 热
+T252	AnatomicSite 5171 5172	腹
+T253	SymptomsDescribed 5173 5174	泻
+T254	IndependentSymptoms 5179 5182	便 血
+T255	AnatomicSite 5187 5188	胸
+T256	SymptomsDescribed 5189 5190	闷
+T257	IndependentSymptoms 5193 5196	咳 嗽
+T258	AnatomicSite 5229 5230	胃
+T259	AnatomicSite 5291 5292	腹
+T260	SymptomsDescribed 5293 5294	痛
+T261	IndependentSymptoms 5325 5332	精 神 欠 佳
+T262	AnatomicSite 5397 5398	胃
+T263	AnatomicSite 5403 5406	幽 门
+T264	AnatomicSite 5495 5504	胃 窦 幽 门 部
+T265	AnatomicSite 5525 5528	幽 门
+T266	AnatomicSite 5531 5534	胃 腔
+T267	AnatomicSite 5541 5544	胃 壁
+T268	AnatomicSite 5557 5566	胃 大 小 弯 侧
+T269	AnatomicSite 5577 5582	淋 巴 结
+T270	AnatomicSite 5589 5598	胃 结 肠 韧 带
+T271	AnatomicSite 5613 5618	横 结 肠
+T272	AnatomicSite 5637 5640	幽 门
+T273	AnatomicSite 5645 5656	十 二 指 肠 球 部
+T274	AnatomicSite 5689 5700	十 二 指 肠 降 段
+T275	AnatomicSite 5703 5708	横 结 肠
+T276	AnatomicSite 5745 5748	幽 门
+T277	Operation 5759 5768	胃 肠 吻 合 术
+T278	AnatomicSite 5777 5782	大 网 膜
+T279	AnatomicSite 5797 5802	大 网 膜
+T280	AnatomicSite 6047 6048	胃
+T281	AnatomicSite 6169 6174	上 腹 部
+T282	SymptomsDescribed 6175 6178	疼 痛
+T283	AnatomicSite 6225 6226	胃
+T284	AnatomicSite 6237 6240	胃 底
+T285	AnatomicSite 6241 6244	贲 门
+T286	AnatomicSite 6267 6270	贲 门
+T287	AnatomicSite 6273 6284	胃 小 弯 侧 胃 壁
+T288	AnatomicSite 6301 6302	胃
+T289	AnatomicSite 6307 6314	胃 左 动 脉
+T290	AnatomicSite 6319 6326	胃 小 弯 侧
+T291	AnatomicSite 6331 6336	淋 巴 结
+T292	AnatomicSite 6357 6360	左 肾
+T293	AnatomicSite 6381 6382	胃
+T294	Operation 6423 6436	近 端 胃 癌 根 治 术
+T295	Operation 6439 6448	空 肠 间 置 术
+T296	AnatomicSite 6537 6540	神 经
+T297	AnatomicSite 6591 6594	脉 管
+T298	AnatomicSite 6611 6616	淋 巴 结
+T299	AnatomicSite 6637 6638	胃
+T300	AnatomicSite 6639 6642	神 经
+T301	AnatomicSite 6731 6732	肝
+T302	AnatomicSite 6823 6824	肝
+T303	AnatomicSite 6849 6858	左 侧 肾 上 腺
+T304	AnatomicSite 6859 6862	肢 体
+T305	IndependentSymptoms 6999 7002	恶 心
+T306	AnatomicSite 7035 7036	肝
+T307	AnatomicSite 7059 7068	左 侧 肾 上 腺
+T308	IndependentSymptoms 7131 7134	畏 寒
+T309	IndependentSymptoms 7137 7140	发 热
+T310	AnatomicSite 7145 7146	腹
+T311	SymptomsDescribed 7147 7148	痛
+T312	AnatomicSite 7151 7152	腹
+T313	SymptomsDescribed 7153 7154	胀
+T314	AnatomicSite 7163 7164	胃
+T315	AnatomicSite 7219 7222	宫 颈
+T316	Operation 7261 7280	腹 腔 镜 下 广 泛 子 宫 切 除
+T317	Operation 7283 7298	盆 腔 淋 巴 结 清 扫 术
+T318	AnatomicSite 7321 7324	宫 颈
+T319	AnatomicSite 7349 7352	脉 管
+T320	AnatomicSite 7363 7366	神 经
+T321	AnatomicSite 7379 7384	阴 道 壁
+T322	AnatomicSite 7391 7394	颈 管
+T323	AnatomicSite 7403 7410	双 侧 宫 旁
+T324	AnatomicSite 7431 7444	双 侧 盆 腔 淋 巴 结
+T325	Medicine 7487 7492	紫 杉 醇
+T326	Medicine 7495 7498	特 素
+T327	Medicine 7517 7520	顺 铂
+T328	IndependentSymptoms 7555 7558	恶 心
+T329	AnatomicSite 7561 7562	腹
+T330	SymptomsDescribed 7563 7564	胀
+T331	IndependentSymptoms 7567 7570	脱 发
+T332	SymptomsDescribed 7633 7636	不 适
+T333	AnatomicSite 7673 7676	宫 颈
+T334	AnatomicSite 7891 7892	腹
+T335	SymptomsDescribed 7893 7894	痛
+T336	AnatomicSite 7895 7896	腹
+T337	SymptomsDescribed 7897 7898	胀
+T338	AnatomicSite 7917 7922	上 腹 部
+T339	AnatomicSite 7935 7938	胰 头
+T340	AnatomicSite 7947 7950	胰 头
+T341	AnatomicSite 7961 7968	胰 体 尾 部
+T342	AnatomicSite 7969 7972	胰 管
+T343	AnatomicSite 7983 7984	胰
+T344	AnatomicSite 8015 8020	淋 巴 结
+T345	AnatomicSite 8045 8060	肝 右 右 叶 肝 内 胆 管
+T346	AnatomicSite 8077 8084	肝 左 右 叶
+T347	AnatomicSite 8113 8118	胃 窦 壁
+T348	AnatomicSite 8143 8146	胰 腺
+T349	AnatomicSite 8153 8156	胰 腺
+T350	Operation 8167 8182	胃 多 发 息 肉 切 除 术
+T351	AnatomicSite 8195 8196	胃
+T352	Operation 8287 8302	胰 十 二 指 肠 切 除 术
+T353	AnatomicSite 8343 8346	胰 头
+T354	AnatomicSite 8395 8396	胰
+T355	Operation 8415 8430	胰 十 二 指 肠 切 除 术
+T356	AnatomicSite 8487 8488	胃
+T357	AnatomicSite 8549 8552	皮 肤
+T358	AnatomicSite 8553 8556	巩 膜
+T359	SymptomsDescribed 8557 8560	黄 染
+T360	AnatomicSite 8579 8582	肝 门
+T361	AnatomicSite 8583 8586	胆 管
+T362	Operation 8641 8660	内 镜 下 胆 管 支 架 置 入 术
+T363	AnatomicSite 8687 8688	肝
+T364	AnatomicSite 8737 8740	皮 肤
+T365	AnatomicSite 8743 8746	巩 膜
+T366	SymptomsDescribed 8755 8758	黄 染
+T367	IndependentSymptoms 8761 8770	小 便 色 深 黄
+T368	IndependentSymptoms 8785 8788	寒 战
+T369	IndependentSymptoms 8791 8794	发 热
+T370	IndependentSymptoms 8799 8802	恶 心
+T371	IndependentSymptoms 8805 8808	呕 吐
+T372	AnatomicSite 8813 8814	腹
+T373	SymptomsDescribed 8815 8816	痛
+T374	AnatomicSite 8819 8820	腹
+T375	SymptomsDescribed 8821 8822	胀
+T376	AnatomicSite 8825 8826	腹
+T377	SymptomsDescribed 8827 8828	泻
+T378	IndependentSymptoms 8833 8836	咳 嗽
+T379	IndependentSymptoms 8839 8842	咳 痰
+T380	AnatomicSite 8847 8848	胸
+T381	SymptomsDescribed 8849 8850	闷
+T382	IndependentSymptoms 8853 8856	喘 憋
+T383	AnatomicSite 8861 8864	四 肢
+T384	SymptomsDescribed 8865 8868	酸 痛
+T385	SymptomsDescribed 8869 8872	不 适
+T386	IndependentSymptoms 8995 9004	小 便 色 深 黄
+T387	AnatomicSite 9061 9064	腹 部
+T388	SymptomsDescribed 9065 9068	隐 痛
+T389	AnatomicSite 9073 9074	肠
+T390	AnatomicSite 9087 9090	肛 门
+T391	Operation 9205 9224	根 治 性 右 半 结 肠 切 除 术
+T392	AnatomicSite 9259 9266	肠 壁 全 层
+T393	AnatomicSite 9287 9290	脉 管
+T394	AnatomicSite 9293 9296	神 经
+T395	AnatomicSite 9303 9308	淋 巴 结
+T396	AnatomicSite 9541 9544	骨 髓
+T397	SymptomsDescribed 9603 9606	不 适
+T398	AnatomicSite 9691 9694	直 肠
+T399	Operation 9715 9734	经 腹 会 阴 直 肠 癌 根 治 术
+T400	AnatomicSite 9803 9806	直 肠
+T401	AnatomicSite 9843 9846	L N
+T402	Medicine 10037 10042	乐 沙 定
+T403	Medicine 10077 10093	希 罗 达 I-Medicine
+T404	IndependentSymptoms 10158 10165	食 欲 下 降
+T405	SymptomsDescribed 10176 10179	不 适
+T406	AnatomicSite 10212 10215	直 肠
+T407	AnatomicSite 10262 10263	头
+T408	SymptomsDescribed 10264 10265	晕
+T409	AnatomicSite 10268 10269	头
+T410	SymptomsDescribed 10270 10271	痛
+T411	IndependentSymptoms 10276 10279	发 热
+T412	IndependentSymptoms 10282 10285	咳 嗽
+T413	IndependentSymptoms 10288 10291	咳 痰
+T414	AnatomicSite 10294 10295	胸
+T415	SymptomsDescribed 10296 10297	闷
+T416	AnatomicSite 10300 10301	胸
+T417	SymptomsDescribed 10302 10303	痛
+T418	AnatomicSite 10308 10309	腹
+T419	SymptomsDescribed 10310 10311	痛
+T420	AnatomicSite 10314 10315	腹
+T421	SymptomsDescribed 10316 10317	胀
+T422	AnatomicSite 10322 10323	腹
+T423	SymptomsDescribed 10324 10325	泻
+T424	IndependentSymptoms 10328 10335	粘 液 血 便
+T425	IndependentSymptoms 10340 10343	发 热
+T426	AnatomicSite 10430 10435	右 上 腹
+T427	SymptomsDescribed 10442 10445	隐 痛
+T428	AnatomicSite 10476 10477	肝
+T429	Operation 10518 10537	肝 癌 放 射 性 粒 子 置 入 术
+T430	AnatomicSite 10566 10569	全 身
+T431	Operation 10578 10605	原 发 性 肝 癌 姑 息 性 H I F U 治 疗
+T432	AnatomicSite 10616 10617	肝
+T433	IndependentSymptoms 10684 10691	解 黑 大 便
+T434	AnatomicSite 10694 10695	胃
+T435	AnatomicSite 10714 10717	食 管
+T436	AnatomicSite 10718 10721	静 脉
+T437	AnatomicSite 10756 10759	静 脉
+T438	Medicine 10824 10827	安 达
+T439	IndependentSymptoms 10860 10865	解 黑 便
+T440	AnatomicSite 10882 10887	中 上 腹
+T441	SymptomsDescribed 10888 10891	隐 痛
+T442	IndependentSymptoms 10898 10901	恶 心
+T443	IndependentSymptoms 10904 10907	呕 吐
+T444	IndependentSymptoms 10910 10913	呕 血
+T445	Operation 11080 11099	原 发 性 肝 癌 粒 子 植 入 术
+T446	AnatomicSite 11112 11113	肝
+T447	AnatomicSite 11180 11185	中 上 腹
+T448	SymptomsDescribed 11186 11189	疼 痛
+T449	IndependentSymptoms 11194 11201	大 汗 淋 漓
+T450	IndependentSymptoms 11206 11209	恶 心
+T451	IndependentSymptoms 11212 11215	呕 吐
+T452	AnatomicSite 11220 11221	头
+T453	SymptomsDescribed 11222 11223	昏
+T454	IndependentSymptoms 11226 11229	乏 力
+T455	IndependentSymptoms 11298 11305	胃 纳 略 差
+T456	IndependentSymptoms 11362 11369	大 便 带 血
+T457	AnatomicSite 11400 11403	肠 道
+T458	AnatomicSite 11412 11415	结 肠
+T459	AnatomicSite 11432 11435	结 肠
+T460	AnatomicSite 11480 11481	口
+T461	Medicine 11484 11491	阿 司 匹 林
+T462	Medicine 11494 11501	氯 吡 格 雷
+T463	IndependentSymptoms 11546 11549	便 血
+T464	AnatomicSite 11560 11561	肠
+T465	AnatomicSite 11606 11609	结 肠
+T466	IndependentSymptoms 11674 11677	发 热
+T467	IndependentSymptoms 11712 11715	恶 心
+T468	IndependentSymptoms 11716 11719	呕 吐
+T469	AnatomicSite 11724 11725	腹
+T470	SymptomsDescribed 11726 11727	胀
+T471	AnatomicSite 11728 11729	腹
+T472	SymptomsDescribed 11730 11731	痛
+T473	Operation 11762 11777	肠 镜 下 息 肉 切 除 术
+T474	AnatomicSite 11784 11785	腹
+T475	SymptomsDescribed 11786 11787	痛
+T476	AnatomicSite 11792 11795	腹 部
+T477	AnatomicSite 11806 11807	膈
+T478	AnatomicSite 11824 11825	肠
+T479	Operation 11856 11863	剖 腹 探 查
+T480	Operation 11866 11879	结 肠 穿 孔 修 补 术
+T481	AnatomicSite 11938 11941	肛 门
+T482	IndependentSymptoms 11958 11961	低 热
+T483	IndependentSymptoms 11982 11985	畏 寒
+T484	IndependentSymptoms 11988 11991	乏 力
+T485	AnatomicSite 11996 11997	头
+T486	SymptomsDescribed 11998 11999	痛
+T487	AnatomicSite 12000 12001	头
+T488	SymptomsDescribed 12002 12003	晕
+T489	IndependentSymptoms 12008 12011	恶 心
+T490	IndependentSymptoms 12012 12015	呕 吐
+T491	SymptomsDescribed 12036 12039	不 适
+T492	AnatomicSite 12052 12055	腹 部
+T493	SymptomsDescribed 12070 12073	红 肿
+T494	SymptomsDescribed 12078 12081	渗 液
+T495	AnatomicSite 12148 12151	腹 部
+T496	IndependentSymptoms 12192 12197	睡 眠 差
+T497	IndependentSymptoms 12200 12207	饮 食 较 差
+T498	AnatomicSite 12266 12273	结 肠 肝 曲
+T499	Operation 12304 12337	腹 腔 镜 下 右 半 结 肠 切 除 术 （ 扩 大 根 治 ）
+T500	AnatomicSite 12352 12359	右 半 结 肠
+T501	AnatomicSite 12364 12367	大 肠
+T502	AnatomicSite 12400 12403	神 经
+T503	AnatomicSite 12470 12479	肠 周 淋 巴 结
+T504	AnatomicSite 12494 12515	（ 回 肠 动 脉 根 部 ） 淋 巴 结
+T505	AnatomicSite 12602 12607	右 侧 腹
+T506	SymptomsDescribed 12608 12609	痛
+T507	IndependentSymptoms 12614 12617	发 热
+T508	AnatomicSite 12636 12639	腹 腔
+T509	AnatomicSite 12678 12681	大 肠
+T510	AnatomicSite 12692 12693	肠
+T511	AnatomicSite 12722 12725	腹 腔
+T512	IndependentSymptoms 12758 12761	畏 寒
+T513	IndependentSymptoms 12764 12767	发 热
+T514	AnatomicSite 12770 12771	腹
+T515	SymptomsDescribed 12772 12773	痛
+T516	AnatomicSite 12776 12777	腹
+T517	SymptomsDescribed 12778 12779	胀
+T518	IndependentSymptoms 12782 12785	恶 心
+T519	IndependentSymptoms 12788 12791	呕 吐
+T520	AnatomicSite 12794 12795	腹
+T521	SymptomsDescribed 12796 12797	泻
+T522	SymptomsDescribed 12800 12803	不 适
+T523	AnatomicSite 12806 12813	右 侧 腹 腔
+T524	AnatomicSite 12850 12853	腹 腔
+T525	IndependentSymptoms 12886 12889	畏 寒
+T526	IndependentSymptoms 12892 12895	发 热
+T527	AnatomicSite 12898 12899	腹
+T528	SymptomsDescribed 12900 12901	痛
+T529	AnatomicSite 12904 12905	腹
+T530	SymptomsDescribed 12906 12907	胀
+T531	AnatomicSite 12934 12939	右 侧 腹
+T532	SymptomsDescribed 12940 12941	痛
+T533	IndependentSymptoms 12946 12949	畏 寒
+T534	IndependentSymptoms 12952 12955	发 热
+T535	AnatomicSite 12994 13001	结 肠 肝 曲
+T536	IndependentSymptoms 13144 13147	嗳 气
+T537	IndependentSymptoms 13148 13151	反 酸
+T538	AnatomicSite 13154 13155	腹
+T539	SymptomsDescribed 13156 13157	胀
+T540	AnatomicSite 13158 13159	腹
+T541	SymptomsDescribed 13160 13161	痛
+T542	AnatomicSite 13182 13193	胃 食 管 结 合 部
+T543	Operation 13232 13267	胃 癌 根 治 术 （ 近 端 胃 大 切 ， 食 管 胃 吻 合 ）
+T544	AnatomicSite 13328 13329	胃
+T545	IndependentSymptoms 13416 13419	发 热
+T546	AnatomicSite 13422 13423	腹
+T547	SymptomsDescribed 13424 13425	痛
+T548	AnatomicSite 13428 13429	腹
+T549	SymptomsDescribed 13430 13431	胀
+T550	IndependentSymptoms 13434 13437	恶 心
+T551	IndependentSymptoms 13440 13443	呕 吐
+T552	IndependentSymptoms 13446 13449	黑 便
+T553	SymptomsDescribed 13452 13455	不 适
+T554	AnatomicSite 13486 13487	胃
+T555	IndependentSymptoms 13530 13537	食 欲 欠 佳
+T556	IndependentSymptoms 13554 13563	体 重 稍 下 降
+T557	AnatomicSite 13580 13587	胃 底 贲 门
+T558	Operation 13598 13611	胃 癌 近 端 胃 切 除
+T559	Operation 13614 13625	食 管 残 胃 吻 合
+T560	Operation 13628 13643	放 射 性 粒 子 植 入 术
+T561	AnatomicSite 13660 13661	胃
+T562	IndependentSymptoms 13800 13803	纳 差
+T563	IndependentSymptoms 13806 13817	食 欲 逐 渐 下 降
+T564	IndependentSymptoms 13822 13831	进 食 后 哽 咽
+T565	AnatomicSite 13842 13845	全 身
+T566	IndependentSymptoms 13846 13849	乏 力
+T567	IndependentSymptoms 13852 13855	反 酸
+T568	AnatomicSite 13886 13887	腹
+T569	SymptomsDescribed 13888 13889	胀
+T570	AnatomicSite 13892 13893	腹
+T571	SymptomsDescribed 13894 13895	痛
+T572	AnatomicSite 13900 13903	肛 门
+T573	SymptomsDescribed 13904 13915	停 止 排 气 排 便
+T574	AnatomicSite 13920 13921	头
+T575	SymptomsDescribed 13922 13923	晕
+T576	SymptomsDescribed 13932 13935	不 适
+T577	AnatomicSite 14004 14005	胃
+T578	IndependentSymptoms 14066 14073	胃 纳 较 差
+T579	IndependentSymptoms 14102 14109	体 重 下 降
+T580	AnatomicSite 14150 14155	右 上 腹
+T581	IndependentSymptoms 14186 14189	恶 心
+T582	IndependentSymptoms 14192 14195	呕 吐
+T583	IndependentSymptoms 14200 14203	返 酸
+T584	IndependentSymptoms 14206 14209	嗳 气
+T585	IndependentSymptoms 14214 14217	纳 差
+T586	IndependentSymptoms 14220 14223	乏 力
+T587	IndependentSymptoms 14226 14229	消 瘦
+T588	AnatomicSite 14234 14235	腹
+T589	SymptomsDescribed 14236 14237	胀
+T590	AnatomicSite 14240 14241	腹
+T591	SymptomsDescribed 14242 14243	泻
+T592	IndependentSymptoms 14246 14249	便 秘
+T593	IndependentSymptoms 14254 14257	呕 血
+T594	IndependentSymptoms 14260 14263	黑 便
+T595	IndependentSymptoms 14268 14271	畏 冷
+T596	IndependentSymptoms 14274 14277	寒 战
+T597	IndependentSymptoms 14280 14283	发 热
+T598	AnatomicSite 14312 14315	腹 部
+T599	AnatomicSite 14324 14327	胆 囊
+T600	AnatomicSite 14394 14397	胆 囊
+T601	AnatomicSite 14408 14411	胰 腺
+T602	AnatomicSite 14436 14437	胰
+T603	AnatomicSite 14482 14485	胆 囊
+T604	AnatomicSite 14496 14499	胰 腺
+T605	AnatomicSite 14532 14539	双 肺 下 叶
+T606	AnatomicSite 14552 14555	双 肺
+T607	AnatomicSite 14588 14595	双 侧 胸 腔
+T608	AnatomicSite 14610 14617	肝 脏 左 叶
+T609	AnatomicSite 14626 14629	胆 囊
+T610	AnatomicSite 14638 14643	上 腹 腔
+T611	AnatomicSite 14646 14647	肾
+T612	Operation 14726 14749	B 超 定 位 下 胆 囊 穿 刺 造 瘘 术
+T613	AnatomicSite 14820 14823	胆 囊
+T614	AnatomicSite 14914 14921	左 肺 上 叶
+T615	Operation 14954 14967	左 肺 上 叶 切 除 术
+T616	AnatomicSite 14982 14989	左 肺 上 叶
+T617	AnatomicSite 15014 15019	淋 巴 结
+T618	IndependentSymptoms 15082 15089	吞 咽 不 顺
+T619	AnatomicSite 15114 15115	胃
+T620	AnatomicSite 15126 15129	门 齿
+T621	AnatomicSite 15144 15147	食 管
+T622	AnatomicSite 15182 15185	食 管
+T623	Medicine 15336 15341	紫 杉 醇
+T624	Medicine 15344 15347	顺 铂
+T625	AnatomicSite 15498 15505	肝 右 前 叶
+T626	Operation 15520 15531	肝 右 叶 切 除 术
+T627	Operation 15534 15543	胆 囊 切 除 术
+T628	Operation 15580 15589	T A C E 术
+T629	AnatomicSite 15810 15815	上 腹 部
+T630	AnatomicSite 15824 15829	肝 S 4
+T631	AnatomicSite 15850 15855	肝 门 区
+T632	AnatomicSite 15858 15865	腹 腔 干 旁
+T633	AnatomicSite 15868 15875	腹 主 动 脉
+T634	AnatomicSite 15880 15883	胰 头
+T635	AnatomicSite 15892 15897	淋 巴 结
+T636	AnatomicSite 15954 15955	腹
+T637	SymptomsDescribed 15956 15957	痛
+T638	AnatomicSite 15962 15963	腹
+T639	SymptomsDescribed 15964 15965	胀
+T640	IndependentSymptoms 15970 15973	恶 心
+T641	IndependentSymptoms 15978 15981	呕 吐
+T642	IndependentSymptoms 15986 15989	畏 寒
+T643	IndependentSymptoms 15994 15997	发 热
+T644	AnatomicSite 16080 16081	腹
+T645	SymptomsDescribed 16082 16083	泻
+T646	AnatomicSite 16096 16097	肠
+T647	AnatomicSite 16122 16125	直 肠
+T648	Operation 16180 16193	D I X O N 手 术
+T649	AnatomicSite 16234 16235	腹
+T650	SymptomsDescribed 16236 16237	痛
+T651	AnatomicSite 16272 16273	腹
+T652	SymptomsDescribed 16274 16275	痛
+T653	IndependentSymptoms 16286 16293	大 便 困 难
+T654	AnatomicSite 16314 16315	肠
+T655	AnatomicSite 16534 16537	直 肠
+T656	AnatomicSite 16596 16603	下 腹 正 中
+T657	SymptomsDescribed 16604 16605	疼
+T658	Operation 16656 16665	胃 癌 切 除 术
+T659	AnatomicSite 16672 16679	胸 骨 下 段
+T660	SymptomsDescribed 16680 16685	烧 灼 感
+T661	IndependentSymptoms 16690 16693	反 酸
+T662	IndependentSymptoms 16698 16705	吞 咽 困 难
+T663	IndependentSymptoms 16708 16711	呛 咳
+T664	AnatomicSite 16716 16717	胸
+T665	SymptomsDescribed 16718 16719	闷
+T666	AnatomicSite 16722 16723	心
+T667	SymptomsDescribed 16724 16725	悸
+T668	IndependentSymptoms 16728 16731	气 促
+T669	AnatomicSite 16736 16737	头
+T670	SymptomsDescribed 16738 16739	晕
+T671	AnatomicSite 16742 16743	头
+T672	SymptomsDescribed 16744 16745	痛
+T673	AnatomicSite 16750 16751	腹
+T674	SymptomsDescribed 16752 16753	痛
+T675	AnatomicSite 16756 16757	腹
+T676	SymptomsDescribed 16758 16759	泻
+T677	IndependentSymptoms 16762 16765	恶 心
+T678	IndependentSymptoms 16768 16771	呕 吐
+T679	AnatomicSite 16792 16799	胸 骨 下 段
+T680	SymptomsDescribed 16800 16805	烧 灼 感
+T681	IndependentSymptoms 16826 16833	吞 咽 困 难
+T682	IndependentSymptoms 16838 16841	反 酸
+T683	IndependentSymptoms 16846 16849	嗳 气
+T684	IndependentSymptoms 16852 16855	呕 吐
+T685	AnatomicSite 16860 16861	头
+T686	SymptomsDescribed 16862 16863	晕
+T687	AnatomicSite 16866 16867	头
+T688	SymptomsDescribed 16868 16869	痛
+T689	IndependentSymptoms 16872 16875	晕 厥
+T690	AnatomicSite 16880 16881	腹
+T691	SymptomsDescribed 16882 16883	痛
+T692	AnatomicSite 16886 16887	腹
+T693	SymptomsDescribed 16888 16889	泻
+T694	IndependentSymptoms 16892 16895	黑 便
+T695	AnatomicSite 16962 16965	胃 肠
+T696	AnatomicSite 16976 16977	胃
+T697	AnatomicSite 16996 16999	食 道
+T698	AnatomicSite 17020 17021	胃
+T699	AnatomicSite 17046 17047	肺
+T700	AnatomicSite 17058 17063	主 动 脉
+T701	AnatomicSite 17074 17091	右 侧 第 6 前 肋 腋 前 段
+T702	AnatomicSite 17102 17103	骨
+T703	AnatomicSite 17118 17121	食 管
+T704	IndependentSymptoms 17174 17177	纳 差
+T705	IndependentSymptoms 17182 17185	消 瘦
+T706	IndependentSymptoms 17188 17199	体 重 较 前 减 轻
+T707	AnatomicSite 17266 17273	右 附 件 区
+T708	SymptomsDescribed 17288 17291	包 块
+T709	AnatomicSite 17298 17299	肠
+T710	AnatomicSite 17304 17305	胃
+T711	Operation 17344 17357	肿 瘤 细 胞 减 灭 术
+T712	AnatomicSite 17370 17377	双 侧 卵 巢
+T713	AnatomicSite 17384 17387	乳 头
+T714	AnatomicSite 17404 17413	左 侧 输 卵 管
+T715	AnatomicSite 17416 17421	大 网 膜
+T716	Medicine 17430 17433	卡 铂
+T717	AnatomicSite 17442 17443	腹
+T718	Medicine 17448 17455	多 西 他 赛
+T719	AnatomicSite 17466 17469	静 脉
+T720	Medicine 17506 17509	卡 铂
+T721	Medicine 17520 17527	多 西 他 赛
+T722	AnatomicSite 17538 17541	静 脉
+T723	Operation 17576 17595	卵 巢 癌 肿 瘤 细 胞 减 灭 术
+T724	Operation 17598 17609	腹 腔 热 灌 注 术
+T725	Medicine 17614 17621	多 西 他 赛
+T726	AnatomicSite 17632 17635	静 脉
+T727	Medicine 17788 17791	卡 铂
+T728	Medicine 17794 17801	多 西 他 赛
+T729	Medicine 18030 18035	力 朴 素
+T730	Medicine 18038 18041	鲁 贝
+T731	Medicine 18142 18145	泽 菲
+T732	Medicine 18148 18151	鲁 贝
+T733	Medicine 18200 18203	泽 菲
+T734	Medicine 18206 18209	顺 铂
+T735	AnatomicSite 18314 18315	腹
+T736	SymptomsDescribed 18316 18317	痛
+T737	SymptomsDescribed 18328 18331	刺 痛
+T738	AnatomicSite 18336 18337	腹
+T739	SymptomsDescribed 18338 18339	胀
+T740	AnatomicSite 18342 18343	腰
+T741	SymptomsDescribed 18344 18345	酸
+T742	IndependentSymptoms 18350 18353	发 热
+T743	IndependentSymptoms 18356 18359	恶 心
+T744	IndependentSymptoms 18360 18363	呕 吐
+T745	IndependentSymptoms 18372 18383	腹 围 较 前 增 大
+T746	AnatomicSite 18404 18407	胃 肠
+T747	AnatomicSite 18424 18427	盆 腔
+T748	AnatomicSite 18436 18439	盆 腔
+T749	AnatomicSite 18448 18449	腹
+T750	IndependentSymptoms 18522 18525	痛 经
+T751	AnatomicSite 18606 18609	阴 道
+T752	SymptomsDescribed 18610 18613	流 血
+T753	AnatomicSite 18634 18635	头
+T754	SymptomsDescribed 18636 18637	晕
+T755	AnatomicSite 18638 18639	头
+T756	SymptomsDescribed 18640 18641	迷
+T757	IndependentSymptoms 18650 18653	纳 差
+T758	IndependentSymptoms 18656 18661	饱 腹 感
+T759	IndependentSymptoms 18684 18693	大 便 不 成 形
+T760	IndependentSymptoms 18732 18735	尿 痛
+T761	IndependentSymptoms 18740 18743	尿 频
+T762	IndependentSymptoms 18744 18747	尿 急
+T763	IndependentSymptoms 18750 18757	排 尿 困 难
+T764	IndependentSymptoms 18760 18767	体 重 减 轻
+T765	IndependentSymptoms 18802 18805	反 酸
+T766	IndependentSymptoms 18808 18811	烧 心
+T767	IndependentSymptoms 18836 18839	恶 心
+T768	IndependentSymptoms 18842 18845	呕 吐
+T769	AnatomicSite 18850 18851	腹
+T770	SymptomsDescribed 18852 18853	痛
+T771	AnatomicSite 18856 18857	腹
+T772	SymptomsDescribed 18858 18859	泻
+T773	Medicine 18876 18883	奥 美 拉 唑
+T774	IndependentSymptoms 18934 18937	反 酸
+T775	IndependentSymptoms 18940 18943	烧 心
+T776	AnatomicSite 18962 18963	胃
+T777	AnatomicSite 18978 18979	胃
+T778	Operation 18990 19003	胃 镜 下 息 肉 切 除
+T779	Medicine 19018 19023	洛 赛 克
+T780	Medicine 19026 19031	施 维 舒
+T781	AnatomicSite 19060 19061	胃
+T782	AnatomicSite 19068 19069	胃
+T783	AnatomicSite 19086 19087	胃
+T784	Medicine 19114 19117	达 喜
+T785	IndependentSymptoms 19136 19139	反 酸
+T786	IndependentSymptoms 19142 19145	烧 心
+T787	AnatomicSite 19234 19239	颈 动 脉
+T788	Medicine 19260 19263	可 定
+T789	Medicine 19336 19341	络 活 喜
+T790	AnatomicSite 19468 19471	全 腹
+T791	AnatomicSite 19480 19487	肝 左 内 叶
+T792	AnatomicSite 19490 19493	右 叶
+T793	AnatomicSite 19522 19523	肝
+T794	AnatomicSite 19558 19561	腹 部
+T795	AnatomicSite 19572 19579	肝 左 内 叶
+T796	AnatomicSite 19582 19591	右 前 叶 上 段
+T797	SymptomsDescribed 19622 19625	出 血
+T798	AnatomicSite 19636 19637	肝
+T799	AnatomicSite 19654 19669	肝 右 前 叶 下 段 包 膜
+T800	Operation 19758 19767	肝 癌 切 除 术
+T801	Operation 19770 19779	胆 囊 切 除 术
+T802	AnatomicSite 19794 19797	腹 腔
+T803	AnatomicSite 19802 19803	腹
+T804	AnatomicSite 19808 19811	盆 底
+T805	AnatomicSite 19828 19829	胃
+T806	AnatomicSite 19830 19837	十 二 指 肠
+T807	AnatomicSite 19840 19843	结 肠
+T808	AnatomicSite 19846 19849	直 肠
+T809	AnatomicSite 19862 19865	胆 囊
+T810	AnatomicSite 19900 19903	肝 脏
+T811	AnatomicSite 19906 19907	肝
+T812	AnatomicSite 19922 19937	右 肝 V I I 段 膈 面
+T813	AnatomicSite 19980 19997	肝 左 内 叶 （ I V 段 ）
+T814	AnatomicSite 20000 20015	右 后 叶 （ V I 段 ）
+T815	AnatomicSite 20054 20059	肝 包 膜
+T816	AnatomicSite 20128 20141	肝 十 二 指 肠 韧 带
+T817	AnatomicSite 20152 20157	淋 巴 结
+T818	AnatomicSite 20182 20185	肝 脏
+T819	AnatomicSite 20204 20205	肝
+T820	AnatomicSite 20228 20233	肝 被 膜
+T821	AnatomicSite 20242 20245	左 肝
+T822	AnatomicSite 20270 20273	胆 囊
+T823	AnatomicSite 20284 20287	胆 囊
+T824	AnatomicSite 20342 20343	腹
+T825	SymptomsDescribed 20344 20345	痛
+T826	AnatomicSite 20348 20349	腹
+T827	SymptomsDescribed 20350 20351	胀
+T828	AnatomicSite 20354 20355	腹
+T829	SymptomsDescribed 20356 20357	泻
+T830	IndependentSymptoms 20360 20363	便 秘
+T831	IndependentSymptoms 20368 20371	恶 心
+T832	IndependentSymptoms 20374 20377	呕 吐
+T833	IndependentSymptoms 20380 20383	呕 血
+T834	IndependentSymptoms 20386 20389	黑 便
+T835	IndependentSymptoms 20394 20397	畏 冷
+T836	IndependentSymptoms 20400 20403	发 热
+T837	SymptomsDescribed 20406 20409	不 适
+T838	AnatomicSite 20448 20449	肝
+T839	SymptomsDescribed 20554 20557	跛 行
+T840	SymptomsDescribed 20560 20563	跛 行
+T841	Operation 20612 20631	下 肢 动 脉 内 支 架 置 入 术
+T842	AnatomicSite 20686 20693	髂 总 动 脉
+T843	AnatomicSite 20704 20715	双 侧 髂 总 动 脉
+T844	AnatomicSite 20718 20727	双 侧 股 动 脉
+T845	Operation 20754 20771	下 肢 动 脉 置 管 溶 栓 术
+T846	AnatomicSite 20788 20793	双 下 肢
+T847	SymptomsDescribed 20794 20797	麻 木
+T848	SymptomsDescribed 20800 20803	跛 行
+T849	SymptomsDescribed 20806 20809	跛 行
+T850	AnatomicSite 20826 20831	左 下 肢
+T851	AnatomicSite 20834 20839	右 下 肢
+T852	SymptomsDescribed 20846 20855	夜 间 静 息 痛
+T853	IndependentSymptoms 20986 20989	黑 便
+T854	AnatomicSite 20994 20995	腹
+T855	SymptomsDescribed 20996 20997	胀
+T856	IndependentSymptoms 21000 21007	食 欲 减 低
+T857	AnatomicSite 21012 21013	心
+T858	SymptomsDescribed 21014 21015	慌
+T859	AnatomicSite 21018 21019	胸
+T860	SymptomsDescribed 21020 21021	闷
+T861	IndependentSymptoms 21024 21027	乏 力
+T862	IndependentSymptoms 21036 21039	消 瘦
+T863	AnatomicSite 21048 21049	腹
+T864	SymptomsDescribed 21050 21051	痛
+T865	AnatomicSite 21056 21061	上 腹 部
+T866	SymptomsDescribed 21062 21067	烧 灼 感
+T867	IndependentSymptoms 21084 21091	心 动 过 缓
+T868	AnatomicSite 21104 21105	胃
+T869	AnatomicSite 21134 21141	上 消 化 道
+T870	SymptomsDescribed 21142 21145	出 血
+T871	AnatomicSite 21158 21159	胃
+T872	IndependentSymptoms 21172 21175	黑 便
+T873	IndependentSymptoms 21244 21247	呕 血
+T874	IndependentSymptoms 21302 21305	黑 便
+T875	IndependentSymptoms 21344 21347	黑 便
+T876	AnatomicSite 21378 21383	上 腹 部
+T877	AnatomicSite 21396 21397	胃
+T878	AnatomicSite 21418 21423	胃 粘 膜
+T879	AnatomicSite 21474 21475	胃
+T880	AnatomicSite 21486 21489	胃 窦
+T881	AnatomicSite 21658 21663	上 腹 部
+T882	SymptomsDescribed 21664 21667	不 适
+T883	IndependentSymptoms 21670 21673	恶 心
+T884	IndependentSymptoms 21676 21679	呕 吐
+T885	AnatomicSite 21684 21685	胃
+T886	IndependentSymptoms 21692 21695	咳 嗽
+T887	IndependentSymptoms 21696 21699	咳 痰
+T888	IndependentSymptoms 21754 21761	食 欲 下 降
+T889	IndependentSymptoms 21776 21781	精 神 差
+T890	IndependentSymptoms 21784 21791	睡 眠 欠 佳
+T891	IndependentSymptoms 21796 21803	小 便 量 少
+T892	AnatomicSite 21842 21843	腹
+T893	SymptomsDescribed 21844 21845	痛
+T894	AnatomicSite 21886 21895	肝 内 外 胆 管
+T895	Operation 21974 21983	胆 道 探 查 术
+T896	Operation 21986 21995	T 管 引 流 术
+T897	Operation 21998 22009	胆 道 镜 取 石 术
+T898	Operation 22012 22025	腹 腔 粘 连 松 解 术
+T899	Operation 22028 22037	剖 腹 探 查 术
+T900	AnatomicSite 22120 22127	肝 内 胆 管
+T901	AnatomicSite 22142 22145	胆 道
+T902	AnatomicSite 22156 22163	左 右 肝 管
+T903	AnatomicSite 22222 22223	身
+T904	SymptomsDescribed 22224 22225	黄
+T905	IndependentSymptoms 22226 22229	尿 黄
+T906	AnatomicSite 22234 22237	皮 肤
+T907	AnatomicSite 22238 22241	巩 膜
+T908	SymptomsDescribed 22242 22245	黄 染
+T909	AnatomicSite 22250 22251	腹
+T910	SymptomsDescribed 22252 22253	胀
+T911	AnatomicSite 22254 22255	腹
+T912	SymptomsDescribed 22256 22257	痛
+T913	IndependentSymptoms 22262 22265	恶 心
+T914	IndependentSymptoms 22266 22269	呕 吐
+T915	IndependentSymptoms 22274 22277	呕 血
+T916	IndependentSymptoms 22278 22281	黑 便
+T917	IndependentSymptoms 22286 22289	恶 心
+T918	IndependentSymptoms 22292 22295	厌 油
+T919	IndependentSymptoms 22300 22303	发 热
+T920	IndependentSymptoms 22306 22309	畏 寒
+T921	Operation 22340 22349	胆 道 探 查 术
+T922	AnatomicSite 22406 22407	胃
+T923	IndependentSymptoms 22470 22481	大 便 习 惯 改 变
+T924	AnatomicSite 22484 22489	下 腹 部
+T925	SymptomsDescribed 22490 22497	疼 痛 不 适
+T926	AnatomicSite 22530 22537	乙 状 结 肠
+T927	IndependentSymptoms 22590 22593	发 热
+T928	IndependentSymptoms 22596 22599	恶 心
+T929	IndependentSymptoms 22602 22605	呕 吐
+T930	Operation 22678 22685	剖 腹 探 查
+T931	Operation 22688 22705	乙 状 结 肠 肿 瘤 根 治 术
+T932	Operation 22708 22721	放 射 性 粒 子 置 入
+T933	AnatomicSite 22750 22757	乙 状 结 肠
+T934	AnatomicSite 22786 22793	肠 壁 全 层
+T935	AnatomicSite 22814 22817	神 经
+T936	AnatomicSite 22828 22837	肠 壁 淋 巴 结
+T937	AnatomicSite 22868 22871	腹 腔
+T938	AnatomicSite 22940 22941	腹
+T939	SymptomsDescribed 22942 22943	痛
+T940	AnatomicSite 22946 22947	腹
+T941	SymptomsDescribed 22948 22949	泻
+T942	IndependentSymptoms 22954 22957	恶 心
+T943	IndependentSymptoms 22960 22963	呕 吐
+T944	SymptomsDescribed 23020 23023	不 适
+T945	AnatomicSite 23102 23105	静 脉
+T946	AnatomicSite 23144 23147	腹 部
+T947	AnatomicSite 23172 23175	肝 脏
+T948	Operation 23284 23305	肝 脏 选 择 性 肝 动 脉 造 影 术
+T949	Operation 23308 23345	肝 癌 肿 瘤 滋 养 动 脉 超 选 择 性 插 管 化 疗 栓 塞 术
+T950	AnatomicSite 23384 23391	乙 状 结 肠
+T951	AnatomicSite 23458 23459	胃
+T952	IndependentSymptoms 23466 23477	大 便 次 数 增 多
+T953	IndependentSymptoms 23526 23537	排 便 次 数 增 多
+T954	IndependentSymptoms 23542 23549	里 急 后 重
+T955	AnatomicSite 23566 23569	结 肠
+T956	AnatomicSite 23582 23585	直 肠
+T957	Operation 23604 23617	直 肠 息 肉 切 除 术
+T958	IndependentSymptoms 23652 23663	排 便 次 数 增 多
+T959	IndependentSymptoms 23666 23673	里 急 后 重
+T960	Operation 23726 23739	直 肠 息 肉 切 除 术
+T961	IndependentSymptoms 23882 23889	停 止 排 便
+T962	AnatomicSite 23930 23931	腹
+T963	SymptomsDescribed 23932 23933	胀
+T964	AnatomicSite 23960 23963	腹 部
+T965	AnatomicSite 23996 23999	胃 肠
+T966	AnatomicSite 24010 24011	肠
+T967	AnatomicSite 24016 24019	结 肠
+T968	AnatomicSite 24048 24049	胃
+T969	AnatomicSite 24058 24061	贲 门
+T970	AnatomicSite 24080 24081	胃
+T971	AnatomicSite 24194 24195	腹
+T972	SymptomsDescribed 24196 24197	痛
+T973	AnatomicSite 24200 24201	腹
+T974	SymptomsDescribed 24202 24203	胀
+T975	SymptomsDescribed 24206 24209	不 适
+T976	AnatomicSite 24240 24241	腹
+T977	SymptomsDescribed 24242 24243	胀
+T978	IndependentSymptoms 24260 24263	恶 习
+T979	IndependentSymptoms 24266 24269	呕 吐
+T980	IndependentSymptoms 24274 24277	反 酸
+T981	IndependentSymptoms 24280 24283	烧 心
+T982	IndependentSymptoms 24288 24291	发 热
+T983	IndependentSymptoms 24294 24297	寒 战
+T984	AnatomicSite 24302 24303	腹
+T985	SymptomsDescribed 24304 24305	痛
+T986	AnatomicSite 24308 24309	腹
+T987	SymptomsDescribed 24310 24311	泻
+T988	AnatomicSite 24348 24351	结 肠
+T989	AnatomicSite 24362 24363	腹
+T990	SymptomsDescribed 24364 24365	胀
+T991	IndependentSymptoms 24428 24435	体 重 下 降
+T992	AnatomicSite 24476 24479	食 道
+T993	AnatomicSite 24500 24509	食 道 胸 中 段
+T994	Operation 24624 24647	经 右 胸 三 切 口 部 分 食 管 切 除
+T995	Operation 24650 24665	胃 食 管 左 颈 吻 合 术
+T996	AnatomicSite 24738 24741	右 颈
+T997	AnatomicSite 24750 24755	淋 巴 结
+T998	AnatomicSite 24760 24769	右 颈 淋 巴 结
+T999	IndependentSymptoms 24912 24915	恶 性
+T1000	IndependentSymptoms 24918 24921	呕 吐
+T1001	AnatomicSite 24924 24925	腹
+T1002	SymptomsDescribed 24926 24927	痛
+T1003	AnatomicSite 24930 24931	腹
+T1004	SymptomsDescribed 24932 24933	胀
+T1005	SymptomsDescribed 24936 24939	不 适
+T1006	AnatomicSite 25020 25021	腹
+T1007	SymptomsDescribed 25022 25023	痛
+T1008	AnatomicSite 25026 25031	中 上 腹
+T1009	SymptomsDescribed 25032 25035	隐 痛
+T1010	AnatomicSite 25052 25053	腹
+T1011	SymptomsDescribed 25054 25055	胀
+T1012	AnatomicSite 25056 25057	腹
+T1013	SymptomsDescribed 25058 25059	泻
+T1014	IndependentSymptoms 25062 25065	恶 心
+T1015	IndependentSymptoms 25066 25069	呕 吐
+T1016	IndependentSymptoms 25076 25079	反 酸
+T1017	IndependentSymptoms 25080 25083	嗳 气
+T1018	AnatomicSite 25090 25091	胸
+T1019	SymptomsDescribed 25092 25093	痛
+T1020	AnatomicSite 25094 25095	胸
+T1021	SymptomsDescribed 25096 25097	闷
+T1022	IndependentSymptoms 25100 25103	畏 寒
+T1023	IndependentSymptoms 25104 25107	发 热
+T1024	AnatomicSite 25110 25111	腹
+T1025	SymptomsDescribed 25112 25113	痛
+T1026	AnatomicSite 25172 25173	腹
+T1027	SymptomsDescribed 25174 25175	痛
+T1028	AnatomicSite 25186 25191	中 上 腹
+T1029	SymptomsDescribed 25206 25209	剧 痛
+T1030	AnatomicSite 25218 25219	腹
+T1031	SymptomsDescribed 25220 25221	胀
+T1032	AnatomicSite 25222 25223	腹
+T1033	SymptomsDescribed 25224 25225	泻
+T1034	IndependentSymptoms 25228 25231	恶 心
+T1035	IndependentSymptoms 25232 25235	呕 吐
+T1036	IndependentSymptoms 25238 25241	反 酸
+T1037	IndependentSymptoms 25242 25245	嗳 气
+T1038	AnatomicSite 25248 25249	胸
+T1039	SymptomsDescribed 25250 25251	痛
+T1040	AnatomicSite 25252 25253	胸
+T1041	SymptomsDescribed 25254 25255	闷
+T1042	IndependentSymptoms 25258 25261	畏 寒
+T1043	IndependentSymptoms 25262 25265	发 热
+T1044	Medicine 25296 25305	盐 酸 曲 马 多
+T1045	Medicine 25308 25315	山 莨 菪 碱
+T1046	AnatomicSite 25324 25325	腹
+T1047	SymptomsDescribed 25326 25327	痛
+T1048	AnatomicSite 25344 25345	胃
+T1049	AnatomicSite 25358 25361	食 管
+T1050	AnatomicSite 25372 25379	食 管 粘 膜
+T1051	SymptomsDescribed 25410 25413	出 血
+T1052	AnatomicSite 25418 25419	胃
+T1053	AnatomicSite 25422 25433	十 二 指 肠 球 部
+T1054	AnatomicSite 25448 25451	腹 部
+T1055	AnatomicSite 25462 25463	肝
+T1056	AnatomicSite 25482 25485	右 肾
+T1057	AnatomicSite 25512 25513	胆
+T1058	AnatomicSite 25516 25517	胰
+T1059	AnatomicSite 25520 25521	脾
+T1060	AnatomicSite 25524 25527	左 肾
+T1061	AnatomicSite 25564 25571	食 管 粘 膜
+T1062	IndependentSymptoms 25624 25631	食 欲 减 退
+T1063	IndependentSymptoms 25646 25653	精 神 欠 佳
+T1064	AnatomicSite 25742 25745	腹 部
+T1065	AnatomicSite 25768 25771	全 腹
+T1066	AnatomicSite 25784 25787	盆 腔
+T1067	AnatomicSite 25802 25805	卵 巢
+T1068	AnatomicSite 25840 25851	肝 右 前 叶 下 段
+T1069	AnatomicSite 25896 25905	肠 系 膜 根 部
+T1070	AnatomicSite 25910 25915	淋 巴 结
+T1071	AnatomicSite 25926 25929	盆 腔
+T1072	AnatomicSite 25952 25955	卵 巢
+T1073	Operation 25992 26015	腹 腔 镜 镜 下 卵 巢 囊 肿 剥 除 术
+T1074	IndependentSymptoms 26144 26147	痛 经
+T1075	AnatomicSite 26190 26195	左 卵 巢
+T1076	AnatomicSite 26286 26289	卵 巢
+T1077	AnatomicSite 26444 26449	中 上 腹
+T1078	SymptomsDescribed 26450 26451	痛
+T1079	AnatomicSite 26502 26505	胰 腺
+T1080	Operation 26540 26555	胰 十 二 指 肠 切 除 术
+T1081	AnatomicSite 26578 26589	（ 胰 腺 ） 导 管
+T1082	AnatomicSite 26606 26611	胆 管 壁
+T1083	AnatomicSite 26630 26637	十 二 指 肠
+T1084	AnatomicSite 26640 26641	胃
+T1085	AnatomicSite 26664 26667	胆 囊
+T1086	AnatomicSite 26672 26675	胆 囊
+T1087	AnatomicSite 26688 26703	（ 肝 门 部 ） 淋 巴 结
+T1088	AnatomicSite 26752 26753	肝
+T1089	Medicine 26796 26803	尼 莫 斯 汀
+T1090	SymptomsDescribed 26852 26855	不 适
+T1091	Operation 26948 26963	胰 十 二 指 肠 切 除 术
+T1092	AnatomicSite 27116 27117	腹
+T1093	SymptomsDescribed 27118 27119	痛
+T1094	SymptomsDescribed 27144 27147	绞 痛
+T1095	SymptomsDescribed 27164 27169	放 射 痛
+T1096	IndependentSymptoms 27234 27237	恶 心
+T1097	IndependentSymptoms 27240 27243	纳 差
+T1098	AnatomicSite 27246 27247	腹
+T1099	SymptomsDescribed 27248 27249	胀
+T1100	IndependentSymptoms 27252 27255	反 酸
+T1101	IndependentSymptoms 27258 27261	烧 心
+T1102	AnatomicSite 27264 27265	腹
+T1103	SymptomsDescribed 27266 27267	泻
+T1104	IndependentSymptoms 27270 27273	恶 心
+T1105	AnatomicSite 27280 27281	腹
+T1106	IndependentSymptoms 27292 27295	呕 吐
+T1107	IndependentSymptoms 27300 27303	呕 血
+T1108	AnatomicSite 27342 27343	头
+T1109	SymptomsDescribed 27344 27345	晕
+T1110	IndependentSymptoms 27348 27351	黑 曚
+T1111	IndependentSymptoms 27354 27357	晕 厥
+T1112	AnatomicSite 27360 27361	心
+T1113	SymptomsDescribed 27362 27363	悸
+T1114	IndependentSymptoms 27366 27369	出 汗
+T1115	AnatomicSite 27380 27381	胃
+T1116	AnatomicSite 27392 27395	胃 底
+T1117	AnatomicSite 27452 27455	胃 底
+T1118	AnatomicSite 27586 27589	腹 部
+T1119	SymptomsDescribed 27590 27593	胀 痛
+T1120	AnatomicSite 27646 27649	盲 肠
+T1121	AnatomicSite 27714 27717	盲 肠
+T1122	AnatomicSite 27770 27773	管 腔
+T1123	AnatomicSite 27784 27791	近 端 小 肠
+T1124	AnatomicSite 27806 27809	盲 肠
+T1125	AnatomicSite 27820 27821	肠
+T1126	Operation 27832 27849	根 治 性 右 半 结 肠 切 除
+T1127	Operation 27852 27867	区 域 淋 巴 结 清 扫 术
+T1128	AnatomicSite 27900 27903	盲 肠
+T1129	AnatomicSite 27942 27949	肠 壁 全 层
+T1130	AnatomicSite 27952 27955	脉 管
+T1131	AnatomicSite 27958 27961	神 经
+T1132	AnatomicSite 27994 28003	肠 壁 淋 巴 结
+T1133	AnatomicSite 28056 28061	右 下 腹
+T1134	SymptomsDescribed 28062 28069	疼 痛 不 适
+T1135	SymptomsDescribed 28080 28083	绞 痛
+T1136	AnatomicSite 28096 28099	身 体
+T1137	IndependentSymptoms 28128 28131	恶 心
+T1138	IndependentSymptoms 28134 28137	呕 吐
+T1139	IndependentSymptoms 28140 28143	畏 寒
+T1140	IndependentSymptoms 28146 28149	发 热
+T1141	AnatomicSite 28152 28155	肛 门
+T1142	AnatomicSite 28188 28189	腹
+T1143	SymptomsDescribed 28190 28191	痛
+T1144	SymptomsDescribed 28226 28233	胀 痛 不 适
+T1145	SymptomsDescribed 28250 28253	不 适
+T1146	AnatomicSite 28294 28295	腹
+T1147	SymptomsDescribed 28296 28297	痛
+T1148	AnatomicSite 28368 28369	胃
+T1149	IndependentSymptoms 28370 28373	纳 差
+T1150	AnatomicSite 28424 28427	肛 门
+T1151	SymptomsDescribed 28428 28431	坠 胀
+T1152	AnatomicSite 28438 28441	肛 肠
+T1153	AnatomicSite 28446 28447	肠
+T1154	AnatomicSite 28460 28463	结 肠
+T1155	AnatomicSite 28476 28477	腹
+T1156	SymptomsDescribed 28478 28479	泻
+T1157	IndependentSymptoms 28482 28485	便 血
+T1158	IndependentSymptoms 28488 28491	黑 便
+T1159	IndependentSymptoms 28496 28499	畏 寒
+T1160	IndependentSymptoms 28502 28505	发 热
+T1161	IndependentSymptoms 28510 28513	恶 心
+T1162	IndependentSymptoms 28516 28519	呕 吐
+T1163	AnatomicSite 28530 28531	腰
+T1164	SymptomsDescribed 28532 28533	痛
+T1165	AnatomicSite 28538 28539	眼
+T1166	IndependentSymptoms 28540 28543	血 尿
+T1167	IndependentSymptoms 28546 28549	尿 频
+T1168	IndependentSymptoms 28552 28555	尿 急
+T1169	IndependentSymptoms 28558 28561	尿 痛
+T1170	IndependentSymptoms 28566 28573	白 带 异 常
+T1171	Operation 28618 28637	肠 镜 下 结 肠 息 肉 切 除 术
+T1172	AnatomicSite 28664 28667	结 肠
+T1173	AnatomicSite 28794 28795	肝
+T1174	Operation 28846 28883	特 殊 肝 段 切 除 术 （ I V 、 V 、 V I I I 段 ）
+T1175	Operation 28886 28895	胆 囊 切 除 术
+T1176	Operation 28898 28929	肝 十 二 指 肠 韧 带 内 肿 大 淋 巴 结 切 除 术
+T1177	AnatomicSite 28946 28951	肝 右 叶
+T1178	AnatomicSite 28956 28963	肝 内 胆 管
+T1179	AnatomicSite 28978 28979	肝
+T1180	AnatomicSite 29008 29009	肝
+T1181	AnatomicSite 29018 29019	肝
+T1182	AnatomicSite 29042 29045	胆 囊
+T1183	AnatomicSite 29060 29069	肝 门 淋 巴 结
+T1184	SymptomsDescribed 29126 29129	不 适
+T1185	Medicine 29170 29181	盐 酸 吉 西 他 滨
+T1186	Medicine 29184 29191	奥 沙 利 铂
+T1187	SymptomsDescribed 29210 29213	不 适
+T1188	Medicine 29256 29267	盐 酸 吉 西 他 滨
+T1189	SymptomsDescribed 29286 29289	不 适
+T1190	AnatomicSite 29394 29397	下 腹
+T1191	SymptomsDescribed 29398 29401	剧 痛
+T1192	IndependentSymptoms 29406 29409	恶 心
+T1193	IndependentSymptoms 29410 29413	呕 吐
+T1194	IndependentSymptoms 29418 29421	发 热
+T1195	SymptomsDescribed 29422 29425	发 冷
+T1196	Operation 29478 29493	乙 状 结 肠 癌 根 治 术
+T1197	Operation 29496 29515	远 端 闭 锁 ， 近 端 造 瘘 术
+T1198	AnatomicSite 29580 29585	淋 巴 结
+T1199	Medicine 29654 29657	艾 恒
+T1200	Medicine 29674 29679	希 罗 达
+T1201	AnatomicSite 29698 29699	口
+T1202	SymptomsDescribed 29724 29727	不 适
+T1203	AnatomicSite 29796 29799	周 身
+T1204	SymptomsDescribed 29802 29803	痛
+T1205	Operation 29874 29895	姑 息 性 乙 状 结 肠 癌 切 除 术
+T1206	AnatomicSite 29904 29909	大 网 膜
+T1207	AnatomicSite 29956 29959	盆 底
+T1208	AnatomicSite 29960 29963	腹 膜
+T1209	AnatomicSite 29988 29995	乙 状 结 肠
+T1210	Operation 30034 30053	姑 息 性 乙 状 结 肠 切 除 术
+T1211	AnatomicSite 30056 30065	降 结 肠 末 端
+T1212	AnatomicSite 30072 30079	直 肠 远 端
+T1213	AnatomicSite 30092 30095	腹 壁
+T1214	AnatomicSite 30102 30107	降 结 肠
+T1215	Operation 30122 30133	横 结 肠 造 口 术
+T1216	AnatomicSite 30144 30151	乙 状 结 肠
+T1217	AnatomicSite 30228 30229	肠
+T1218	AnatomicSite 30250 30253	脉 管
+T1219	AnatomicSite 30260 30269	肠 周 淋 巴 结
+T1220	AnatomicSite 30314 30317	结 肠
+T1221	AnatomicSite 30338 30343	横 结 肠
+T1222	IndependentSymptoms 30382 30385	发 热
+T1223	AnatomicSite 30550 30555	横 结 肠
+T1224	IndependentSymptoms 30560 30565	血 性 便
+T1225	AnatomicSite 30570 30573	肛 门
+T1226	IndependentSymptoms 30578 30583	血 性 便
+T1227	SymptomsDescribed 30684 30687	红 肿
+T1228	SymptomsDescribed 30688 30691	破 溃
+T1229	AnatomicSite 30728 30733	横 结 肠
+T1230	AnatomicSite 30754 30757	肛 门
+T1231	IndependentSymptoms 30768 30771	稀 便
+T1232	SymptomsDescribed 30788 30791	渗 出
+T1233	AnatomicSite 30800 30803	小 肠
+T1234	IndependentSymptoms 30820 30835	体 温 仍 有 间 断 升 高
+T1235	IndependentSymptoms 30986 31001	体 重 较 手 术 时 下 降
+T1236	AnatomicSite 31052 31055	下 腹
+T1237	SymptomsDescribed 31056 31059	胀 痛
+T1238	Operation 31112 31131	大 网 膜 穿 刺 病 理 检 查 术
+T1239	AnatomicSite 31166 31171	大 网 膜
+T1240	AnatomicSite 31214 31219	胃 肠 道
+T1241	AnatomicSite 31236 31239	胃 肠
+T1242	AnatomicSite 31300 31305	胃 肠 道
+T1243	IndependentSymptoms 31350 31353	恶 心
+T1244	AnatomicSite 31408 31411	阴 道
+T1245	SymptomsDescribed 31412 31415	流 血
+T1246	IndependentSymptoms 31428 31431	发 热
+T1247	AnatomicSite 31436 31437	头
+T1248	SymptomsDescribed 31438 31439	晕
+T1249	AnatomicSite 31440 31441	头
+T1250	SymptomsDescribed 31442 31443	迷
+T1251	AnatomicSite 31450 31451	腹
+T1252	SymptomsDescribed 31452 31453	胀
+T1253	AnatomicSite 31456 31457	胃
+T1254	SymptomsDescribed 31458 31459	胀
+T1255	AnatomicSite 31480 31485	下 腹 部
+T1256	SymptomsDescribed 31486 31491	坠 胀 感
+T1257	AnatomicSite 31512 31515	下 肢
+T1258	SymptomsDescribed 31516 31519	水 肿
+T1259	IndependentSymptoms 31534 31537	纳 差
+T1260	AnatomicSite 31580 31583	胆 囊
+T1261	AnatomicSite 31598 31601	气 管
+T1262	Operation 31614 31627	腹 腔 镜 胆 囊 切 除
+T1263	Operation 31630 31643	胆 总 管 切 开 取 石
+T1264	Operation 31646 31655	T 管 引 流 术
+T1265	AnatomicSite 31728 31731	胆 囊
+T1266	AnatomicSite 31742 31745	胆 囊
+T1267	AnatomicSite 31814 31815	口
+T1268	AnatomicSite 31838 31847	胆 石 利 通 片
+T1269	AnatomicSite 31878 31879	口
+T1270	AnatomicSite 31898 31903	上 腹 部
+T1271	SymptomsDescribed 31904 31911	疼 痛 不 适
+T1272	IndependentSymptoms 31916 31919	恶 心
+T1273	IndependentSymptoms 31920 31923	呕 吐
+T1274	IndependentSymptoms 31928 31931	寒 战
+T1275	IndependentSymptoms 31932 31935	发 热
+T1276	AnatomicSite 31940 31945	腰 背 部
+T1277	SymptomsDescribed 31946 31951	放 射 痛
+T1278	Operation 32008 32017	胆 囊 切 除 术
+T1279	IndependentSymptoms 32090 32097	体 重 减 轻
+T1280	AnatomicSite 32148 32151	上 腹
+T1281	SymptomsDescribed 32152 32155	隐 痛
+T1282	AnatomicSite 32188 32193	腰 背 部
+T1283	IndependentSymptoms 32224 32227	泛 酸
+T1284	IndependentSymptoms 32232 32235	呕 吐
+T1285	IndependentSymptoms 32238 32241	呕 血
+T1286	AnatomicSite 32246 32247	腹
+T1287	SymptomsDescribed 32248 32249	泻
+T1288	AnatomicSite 32252 32253	腹
+T1289	SymptomsDescribed 32254 32255	胀
+T1290	IndependentSymptoms 32260 32263	黑 便
+T1291	IndependentSymptoms 32266 32269	便 血
+T1292	IndependentSymptoms 32272 32277	粘 液 便
+T1293	Medicine 32286 32293	奥 美 拉 唑
+T1294	SymptomsDescribed 32322 32325	疼 痛
+T1295	IndependentSymptoms 32336 32339	呕 吐
+T1296	IndependentSymptoms 32358 32361	黑 便
+T1297	AnatomicSite 32386 32387	胃
+T1298	AnatomicSite 32398 32401	胃 窦
+T1299	AnatomicSite 32438 32441	胃 胰
+T1300	Operation 32448 32457	剖 腹 探 查 术
+T1301	Operation 32460 32471	胃 空 肠 吻 合 术
+T1302	AnatomicSite 32490 32495	胃 窦 部
+T1303	AnatomicSite 32526 32529	胰 头
+T1304	AnatomicSite 32534 32543	胃 周 淋 巴 结
+T1305	AnatomicSite 32560 32563	幽 门
+T1306	Medicine 32666 32673	行 乐 沙 定
+T1307	Medicine 32676 32681	爱 斯 万
+T1308	AnatomicSite 32726 32733	右 侧 上 肢
+T1309	SymptomsDescribed 32734 32737	麻 木
+T1310	SymptomsDescribed 32740 32743	疼 痛
+T1311	IndependentSymptoms 32776 32779	恶 心
+T1312	IndependentSymptoms 32782 32785	呕 吐
+T1313	AnatomicSite 32788 32789	腹
+T1314	SymptomsDescribed 32790 32791	痛
+T1315	AnatomicSite 32794 32795	腹
+T1316	SymptomsDescribed 32796 32797	泻
+T1317	AnatomicSite 32830 32831	胃
+T1318	AnatomicSite 32842 32847	胃 窦 部
+T1319	AnatomicSite 32862 32867	肝 门 区
+T1320	AnatomicSite 32870 32875	腹 腔 干
+T1321	AnatomicSite 32882 32889	门 腔 间 隙
+T1322	AnatomicSite 32894 32899	淋 巴 结
+T1323	AnatomicSite 32912 32915	双 肺
+T1324	AnatomicSite 32930 32933	纵 隔
+T1325	AnatomicSite 32936 32941	右 肺 门
+T1326	AnatomicSite 32948 32953	淋 巴 结
+T1327	AnatomicSite 32956 32959	右 肾
+T1328	AnatomicSite 32966 32969	副 脾
+T1329	AnatomicSite 32972 32975	盆 腔
+T1330	IndependentSymptoms 33058 33065	食 欲 下 降
+T1331	AnatomicSite 33128 33131	肛 门
+T1332	IndependentSymptoms 33132 33139	排 气 增 多
+T1333	AnatomicSite 33164 33165	腹
+T1334	SymptomsDescribed 33166 33167	痛
+T1335	IndependentSymptoms 33170 33173	呕 吐
+T1336	IndependentSymptoms 33216 33223	消 化 不 良
+T1337	AnatomicSite 33278 33279	腹
+T1338	SymptomsDescribed 33280 33281	胀
+T1339	AnatomicSite 33286 33287	腹
+T1340	SymptomsDescribed 33288 33289	痛
+T1341	AnatomicSite 33292 33295	肛 门
+T1342	IndependentSymptoms 33296 33307	排 气 较 前 增 多
+T1343	IndependentSymptoms 33312 33315	发 热
+T1344	AnatomicSite 33320 33321	腹
+T1345	SymptomsDescribed 33322 33323	泻
+T1346	IndependentSymptoms 33326 33329	呕 吐
+T1347	AnatomicSite 33368 33369	腹
+T1348	SymptomsDescribed 33370 33371	胀
+T1349	AnatomicSite 33404 33407	腹 部
+T1350	AnatomicSite 33422 33425	肠 腔
+T1351	AnatomicSite 33436 33439	腹 部
+T1352	Medicine 33470 33475	开 塞 露
+T1353	AnatomicSite 33476 33479	胃 肠
+T1354	AnatomicSite 33506 33507	腹
+T1355	SymptomsDescribed 33508 33509	胀
+T1356	AnatomicSite 33532 33533	腹
+T1357	SymptomsDescribed 33534 33535	胀
+T1358	IndependentSymptoms 33610 33613	嗝 逆
+T1359	IndependentSymptoms 33616 33619	返 酸
+T1360	IndependentSymptoms 33628 33631	呕 吐
+T1361	AnatomicSite 33648 33649	胃
+T1362	AnatomicSite 33662 33665	食 管
+T1363	AnatomicSite 33736 33739	胸 部
+T1364	AnatomicSite 33742 33747	上 腹 部
+T1365	Operation 33750 33761	食 管 癌 根 治 术
+T1366	AnatomicSite 33780 33783	静 脉
+T1367	AnatomicSite 33808 33811	胸 部
+T1368	AnatomicSite 33814 33817	腹 部
+T1369	AnatomicSite 33878 33881	食 管
+T1370	AnatomicSite 33974 33979	淋 巴 结
+T1371	Medicine 34168 34173	奈 达 铂
+T1372	Medicine 34176 34183	吉 西 他 滨
+T1373	AnatomicSite 34204 34205	肝
+T1374	IndependentSymptoms 34220 34221	吐
+T1375	AnatomicSite 34278 34281	肝 肾
+T1376	AnatomicSite 34350 34351	胸
+T1377	SymptomsDescribed 34352 34353	闷
+T1378	IndependentSymptoms 34354 34357	憋 气
+T1379	IndependentSymptoms 34362 34369	呼 吸 困 难
+T1380	IndependentSymptoms 34374 34377	恶 心
+T1381	IndependentSymptoms 34378 34381	呕 吐
+T1382	IndependentSymptoms 34386 34393	进 食 阻 挡
+T1383	AnatomicSite 34398 34399	腹
+T1384	SymptomsDescribed 34400 34401	胀
+T1385	AnatomicSite 34402 34403	腹
+T1386	SymptomsDescribed 34404 34405	泻
+T1387	AnatomicSite 34406 34407	腹
+T1388	SymptomsDescribed 34408 34409	痛
+T1389	IndependentSymptoms 34444 34457	体 重 较 术 前 减 轻
+T1390	AnatomicSite 34480 34483	直 肠
+T1391	AnatomicSite 34512 34515	腹 膜
+T1392	Operation 34558 34565	剖 腹 探 查
+T1393	Operation 34568 34581	直 肠 癌 根 治 术 （
+T1394	Operation 34582 34599	H A R T M A N N 术
+T1395	Operation 34604 34615	肠 粘 连 松 解 术
+T1396	AnatomicSite 34644 34647	直 肠
+T1397	AnatomicSite 34676 34683	肠 壁 全 层
+T1398	AnatomicSite 34686 34689	脉 管
+T1399	AnatomicSite 34692 34695	神 经
+T1400	AnatomicSite 34726 34735	肠 壁 淋 巴 结
+T1401	IndependentSymptoms 34798 34801	恶 心
+T1402	IndependentSymptoms 34802 34805	呕 吐
+T1403	AnatomicSite 34808 34811	身 体
+T1404	AnatomicSite 34836 34839	全 身
+T1405	AnatomicSite 34840 34843	静 脉
+T1406	AnatomicSite 34858 34861	直 肠
+T1407	AnatomicSite 34922 34923	胃
+T1408	AnatomicSite 35022 35027	上 腹 部
+T1409	SymptomsDescribed 35028 35031	闷 痛
+T1410	AnatomicSite 35068 35069	胃
+T1411	AnatomicSite 35086 35087	胃
+T1412	AnatomicSite 35094 35095	肠
+T1413	AnatomicSite 35102 35105	直 肠
+T1414	IndependentSymptoms 35148 35151	恶 心
+T1415	IndependentSymptoms 35154 35157	呕 吐
+T1416	IndependentSymptoms 35162 35165	呕 血
+T1417	IndependentSymptoms 35172 35179	柏 油 样 便
+T1418	IndependentSymptoms 35184 35191	食 欲 减 退
+T1419	IndependentSymptoms 35196 35199	多 汗
+T1420	AnatomicSite 35202 35203	心
+T1421	SymptomsDescribed 35204 35205	悸
+T1422	IndependentSymptoms 35208 35211	手 抖
+T1423	IndependentSymptoms 35216 35219	多 饮
+T1424	IndependentSymptoms 35222 35225	多 尿
+T1425	IndependentSymptoms 35234 35237	消 瘦
+T1426	IndependentSymptoms 35242 35245	乏 力
+T1427	Operation 35282 35301	内 镜 下 直 肠 息 肉 切 除 术
+T1428	AnatomicSite 35328 35331	大 肠
+T1429	AnatomicSite 35332 35335	乳 头
+T1430	AnatomicSite 35450 35453	直 肠
+T1431	AnatomicSite 35558 35563	上 腹 部
+T1432	SymptomsDescribed 35564 35567	隐 痛
+T1433	SymptomsDescribed 35568 35575	隐 痛 不 适
+T1434	AnatomicSite 35592 35593	头
+T1435	SymptomsDescribed 35594 35595	痛
+T1436	AnatomicSite 35598 35599	头
+T1437	SymptomsDescribed 35600 35601	晕
+T1438	IndependentSymptoms 35606 35609	咳 嗽
+T1439	IndependentSymptoms 35612 35615	咳 痰
+T1440	AnatomicSite 35620 35621	心
+T1441	SymptomsDescribed 35622 35623	慌
+T1442	AnatomicSite 35626 35627	胸
+T1443	SymptomsDescribed 35628 35629	闷
+T1444	AnatomicSite 35632 35633	胸
+T1445	SymptomsDescribed 35634 35635	痛
+T1446	IndependentSymptoms 35640 35643	反 酸
+T1447	IndependentSymptoms 35646 35649	嗳 气
+T1448	IndependentSymptoms 35654 35657	恶 心
+T1449	IndependentSymptoms 35660 35663	呕 吐
+T1450	AnatomicSite 35668 35669	腹
+T1451	SymptomsDescribed 35670 35671	胀
+T1452	AnatomicSite 35674 35675	腹
+T1453	SymptomsDescribed 35676 35677	泻
+T1454	IndependentSymptoms 35682 35685	尿 频
+T1455	IndependentSymptoms 35688 35691	尿 急
+T1456	IndependentSymptoms 35694 35697	尿 痛
+T1457	IndependentSymptoms 35702 35705	发 热
+T1458	IndependentSymptoms 35708 35711	畏 寒
+T1459	IndependentSymptoms 35714 35717	寒 战
+T1460	AnatomicSite 35730 35733	结 肠
+T1461	AnatomicSite 35746 35749	结 肠
+T1462	Operation 35764 35779	内 镜 下 息 肉 切 除 术
+T1463	Operation 35820 35837	肠 息 肉 内 镜 下 切 除 术
+T1464	Operation 35960 35969	剖 腹 探 查 术
+T1465	Operation 35972 35993	姑 息 性 降 结 肠 肿 瘤 切 除 术
+T1466	Operation 35996 36019	降 结 远 端 封 闭 、 近 端 造 口 术
+T1467	AnatomicSite 36048 36055	乙 状 结 肠
+T1468	AnatomicSite 36104 36107	肠 壁
+T1469	AnatomicSite 36114 36115	肠
+T1470	AnatomicSite 36124 36127	脉 管
+T1471	AnatomicSite 36130 36133	神 经
+T1472	AnatomicSite 36164 36169	淋 巴 结
+T1473	AnatomicSite 36204 36211	乙 状 结 肠
+T1474	AnatomicSite 36246 36249	胃 肠
+T1475	AnatomicSite 36296 36299	全 身
+T1476	AnatomicSite 36300 36303	静 脉
+T1477	IndependentSymptoms 36324 36331	食 欲 减 退
+T1478	IndependentSymptoms 36334 36337	恶 心
+T1479	IndependentSymptoms 36338 36341	呕 吐
+T1480	AnatomicSite 36446 36447	胃
+T1481	AnatomicSite 36524 36527	上 腹
+T1482	SymptomsDescribed 36528 36529	痛
+T1483	IndependentSymptoms 36578 36581	恶 心
+T1484	IndependentSymptoms 36584 36587	呕 吐
+T1485	IndependentSymptoms 36592 36595	畏 冷
+T1486	IndependentSymptoms 36598 36601	发 热
+T1487	AnatomicSite 36614 36615	腹
+T1488	SymptomsDescribed 36616 36617	胀
+T1489	AnatomicSite 36620 36621	腹
+T1490	SymptomsDescribed 36622 36623	泻
+T1491	IndependentSymptoms 36628 36635	稀 水 样 便
+T1492	IndependentSymptoms 36638 36641	血 便
+T1493	AnatomicSite 36660 36661	胃
+T1494	AnatomicSite 36722 36723	胃
+T1495	AnatomicSite 36746 36747	胃
+T1496	AnatomicSite 36752 36763	十 二 指 肠 球 部
+T1497	AnatomicSite 36788 36791	上 腹
+T1498	SymptomsDescribed 36792 36793	痛
+T1499	AnatomicSite 36816 36817	腹
+T1500	SymptomsDescribed 36818 36819	痛
+T1501	AnatomicSite 36868 36869	胃
+T1502	AnatomicSite 36874 36885	十 二 指 肠 球 部
+T1503	AnatomicSite 37024 37025	腹
+T1504	SymptomsDescribed 37026 37027	胀
+T1505	Operation 37050 37071	腹 腔 镜 下 盆 腔 粘 连 分 离 术
+T1506	Operation 37074 37089	左 侧 输 卵 管 切 除 术
+T1507	Operation 37092 37109	右 侧 卵 巢 囊 肿 剥 除 术
+T1508	Operation 37112 37125	腹 膜 病 灶 活 检 术
+T1509	AnatomicSite 37148 37155	左 输 卵 管
+T1510	AnatomicSite 37176 37179	腹 膜
+T1511	AnatomicSite 37216 37219	乳 头
+T1512	AnatomicSite 37234 37239	右 卵 巢
+T1513	AnatomicSite 37242 37249	子 宫 内 膜
+T1514	AnatomicSite 37276 37279	腹 膜
+T1515	IndependentSymptoms 37318 37321	恶 心
+T1516	IndependentSymptoms 37324 37327	呕 吐
+T1517	IndependentSymptoms 37332 37335	脱 发
+T1518	IndependentSymptoms 37502 37513	大 便 次 数 增 多
+T1519	AnatomicSite 37560 37563	肛 门
+T1520	SymptomsDescribed 37564 37567	坠 胀
+T1521	IndependentSymptoms 37570 37577	里 急 后 重
+T1522	AnatomicSite 37584 37589	左 侧 腹
+T1523	SymptomsDescribed 37590 37591	胀
+T1524	AnatomicSite 37606 37607	腹
+T1525	SymptomsDescribed 37608 37609	痛
+T1526	AnatomicSite 37612 37613	腹
+T1527	SymptomsDescribed 37614 37615	泻
+T1528	IndependentSymptoms 37620 37623	呕 血
+T1529	IndependentSymptoms 37626 37629	黑 便
+T1530	AnatomicSite 37634 37635	头
+T1531	SymptomsDescribed 37636 37637	晕
+T1532	AnatomicSite 37640 37641	头
+T1533	SymptomsDescribed 37642 37643	痛
+T1534	IndependentSymptoms 37646 37649	发 热
+T1535	AnatomicSite 37696 37699	直 肠
+T1536	Operation 37740 37759	腹 腔 镜 直 肠 癌 根 治 术 （
+T1537	Operation 37760 37771	M I L E S 术
+T1538	Operation 37776 37787	肠 粘 连 松 解 术
+T1539	Medicine 37840 37847	奥 沙 利 铂
+T1540	Medicine 37850 37857	卡 培 他 滨
+T1541	SymptomsDescribed 37880 37883	不 适
+T1542	AnatomicSite 37922 37925	直 肠
+T1543	AnatomicSite 38044 38049	上 腹 部
+T1544	SymptomsDescribed 38050 38053	包 块
+T1545	SymptomsDescribed 38070 38073	疼 痛
+T1546	AnatomicSite 38078 38079	腹
+T1547	SymptomsDescribed 38080 38081	胀
+T1548	IndependentSymptoms 38084 38087	嗳 气
+T1549	IndependentSymptoms 38104 38107	恶 心
+T1550	IndependentSymptoms 38108 38111	呕 吐
+T1551	IndependentSymptoms 38116 38119	发 热
+T1552	AnatomicSite 38160 38163	下 腹
+T1553	AnatomicSite 38166 38169	前 胸
+T1554	AnatomicSite 38172 38177	右 肩 部
+T1555	SymptomsDescribed 38178 38181	疼 痛
+T1556	AnatomicSite 38208 38209	胃
+T1557	AnatomicSite 38224 38227	胃 角
+T1558	AnatomicSite 38264 38267	腹 部
+T1559	AnatomicSite 38274 38275	胃
+T1560	AnatomicSite 38280 38283	腹 腔
+T1561	AnatomicSite 38284 38287	盆 腔
+T1562	IndependentSymptoms 38350 38353	发 热
+T1563	AnatomicSite 38374 38375	腹
+T1564	SymptomsDescribed 38376 38377	胀
+T1565	IndependentSymptoms 38402 38411	排 便 不 成 形
+T1566	IndependentSymptoms 38446 38453	体 重 减 轻
+T1567	IndependentSymptoms 38506 38509	反 酸
+T1568	IndependentSymptoms 38510 38513	烧 心
+T1569	Medicine 38554 38561	雷 尼 替 丁
+T1570	Medicine 38564 38569	胃 必 治
+T1571	IndependentSymptoms 38606 38609	反 酸
+T1572	IndependentSymptoms 38610 38613	烧 心
+T1573	IndependentSymptoms 38632 38635	恶 心
+T1574	IndependentSymptoms 38636 38639	呕 吐
+T1575	IndependentSymptoms 38644 38647	呕 血
+T1576	IndependentSymptoms 38654 38657	黑 便
+T1577	AnatomicSite 38660 38661	腹
+T1578	SymptomsDescribed 38662 38663	痛
+T1579	AnatomicSite 38666 38667	腹
+T1580	SymptomsDescribed 38668 38669	胀
+T1581	AnatomicSite 38680 38681	胃
+T1582	AnatomicSite 38708 38711	腹 部
+T1583	AnatomicSite 38718 38719	肝
+T1584	AnatomicSite 38756 38757	胃
+T1585	Medicine 38790 38795	紫 杉 醇
+T1586	Medicine 38798 38803	希 罗 达
+T1587	Medicine 38814 38819	紫 杉 醇
+T1588	Medicine 38844 38860	希 罗 达 I-Medicine
+T1589	AnatomicSite 39007 39010	左 颈
+T1590	SymptomsDescribed 39011 39014	肿 物
+T1591	AnatomicSite 39057 39060	鼻 咽
+T1592	AnatomicSite 39227 39234	右 侧 下 颚
+T1593	SymptomsDescribed 39243 39246	红 肿
+T1594	AnatomicSite 39271 39274	口 腔
+T1595	IndependentSymptoms 39349 39352	声 嘶
+T1596	IndependentSymptoms 39359 39362	呛 咳
+T1597	AnatomicSite 39381 39384	面 部
+T1598	SymptomsDescribed 39385 39388	麻 木
+T1599	IndependentSymptoms 39391 39398	听 力 下 降
+T1600	Operation 39515 39534	经 胃 镜 下 营 养 管 置 入 术
+T1601	Operation 39573 39586	内 镜 下 胃 造 瘘 术
+T1602	IndependentSymptoms 39603 39610	精 神 较 差
+T1603	IndependentSymptoms 39639 39646	体 重 减 轻
+T1604	IndependentSymptoms 39685 39696	大 便 次 数 增 多
+T1605	IndependentSymptoms 39699 39718	每 次 小 便 均 有 大 便 排 出
+T1606	IndependentSymptoms 39721 39738	走 路 时 也 有 大 便 挤 出
+T1607	IndependentSymptoms 39751 39760	粘 液 脓 血 便
+T1608	AnatomicSite 39767 39770	腹 部
+T1609	SymptomsDescribed 39771 39774	隐 痛
+T1610	AnatomicSite 39797 39798	腹
+T1611	SymptomsDescribed 39799 39800	胀
+T1612	SymptomsDescribed 39801 39804	不 适
+T1613	IndependentSymptoms 39813 39816	反 酸
+T1614	IndependentSymptoms 39819 39822	烧 心
+T1615	IndependentSymptoms 39827 39830	恶 心
+T1616	IndependentSymptoms 39833 39836	呕 吐
+T1617	IndependentSymptoms 39841 39844	呕 血
+T1618	AnatomicSite 39877 39880	胃 肠
+T1619	Operation 39889 39902	内 镜 下 息 肉 切 除
+T1620	Operation 39941 39970	肠 息 肉 I-Operation 内 镜 下 切 除 术
+T1621	AnatomicSite 40071 40074	子 宫
+T1622	Operation 40087 40096	子 宫 切 除 术
+T1623	Operation 40099 40112	左 侧 附 件 切 除 术
+T1624	AnatomicSite 40123 40126	子 宫
+T1625	AnatomicSite 40171 40172	腹
+T1626	SymptomsDescribed 40173 40174	痛
+T1627	SymptomsDescribed 40177 40180	隐 痛
+T1628	IndependentSymptoms 40193 40196	发 热
+T1629	IndependentSymptoms 40201 40204	尿 频
+T1630	IndependentSymptoms 40207 40210	尿 急
+T1631	IndependentSymptoms 40213 40216	尿 痛
+T1632	AnatomicSite 40233 40240	右 侧 附 件
+T1633	AnatomicSite 40289 40290	腹
+T1634	SymptomsDescribed 40291 40292	痛
+T1635	AnatomicSite 40303 40304	腹
+T1636	SymptomsDescribed 40305 40306	痛
+T1637	AnatomicSite 40323 40330	右 侧 附 件
+T1638	AnatomicSite 40367 40374	右 侧 附 件
+T1639	AnatomicSite 40437 40440	卵 巢
+T1640	AnatomicSite 40465 40468	盆 腔
+T1641	SymptomsDescribed 40517 40520	不 适
+T1642	Operation 40629 40642	“ L E E P ” 术
+T1643	AnatomicSite 40685 40688	宫 颈
+T1644	AnatomicSite 40695 40702	宫 颈 粘 膜
+T1645	AnatomicSite 40781 40786	宫 颈 管
+T1646	Operation 40813 40826	残 余 子 宫 切 除 术
+T1647	AnatomicSite 40865 40868	阴 道
+T1648	SymptomsDescribed 40869 40872	出 血
+T1649	SymptomsDescribed 40879 40882	排 液
+T1650	IndependentSymptoms 40887 40890	发 热
+T1651	AnatomicSite 40893 40894	腹
+T1652	SymptomsDescribed 40895 40896	痛
+T1653	AnatomicSite 40899 40900	腹
+T1654	SymptomsDescribed 40901 40902	胀
+T1655	IndependentSymptoms 40905 40908	尿 频
+T1656	IndependentSymptoms 40911 40914	尿 急
+T1657	SymptomsDescribed 40917 40920	不 适
+T1658	AnatomicSite 41057 41058	肝
+T1659	Operation 41069 41076	肝 癌 切 除
+T1660	AnatomicSite 41079 41084	肝 中 叶
+T1661	Operation 41089 41098	胆 囊 切 除 术
+T1662	AnatomicSite 41197 41202	右 上 肺
+T1663	AnatomicSite 41243 41244	胸
+T1664	AnatomicSite 41249 41254	上 腹 部
+T1665	Operation 41267 41276	肝 癌 切 除 术
+T1666	AnatomicSite 41285 41296	右 肺 上 叶 前 段
+T1667	AnatomicSite 41307 41308	肺
+T1668	AnatomicSite 41321 41324	心 包
+T1669	IndependentSymptoms 41347 41350	咳 嗽
+T1670	IndependentSymptoms 41353 41360	咳 血 丝 痰
+T1671	IndependentSymptoms 41363 41366	发 热
+T1672	AnatomicSite 41369 41370	胸
+T1673	SymptomsDescribed 41371 41372	痛
+T1674	IndependentSymptoms 41375 41378	盗 汗
+T1675	IndependentSymptoms 41381 41388	食 欲 不 振
+T1676	AnatomicSite 41391 41396	骨 关 节
+T1677	SymptomsDescribed 41397 41400	疼 痛
+T1678	SymptomsDescribed 41453 41456	不 适
+T1679	AnatomicSite 41519 41520	肝
+T1680	AnatomicSite 41605 41606	腹
+T1681	SymptomsDescribed 41607 41608	胀
+T1682	AnatomicSite 41611 41612	腹
+T1683	SymptomsDescribed 41613 41614	痛
+T1684	IndependentSymptoms 41621 41624	反 酸
+T1685	IndependentSymptoms 41627 41630	嗳 气
+T1686	IndependentSymptoms 41635 41638	纳 差
+T1687	AnatomicSite 41643 41644	腹
+T1688	SymptomsDescribed 41645 41646	泻
+T1689	IndependentSymptoms 41651 41654	恶 心
+T1690	IndependentSymptoms 41657 41660	呕 吐
+T1691	IndependentSymptoms 41663 41666	呕 血
+T1692	IndependentSymptoms 41671 41674	畏 寒
+T1693	IndependentSymptoms 41677 41680	发 热
+T1694	AnatomicSite 41725 41726	胃
+T1695	AnatomicSite 41783 41784	腹
+T1696	SymptomsDescribed 41785 41786	痛
+T1697	AnatomicSite 41789 41790	腹
+T1698	SymptomsDescribed 41791 41792	胀
+T1699	AnatomicSite 41891 41894	幽 门
+T1700	AnatomicSite 41913 41914	胃
+T1701	AnatomicSite 41931 41934	胃 体
+T1702	AnatomicSite 41965 41966	胃
+T1703	AnatomicSite 41987 41990	胃 体
+T1704	AnatomicSite 42035 42036	腹
+T1705	SymptomsDescribed 42037 42038	胀
+T1706	AnatomicSite 42041 42042	腹
+T1707	SymptomsDescribed 42043 42044	痛
+T1708	IndependentSymptoms 42057 42060	反 酸
+T1709	IndependentSymptoms 42063 42066	嗳 气
+T1710	IndependentSymptoms 42071 42074	纳 差
+T1711	AnatomicSite 42079 42080	腹
+T1712	SymptomsDescribed 42081 42082	泻
+T1713	IndependentSymptoms 42087 42090	恶 心
+T1714	IndependentSymptoms 42093 42096	呕 吐
+T1715	IndependentSymptoms 42099 42102	呕 血
+T1716	IndependentSymptoms 42107 42110	畏 寒
+T1717	IndependentSymptoms 42113 42116	发 热
+T1718	Operation 42163 42188	胃 镜 下 氩 气 刀 胃 体 息 肉 切 除 术
+T1719	AnatomicSite 42301 42306	中 上 腹
+T1720	SymptomsDescribed 42307 42314	饱 胀 不 适
+T1721	IndependentSymptoms 42319 42322	嗳 气
+T1722	IndependentSymptoms 42325 42328	纳 差
+T1723	IndependentSymptoms 42355 42358	反 酸
+T1724	IndependentSymptoms 42361 42364	烧 心
+T1725	AnatomicSite 42367 42368	腹
+T1726	SymptomsDescribed 42369 42370	痛
+T1727	AnatomicSite 42373 42374	腹
+T1728	SymptomsDescribed 42375 42376	泻
+T1729	IndependentSymptoms 42381 42384	恶 心
+T1730	IndependentSymptoms 42387 42390	呕 吐
+T1731	IndependentSymptoms 42393 42396	黑 便
+T1732	SymptomsDescribed 42399 42402	不 适
+T1733	AnatomicSite 42475 42476	胃
+T1734	AnatomicSite 42491 42494	食 管
+T1735	AnatomicSite 42507 42514	胃 底 粘 膜
+T1736	SymptomsDescribed 42517 42520	隆 起
+T1737	AnatomicSite 42541 42544	胃 窦
+T1738	AnatomicSite 42555 42556	胃
+T1739	AnatomicSite 42565 42568	胃 底
+T1740	AnatomicSite 42597 42598	胃
+T1741	AnatomicSite 42637 42640	胃 底
+T1742	AnatomicSite 42665 42666	胃
+T1743	IndependentSymptoms 42721 42728	食 欲 减 退
+T1744	IndependentSymptoms 42789 42796	体 重 减 少
+T1745	AnatomicSite 42837 42842	上 腹 部
+T1746	SymptomsDescribed 42843 42846	不 适
+T1747	AnatomicSite 42859 42860	胃
+T1748	AnatomicSite 42869 42872	胃 窦
+T1749	Operation 42907 42928	胃 癌 根 治 术 （ 远 端 胃 大 切
+T1750	AnatomicSite 42975 42982	胃 壁 粘 膜
+T1751	Medicine 43113 43118	希 罗 达
+T1752	AnatomicSite 43293 43296	阴 道
+T1753	SymptomsDescribed 43297 43300	出 血
+T1754	AnatomicSite 43319 43322	盆 腔
+T1755	AnatomicSite 43329 43332	阴 道
+T1756	AnatomicSite 43339 43342	宫 颈
+T1757	AnatomicSite 43373 43376	宫 颈
+T1758	Operation 43433 43452	经 腹 次 广 泛 子 宫 切 除 术
+T1759	Operation 43455 43466	双 侧 附 件 切 除
+T1760	AnatomicSite 43487 43490	子 宫
+T1761	AnatomicSite 43573 43580	子 宫 宫 颈
+T1762	AnatomicSite 43583 43590	右 侧 附 件
+T1763	AnatomicSite 43643 43646	宫 颈
+T1764	AnatomicSite 43667 43674	两 侧 宫 旁
+T1765	AnatomicSite 43677 43680	阴 道
+T1766	AnatomicSite 43699 43706	子 宫 内 膜
+T1767	AnatomicSite 43709 43712	子 宫
+T1768	AnatomicSite 43721 43734	右 卵 巢 子 宫 内 膜
+T1769	AnatomicSite 43743 43752	右 侧 输 卵 管
+T1770	Medicine 43815 43820	奈 达 铂
+T1771	Medicine 43837 43842	C T X
+T1772	Medicine 43857 43864	5 - F U
+T1773	IndependentSymptoms 44243 44246	发 热
+T1774	AnatomicSite 44271 44276	腹 盆 腔
+T1775	AnatomicSite 44413 44416	盆 腔
+T1776	AnatomicSite 44425 44426	腹
+T1777	SymptomsDescribed 44427 44428	痛
+T1778	AnatomicSite 44433 44434	腹
+T1779	SymptomsDescribed 44435 44436	胀
+T1780	AnatomicSite 44465 44466	腹
+T1781	SymptomsDescribed 44467 44468	痛
+T1782	AnatomicSite 44473 44474	腹
+T1783	SymptomsDescribed 44475 44476	胀
+T1784	IndependentSymptoms 44481 44484	恶 心
+T1785	IndependentSymptoms 44487 44490	呕 吐
+T1786	SymptomsDescribed 44493 44496	不 适
+T1787	AnatomicSite 44523 44526	盆 腔
+T1788	AnatomicSite 44571 44574	卵 巢
+T1789	Operation 44639 44656	卵 巢 癌 全 面 分 期 手 术
+T1790	Operation 44661 44676	全 子 宫 双 附 件 切 除
+T1791	Operation 44679 44694	盆 腔 淋 巴 结 清 扫 术
+T1792	AnatomicSite 44753 44756	卵 巢
+T1793	AnatomicSite 45021 45028	中 上 腹 部
+T1794	SymptomsDescribed 45029 45036	胀 痛 不 适
+T1795	SymptomsDescribed 45047 45050	隐 痛
+T1796	IndependentSymptoms 45083 45086	返 酸
+T1797	IndependentSymptoms 45089 45092	嗳 气
+T1798	IndependentSymptoms 45097 45100	恶 心
+T1799	IndependentSymptoms 45103 45106	呕 吐
+T1800	IndependentSymptoms 45109 45112	纳 差
+T1801	IndependentSymptoms 45115 45118	乏 力
+T1802	IndependentSymptoms 45121 45124	消 瘦
+T1803	AnatomicSite 45127 45128	腹
+T1804	SymptomsDescribed 45129 45130	痛
+T1805	AnatomicSite 45133 45134	腹
+T1806	SymptomsDescribed 45135 45136	泻
+T1807	IndependentSymptoms 45139 45142	便 秘
+T1808	IndependentSymptoms 45147 45150	发 热
+T1809	IndependentSymptoms 45153 45156	咳 嗽
+T1810	IndependentSymptoms 45159 45162	咳 痰
+T1811	AnatomicSite 45199 45202	胃 肠
+T1812	AnatomicSite 45223 45230	胃 小 弯 侧
+T1813	AnatomicSite 45245 45246	胃
+T1814	AnatomicSite 45261 45266	胃 窦 部
+T1815	AnatomicSite 45277 45292	十 二 指 肠 - 胃 窦 部
+T1816	AnatomicSite 45313 45316	胃 窦
+T1817	AnatomicSite 45325 45326	胃
+T1818	AnatomicSite 45345 45346	胃
+T1819	IndependentSymptoms 45381 45384	恶 心
+T1820	IndependentSymptoms 45387 45390	呕 吐
+T1821	IndependentSymptoms 45395 45398	乏 力
+T1822	IndependentSymptoms 45401 45404	纳 差
+T1823	IndependentSymptoms 45419 45422	呕 吐
+T1824	AnatomicSite 45425 45426	胃
+T1825	AnatomicSite 45447 45450	腹 部
+T1826	AnatomicSite 45491 45500	胃 窦 部 胃 壁
+T1827	AnatomicSite 45517 45518	胃
+T1828	AnatomicSite 45539 45542	胰 腺
+T1829	AnatomicSite 45545 45550	肝 左 叶
+T1830	AnatomicSite 45567 45574	肝 胃 间 隙
+T1831	AnatomicSite 45577 45582	肝 门 区
+T1832	AnatomicSite 45585 45590	腹 膜 后
+T1833	AnatomicSite 45595 45600	淋 巴 结
+T1834	AnatomicSite 45625 45628	胃 窦
+T1835	IndependentSymptoms 45669 45674	食 欲 差
+T1836	IndependentSymptoms 45689 45696	体 重 减 轻
+T1837	IndependentSymptoms 45755 45766	大 便 习 惯 改 变
+T1838	AnatomicSite 45779 45782	胃 肠
+T1839	AnatomicSite 45827 45828	胃
+T1840	AnatomicSite 45847 45850	胃 窦
+T1841	AnatomicSite 45957 45966	胃 窦 大 弯 侧
+T1842	AnatomicSite 45997 46000	乳 头
+T1843	AnatomicSite 46093 46098	淋 巴 结
+T1844	AnatomicSite 46173 46178	淋 巴 结
+T1845	Medicine 46237 46244	奥 沙 利 铂
+T1846	Medicine 46263 46270	亚 叶 酸 钙
+T1847	Medicine 46293 46298	替 加 氟
+T1848	AnatomicSite 46333 46334	肝
+T1849	AnatomicSite 46339 46340	胃
+T1850	IndependentSymptoms 46345 46346	吐
+T1851	AnatomicSite 46489 46492	全 身
+T1852	Medicine 46507 46514	奥 沙 利 铂
+T1853	Medicine 46531 46536	替 吉 奥
+T1854	AnatomicSite 46579 46580	肝
+T1855	AnatomicSite 46585 46586	胃
+T1856	IndependentSymptoms 46591 46592	吐
+T1857	AnatomicSite 46609 46614	胃 肠 道
+T1858	AnatomicSite 46721 46722	口
+T1859	Medicine 46725 46730	替 吉 奥
+T1860	AnatomicSite 46885 46888	全 身
+T1861	AnatomicSite 46945 46946	头
+T1862	SymptomsDescribed 46947 46948	晕
+T1863	AnatomicSite 46951 46952	头
+T1864	SymptomsDescribed 46953 46954	痛
+T1865	SymptomsDescribed 47051 47054	不 适
+T1866	AnatomicSite 47131 47136	上 腹 部
+T1867	SymptomsDescribed 47137 47144	隐 痛 不 适
+T1868	AnatomicSite 47199 47200	胃
+T1869	AnatomicSite 47211 47212	胃
+T1870	AnatomicSite 47229 47232	胃 底
+T1871	AnatomicSite 47249 47250	肝
+T1872	Medicine 47273 47280	多 西 他 赛
+T1873	Medicine 47283 47288	S - 1
+T1874	Medicine 47315 47320	S - 1
+T1875	AnatomicSite 47349 47350	肝
+T1876	Medicine 47419 47426	多 西 他 赛
+T1877	Medicine 47429 47434	S - 1
+T1878	Medicine 47519 47526	培 美 曲 赛
+T1879	SymptomsDescribed 47583 47586	不 适
+T1880	Medicine 47629 47636	C P T 1
+T1881	AnatomicSite 47733 47736	上 腹
+T1882	SymptomsDescribed 47737 47744	闷 痛 不 适
+T1883	IndependentSymptoms 47803 47806	恶 心
+T1884	IndependentSymptoms 47809 47812	呕 吐
+T1885	IndependentSymptoms 47815 47818	返 酸
+T1886	IndependentSymptoms 47821 47824	嗳 气
+T1887	AnatomicSite 47837 47838	胃
+T1888	AnatomicSite 47861 47862	胃
+T1889	Operation 47899 47910	残 胃 癌 根 治 术
+T1890	AnatomicSite 47939 47942	L N
+T1891	IndependentSymptoms 48083 48090	体 重 下 降
+T1892	AnatomicSite 48125 48128	右 肝
+T1893	Operation 48141 48148	胆 囊 切 除
+T1894	Operation 48151 48162	右 半 肝 切 除 术
+T1895	AnatomicSite 48185 48188	右 肝
+T1896	AnatomicSite 48191 48194	肝 脏
+T1897	AnatomicSite 48201 48204	胆 管
+T1898	AnatomicSite 48227 48228	肝
+T1899	AnatomicSite 48239 48244	肝 被 膜
+T1900	AnatomicSite 48251 48252	肝
+T1901	AnatomicSite 48257 48258	肝
+T1902	AnatomicSite 48293 48306	肝 十 二 指 肠 韧 带
+T1903	AnatomicSite 48309 48314	淋 巴 结
+T1904	AnatomicSite 48339 48342	胆 囊
+T1905	AnatomicSite 48357 48360	胆 囊
+T1906	AnatomicSite 48369 48374	淋 巴 结
+T1907	AnatomicSite 48411 48412	腹
+T1908	SymptomsDescribed 48413 48414	痛
+T1909	AnatomicSite 48417 48418	腹
+T1910	SymptomsDescribed 48419 48420	胀
+T1911	IndependentSymptoms 48425 48428	恶 心
+T1912	IndependentSymptoms 48431 48434	呕 吐
+T1913	IndependentSymptoms 48439 48442	畏 冷
+T1914	IndependentSymptoms 48445 48448	寒 战
+T1915	IndependentSymptoms 48453 48456	眼 黄
+T1916	IndependentSymptoms 48459 48462	尿 黄
+T1917	IndependentSymptoms 48465 48468	皮 肤
+T1918	SymptomsDescribed 48469 48472	黄 染
+T1919	IndependentSymptoms 48477 48480	反 酸
+T1920	IndependentSymptoms 48483 48486	嗳 气
+T1921	SymptomsDescribed 48489 48492	不 适
+T1922	AnatomicSite 48529 48534	右 上 腹
+T1923	SymptomsDescribed 48535 48536	痛
+T1924	SymptomsDescribed 48547 48550	隐 痛
+T1925	IndependentSymptoms 48569 48572	发 热
+T1926	IndependentSymptoms 48597 48600	畏 寒
+T1927	IndependentSymptoms 48605 48608	恶 心
+T1928	IndependentSymptoms 48611 48614	呕 吐
+T1929	IndependentSymptoms 48617 48620	呕 血
+T1930	IndependentSymptoms 48623 48626	便 血
+T1931	IndependentSymptoms 48629 48632	眼 黄
+T1932	IndependentSymptoms 48635 48638	尿 黄
+T1933	IndependentSymptoms 48641 48646	皮 肤 黄
+T1934	AnatomicSite 48651 48652	胸
+T1935	SymptomsDescribed 48653 48654	闷
+T1936	IndependentSymptoms 48657 48660	气 促
+T1937	IndependentSymptoms 48663 48670	意 识 不 清
+T1938	SymptomsDescribed 48673 48676	不 适
+T1939	AnatomicSite 48695 48696	肝
+T1940	AnatomicSite 48811 48816	胸 骨 后
+T1941	IndependentSymptoms 48817 48822	哽 噎 感
+T1942	IndependentSymptoms 48841 48844	呕 吐
+T1943	IndependentSymptoms 48863 48874	进 食 米 饭 困 难
+T1944	IndependentSymptoms 48889 48892	恶 心
+T1945	IndependentSymptoms 48897 48900	呕 血
+T1946	IndependentSymptoms 48903 48906	黑 便
+T1947	IndependentSymptoms 48911 48914	咳 嗽
+T1948	IndependentSymptoms 48917 48920	气 促
+T1949	IndependentSymptoms 48925 48928	声 嘶
+T1950	IndependentSymptoms 48931 48934	呛 咳
+T1951	AnatomicSite 48947 48948	胃
+T1952	AnatomicSite 48955 48958	食 管
+T1953	AnatomicSite 48995 48996	胃
+T1954	AnatomicSite 49007 49010	门 齿
+T1955	AnatomicSite 49025 49028	食 管
+T1956	AnatomicSite 49039 49042	管 腔
+T1957	AnatomicSite 49073 49080	胸 主 动 脉
+T1958	AnatomicSite 49083 49088	肺 动 脉
+T1959	AnatomicSite 49097 49100	食 管
+T1960	AnatomicSite 49109 49116	主 动 脉 窗
+T1961	AnatomicSite 49119 49124	隆 突 下
+T1962	AnatomicSite 49127 49132	淋 巴 结
+T1963	AnatomicSite 49209 49214	淋 巴 结
+T1964	AnatomicSite 49269 49278	胸 下 段 食 管
+T1965	AnatomicSite 49295 49298	食 管
+T1966	AnatomicSite 49303 49308	隆 突 下
+T1967	AnatomicSite 49311 49324	贲 门 左 小 淋 巴 结
+T1968	AnatomicSite 49327 49336	右 上 肺 后 段
+T1969	AnatomicSite 49381 49384	心 脏
+T1970	AnatomicSite 49391 49394	心 肌
+T1971	AnatomicSite 49415 49416	心
+T1972	AnatomicSite 49429 49432	冠 脉
+T1973	AnatomicSite 49441 49458	左 侧 第 一 对 角 支 近 端
+T1974	AnatomicSite 49629 49630	腹
+T1975	SymptomsDescribed 49631 49632	痛
+T1976	IndependentSymptoms 49635 49638	发 热
+T1977	AnatomicSite 49665 49668	胆 系
+T1978	Operation 49723 49730	胆 囊 切 除
+T1979	Operation 49733 49746	胆 总 管 切 开 取 石
+T1980	Operation 49749 49758	T 管 引 流 术
+T1981	IndependentSymptoms 49821 49824	发 热
+T1982	IndependentSymptoms 49829 49832	恶 心
+T1983	IndependentSymptoms 49835 49838	呕 吐
+T1984	AnatomicSite 49843 49844	腹
+T1985	SymptomsDescribed 49845 49846	痛
+T1986	AnatomicSite 49849 49850	腹
+T1987	SymptomsDescribed 49851 49852	泻
+T1988	SymptomsDescribed 49855 49858	不 适
+T1989	AnatomicSite 50021 50024	阴 道
+T1990	SymptomsDescribed 50025 50028	流 血
+T1991	AnatomicSite 50065 50068	宫 颈
+T1992	AnatomicSite 50089 50092	宫 颈
+T1993	Operation 50135 50148	冷 刀 宫 颈 锥 切 术
+T1994	AnatomicSite 50165 50168	宫 颈
+T1995	AnatomicSite 50293 50294	胃
+T1996	AnatomicSite 50303 50304	胸
+T1997	SymptomsDescribed 50305 50306	闷
+T1998	IndependentSymptoms 50307 50310	气 促
+T1999	AnatomicSite 50313 50314	腹
+T2000	SymptomsDescribed 50315 50316	胀
+T2001	AnatomicSite 50317 50318	腹
+T2002	SymptomsDescribed 50319 50320	痛
+T2003	IndependentSymptoms 50323 50326	尿 频
+T2004	IndependentSymptoms 50327 50330	尿 急
+T2005	IndependentSymptoms 50333 50340	里 急 后 重
+T2006	SymptomsDescribed 50343 50346	不 适
+T2007	IndependentSymptoms 50423 50426	口 干
+T2008	IndependentSymptoms 50429 50432	多 饮
+T2009	IndependentSymptoms 50459 50466	尿 量 增 多
+T2010	IndependentSymptoms 50489 50496	体 重 下 降
+T2011	IndependentSymptoms 50521 50524	多 食
+T2012	IndependentSymptoms 50525 50528	易 饥
+T2013	AnatomicSite 50547 50548	腹
+T2014	Medicine 50595 50600	胰 岛 素
+T2015	Medicine 50673 50678	胰 岛 素
+T2016	AnatomicSite 50733 50734	腹
+T2017	SymptomsDescribed 50735 50736	痛
+T2018	AnatomicSite 50741 50746	上 腹 部
+T2019	SymptomsDescribed 50759 50762	绞 痛
+T2020	AnatomicSite 50855 50856	胃
+T2021	AnatomicSite 50861 50862	肠
+T2022	AnatomicSite 50869 50870	胃
+T2023	AnatomicSite 50881 50884	直 肠
+T2024	Operation 50899 50918	内 镜 下 直 肠 息 肉 切 除 术
+T2025	Operation 50961 50974	直 肠 息 肉 切 除 术
+T2026	IndependentSymptoms 51039 51050	体 重 较 前 下 降
+T2027	AnatomicSite 51087 51090	腹 部
+T2028	SymptomsDescribed 51097 51100	疼 痛
+T2029	SymptomsDescribed 51101 51104	不 适
+T2030	IndependentSymptoms 51117 51120	恶 心
+T2031	IndependentSymptoms 51123 51126	呕 吐
+T2032	IndependentSymptoms 51135 51146	排 便 习 惯 改 变
+T2033	IndependentSymptoms 51151 51154	血 便
+T2034	AnatomicSite 51159 51160	头
+T2035	SymptomsDescribed 51161 51162	晕
+T2036	IndependentSymptoms 51165 51168	乏 力
+T2037	IndependentSymptoms 51171 51174	发 热
+T2038	SymptomsDescribed 51177 51180	不 适
+T2039	IndependentSymptoms 51201 51204	呕 吐
+T2040	IndependentSymptoms 51207 51214	排 便 减 少
+T2041	AnatomicSite 51221 51222	肠
+T2042	AnatomicSite 51237 51240	肛 门
+T2043	AnatomicSite 51249 51254	升 结 肠
+T2044	AnatomicSite 51261 51264	肠 腔
+T2045	AnatomicSite 51271 51272	肠
+T2046	AnatomicSite 51333 51338	结 直 肠
+T2047	Operation 51411 51424	右 半 结 肠 切 除 术
+T2048	Operation 51427 51438	回 肠 减 压 ” 术
+T2049	AnatomicSite 51469 51470	肠
+T2050	AnatomicSite 51483 51484	肠
+T2051	AnatomicSite 51529 51540	肠 壁 浆 膜 下 层
+T2052	AnatomicSite 51547 51550	脉 管
+T2053	AnatomicSite 51567 51572	神 经 束
+T2054	AnatomicSite 51581 51590	中 间 淋 巴 结
+T2055	IndependentSymptoms 51903 51914	大 便 性 状 改 变
+T2056	AnatomicSite 51951 51954	结 肠
+T2057	AnatomicSite 51961 51968	乙 状 结 肠
+T2058	Operation 51997 52016	腹 腔 镜 乙 状 结 肠 切 除 术
+T2059	AnatomicSite 52031 52038	乙 状 结 肠
+T2060	AnatomicSite 52055 52064	肠 周 淋 巴 结
+T2061	AnatomicSite 52175 52176	肝
+T2062	Medicine 52223 52230	伊 立 替 康
+T2063	Medicine 52233 52240	氟 尿 嘧 啶
+T2064	AnatomicSite 52287 52307	肝 S 8 I-AnatomicSite
+T2065	AnatomicSite 52394 52395	腹
+T2066	SymptomsDescribed 52396 52397	痛
+T2067	AnatomicSite 52402 52403	腹
+T2068	SymptomsDescribed 52404 52405	胀
+T2069	IndependentSymptoms 52410 52413	恶 心
+T2070	IndependentSymptoms 52418 52421	呕 吐
+T2071	IndependentSymptoms 52426 52429	畏 寒
+T2072	IndependentSymptoms 52434 52437	发 热
+T2073	AnatomicSite 52520 52521	胃
+T2074	AnatomicSite 52540 52543	胃 窦
+T2075	AnatomicSite 52548 52551	食 管
+T2076	Operation 52566 52573	息 肉 切 除
+T2077	AnatomicSite 52580 52581	胃
+T2078	IndependentSymptoms 52596 52599	反 酸
+T2079	IndependentSymptoms 52602 52605	嗳 气
+T2080	IndependentSymptoms 52608 52611	烧 心
+T2081	IndependentSymptoms 52614 52617	恶 心
+T2082	IndependentSymptoms 52620 52623	呕 吐
+T2083	AnatomicSite 52626 52627	腹
+T2084	SymptomsDescribed 52628 52629	痛
+T2085	AnatomicSite 52632 52633	腹
+T2086	SymptomsDescribed 52634 52635	胀
+T2087	AnatomicSite 52638 52639	腹
+T2088	SymptomsDescribed 52640 52641	泻
+T2089	IndependentSymptoms 52644 52647	便 秘
+T2090	IndependentSymptoms 52650 52653	畏 寒
+T2091	IndependentSymptoms 52656 52659	发 热
+T2092	IndependentSymptoms 52662 52665	咳 嗽
+T2093	IndependentSymptoms 52668 52671	咳 痰
+T2094	AnatomicSite 52674 52675	头
+T2095	SymptomsDescribed 52676 52677	昏
+T2096	AnatomicSite 52680 52681	心
+T2097	SymptomsDescribed 52682 52683	悸
+T2098	SymptomsDescribed 52686 52689	不 适
+T2099	AnatomicSite 52744 52747	食 管
+T2100	AnatomicSite 52788 52791	食 管
+T2101	AnatomicSite 52802 52803	胃
+T2102	AnatomicSite 52946 52949	右 腹
+T2103	SymptomsDescribed 52950 52953	隐 痛
+T2104	IndependentSymptoms 52956 52959	血 便
+T2105	Operation 53026 53035	D I X O N
+T2106	IndependentSymptoms 53126 53129	寒 战
+T2107	IndependentSymptoms 53132 53135	高 热
+T2108	AnatomicSite 53138 53141	腹 部
+T2109	SymptomsDescribed 53142 53145	压 痛
+T2110	SymptomsDescribed 53148 53153	反 跳 痛
+T2111	AnatomicSite 53156 53159	腹 腔
+T2112	Operation 53232 53241	剖 腹 探 查 术
+T2113	Operation 53244 53253	回 肠 造 瘘 术
+T2114	AnatomicSite 53378 53381	腹 部
+T2115	SymptomsDescribed 53382 53385	疼 痛
+T2116	AnatomicSite 53390 53391	腹
+T2117	SymptomsDescribed 53392 53393	胀
+T2118	IndependentSymptoms 53398 53401	恶 心
+T2119	IndependentSymptoms 53404 53407	呕 吐
+T2120	IndependentSymptoms 53412 53415	反 酸
+T2121	IndependentSymptoms 53418 53421	嗳 气
+T2122	AnatomicSite 53426 53427	头
+T2123	SymptomsDescribed 53428 53429	晕
+T2124	IndependentSymptoms 53432 53435	乏 力
+T2125	AnatomicSite 53438 53441	全 身
+T2126	SymptomsDescribed 53444 53447	黄 染
+T2127	SymptomsDescribed 53448 53451	不 适
+T2128	IndependentSymptoms 53502 53505	黑 便
+T2129	IndependentSymptoms 53596 53603	体 重 增 加
+T2130	AnatomicSite 53648 53649	腹
+T2131	SymptomsDescribed 53650 53651	痛
+T2132	AnatomicSite 53656 53659	脐 周
+T2133	AnatomicSite 53678 53679	腹
+T2134	SymptomsDescribed 53680 53681	胀
+T2135	AnatomicSite 53684 53687	肛 门
+T2136	IndependentSymptoms 53688 53701	停 止 排 气 、 排 便
+T2137	IndependentSymptoms 53706 53709	恶 心
+T2138	IndependentSymptoms 53712 53715	呕 吐
+T2139	IndependentSymptoms 53722 53725	呕 吐
+T2140	IndependentSymptoms 53742 53745	反 酸
+T2141	IndependentSymptoms 53748 53751	嗳 气
+T2142	SymptomsDescribed 53756 53761	放 射 痛
+T2143	IndependentSymptoms 53766 53769	畏 寒
+T2144	IndependentSymptoms 53772 53775	发 热
+T2145	IndependentSymptoms 53780 53783	尿 频
+T2146	IndependentSymptoms 53786 53789	尿 急
+T2147	IndependentSymptoms 53792 53795	尿 痛
+T2148	AnatomicSite 53814 53815	肠
+T2149	Operation 53860 53867	剖 腹 探 查
+T2150	Operation 53870 53881	肠 粘 连 松 解 +
+T2151	Operation 53882 53897	扩 大 右 半 结 肠 切 除
+T2152	Operation 53900 53907	肠 外 置 术
+T2153	Operation 53928 53937	造 口 回 纳 术
+T2154	AnatomicSite 53992 53993	胃
+T2155	IndependentSymptoms 54010 54013	尿 急
+T2156	AnatomicSite 54078 54079	肝
+T2157	AnatomicSite 54100 54101	肝
+T2158	Operation 54128 54137	肝 癌 切 除 术
+T2159	Operation 54140 54149	胆 囊 切 除 术
+T2160	AnatomicSite 54160 54165	肝 S 6
+T2161	Operation 54178 54193	肝 肿 物 微 波 固 化 术
+T2162	AnatomicSite 54214 54215	肝
+T2163	AnatomicSite 54220 54221	肝
+T2164	AnatomicSite 54340 54345	肝 S 4
+T2165	AnatomicSite 54348 54361	S 5 / 8 交 界 区
+T2166	AnatomicSite 54402 54419	肝 S 2 、 3 、 5 、 8
+T2167	AnatomicSite 54436 54437	肝
+T2168	AnatomicSite 54510 54515	上 腹 部
+T2169	AnatomicSite 54524 54529	肝 S 4
+T2170	AnatomicSite 54546 54553	左 缘 动 脉
+T2171	Operation 54638 54651	肝 肿 瘤 微 波 消 融
+T2172	SymptomsDescribed 54702 54705	不 适
+T2173	AnatomicSite 54754 54755	腹
+T2174	SymptomsDescribed 54756 54757	痛
+T2175	AnatomicSite 54760 54761	腹
+T2176	SymptomsDescribed 54762 54763	胀
+T2177	IndependentSymptoms 54768 54771	恶 心
+T2178	IndependentSymptoms 54774 54777	呕 吐
+T2179	IndependentSymptoms 54782 54785	畏 寒
+T2180	IndependentSymptoms 54788 54791	发 热
+T2181	Operation 54888 54901	降 结 肠 癌 根 治 术
+T2182	AnatomicSite 54928 54935	乙 状 结 肠
+T2183	AnatomicSite 54962 54967	淋 巴 结
+T2184	Medicine 55048 55055	奥 沙 利 铂
+T2185	Medicine 55074 55081	亚 叶 酸 钙
+T2186	Medicine 55104 55109	替 加 氟
+T2187	IndependentSymptoms 55150 55151	吐
+T2188	AnatomicSite 55240 55241	肠
+T2189	AnatomicSite 55324 55327	结 肠
+T2190	IndependentSymptoms 55362 55365	发 热
+T2191	IndependentSymptoms 55368 55371	畏 寒
+T2192	AnatomicSite 55380 55381	腹
+T2193	SymptomsDescribed 55382 55383	痛
+T2194	AnatomicSite 55384 55385	腹
+T2195	SymptomsDescribed 55386 55387	胀
+T2196	IndependentSymptoms 55390 55393	恶 心
+T2197	IndependentSymptoms 55396 55399	呕 吐
+T2198	AnatomicSite 55408 55409	腹
+T2199	SymptomsDescribed 55410 55411	泻
+T2200	IndependentSymptoms 55414 55417	便 秘
+T2201	IndependentSymptoms 55430 55433	咳 嗽
+T2202	IndependentSymptoms 55434 55437	咳 痰
+T2203	IndependentSymptoms 55442 55445	尿 频
+T2204	IndependentSymptoms 55446 55453	排 尿 费 力
+T2205	AnatomicSite 55544 55547	肛 门
+T2206	AnatomicSite 55612 55615	咽 喉
+T2207	SymptomsDescribed 55616 55619	疼 痛
+T2208	Operation 55648 55665	喉 部 恶 性 肿 瘤 切 除 术
+T2209	IndependentSymptoms 55712 55721	吞 咽 阻 挡 感
+T2210	AnatomicSite 55726 55729	咽 部
+T2211	SymptomsDescribed 55730 55733	疼 痛
+T2212	IndependentSymptoms 55738 55741	发 热
+T2213	IndependentSymptoms 55746 55749	咳 嗽
+T2214	IndependentSymptoms 55752 55755	咳 痰
+T2215	IndependentSymptoms 55764 55771	声 音 嘶 哑
+T2216	AnatomicSite 55776 55779	咽 喉
+T2217	SymptomsDescribed 55780 55785	异 物 感
+T2218	IndependentSymptoms 55792 55799	饮 水 呛 咳
+T2219	AnatomicSite 55826 55831	耳 鼻 喉
+T2220	AnatomicSite 55846 55847	胃
+T2221	AnatomicSite 55856 55859	咽 部
+T2222	AnatomicSite 55880 55885	颈 根 部
+T2223	AnatomicSite 55888 55899	上 中 纵 隔 食 管
+T2224	AnatomicSite 55906 55911	软 组 织
+T2225	AnatomicSite 55930 55933	食 管
+T2226	Medicine 55998 56005	多 西 他 赛
+T2227	Medicine 56146 56153	多 西 他 赛
+T2228	Medicine 56166 56169	卡 铂
+T2229	AnatomicSite 56240 56243	食 管
+T2230	AnatomicSite 56326 56331	上 腹 部
+T2231	SymptomsDescribed 56332 56335	不 适
+T2232	AnatomicSite 56344 56345	腹
+T2233	SymptomsDescribed 56346 56347	胀
+T2234	SymptomsDescribed 56350 56357	隐 痛 不 适
+T2235	IndependentSymptoms 56362 56365	嗳 气
+T2236	IndependentSymptoms 56368 56371	反 酸
+T2237	IndependentSymptoms 56374 56377	烧 心
+T2238	IndependentSymptoms 56380 56383	恶 心
+T2239	IndependentSymptoms 56386 56389	呕 吐
+T2240	AnatomicSite 56410 56411	胃
+T2241	AnatomicSite 56424 56427	胃 窦
+T2242	Medicine 56456 56465	铝 碳 酸 镁 片
+T2243	AnatomicSite 56502 56507	上 腹 部
+T2244	SymptomsDescribed 56508 56509	胀
+T2245	SymptomsDescribed 56516 56523	隐 痛 不 适
+T2246	IndependentSymptoms 56528 56531	恶 心
+T2247	IndependentSymptoms 56534 56537	呕 吐
+T2248	IndependentSymptoms 56542 56545	嗳 气
+T2249	IndependentSymptoms 56548 56551	反 酸
+T2250	IndependentSymptoms 56554 56557	烧 心
+T2251	AnatomicSite 56562 56563	胸
+T2252	SymptomsDescribed 56564 56565	闷
+T2253	IndependentSymptoms 56568 56571	气 促
+T2254	AnatomicSite 56574 56575	头
+T2255	SymptomsDescribed 56576 56577	晕
+T2256	AnatomicSite 56580 56581	头
+T2257	SymptomsDescribed 56582 56583	痛
+T2258	IndependentSymptoms 56588 56591	畏 寒
+T2259	IndependentSymptoms 56594 56597	发 热
+T2260	AnatomicSite 56612 56613	胃
+T2261	AnatomicSite 56628 56631	胃 窦
+T2262	AnatomicSite 56646 56649	胃 底
+T2263	AnatomicSite 56704 56705	胃
+T2264	AnatomicSite 56856 56863	子 宫 内 膜
+T2265	Operation 56884 56907	腹 腔 镜 下 全 子 宫 双 附 件 切 除
+T2266	Operation 56910 56923	盆 腔 粘 连 松 解 术
+T2267	Medicine 56972 56977	替 勃 龙
+T2268	AnatomicSite 57022 57025	阴 道
+T2269	SymptomsDescribed 57026 57029	流 血
+T2270	AnatomicSite 57116 57119	阴 道
+T2271	SymptomsDescribed 57120 57123	流 血
+T2272	AnatomicSite 57162 57163	腹
+T2273	SymptomsDescribed 57164 57165	痛
+T2274	AnatomicSite 57168 57169	腹
+T2275	SymptomsDescribed 57170 57171	胀
+T2276	AnatomicSite 57178 57179	头
+T2277	SymptomsDescribed 57180 57181	晕
+T2278	IndependentSymptoms 57184 57187	眼 花
+T2279	AnatomicSite 57244 57251	阴 道 顶 端
+T2280	SymptomsDescribed 57256 57259	出 血
+T2281	AnatomicSite 57306 57309	结 肠
+T2282	Operation 57322 57337	结 肠 息 肉 A P C 术
+T2283	AnatomicSite 57360 57361	肠
+T2284	AnatomicSite 57376 57379	肛 门
+T2285	AnatomicSite 57416 57427	直 肠 乙 状 结 肠
+T2286	AnatomicSite 57468 57471	肛 管
+T2287	IndependentSymptoms 57516 57523	大 便 带 血
+T2288	IndependentSymptoms 57528 57535	里 急 后 重
+T2289	IndependentSymptoms 57550 57561	大 便 次 数 增 多
+T2290	IndependentSymptoms 57564 57573	大 便 不 成 形
+T2291	AnatomicSite 57582 57585	肛 门
+T2292	SymptomsDescribed 57586 57593	肿 物 脱 出
+T2293	AnatomicSite 57606 57607	手
+T2294	AnatomicSite 57616 57617	腹
+T2295	SymptomsDescribed 57618 57619	痛
+T2296	AnatomicSite 57620 57621	腹
+T2297	SymptomsDescribed 57622 57623	胀
+T2298	IndependentSymptoms 57628 57631	恶 心
+T2299	IndependentSymptoms 57632 57635	呕 吐
+T2300	AnatomicSite 57674 57677	结 肠
+T2301	AnatomicSite 57766 57769	盲 肠
+T2302	Operation 57812 57819	剖 腹 探 查
+T2303	Operation 57822 57833	右 半 结 肠 切 除
+T2304	Operation 57836 57847	肠 粘 连 松 解 术
+T2305	AnatomicSite 57872 57879	右 半 结 肠
+T2306	AnatomicSite 57896 57903	肠 壁 全 层
+T2307	AnatomicSite 57924 57933	肠 壁 淋 巴 结
+T2308	AnatomicSite 57958 57961	阑 尾
+T2309	IndependentSymptoms 57992 57995	恶 心
+T2310	IndependentSymptoms 57998 58001	呕 吐
+T2311	AnatomicSite 58006 58007	腹
+T2312	SymptomsDescribed 58008 58009	痛
+T2313	AnatomicSite 58012 58013	腹
+T2314	SymptomsDescribed 58014 58015	胀
+T2315	AnatomicSite 58020 58021	腹
+T2316	SymptomsDescribed 58022 58023	泻
+T2317	IndependentSymptoms 58028 58031	便 血
+T2318	AnatomicSite 58138 58139	胃
+T2319	Operation 58208 58225	远 端 胃 癌 D 2 根 治 术
+T2320	Operation 58228 58233	毕 I 式
+T2321	SymptomsDescribed 58332 58335	不 适
+T2322	IndependentSymptoms 58350 58357	大 便 较 少
+T2323	IndependentSymptoms 58362 58365	畏 寒
+T2324	IndependentSymptoms 58368 58371	发 热
+T2325	IndependentSymptoms 58376 58379	恶 心
+T2326	IndependentSymptoms 58382 58385	呕 吐
+T2327	AnatomicSite 58390 58391	腹
+T2328	SymptomsDescribed 58392 58393	痛
+T2329	AnatomicSite 58396 58397	腹
+T2330	SymptomsDescribed 58398 58399	胀
+T2331	IndependentSymptoms 58434 58437	呕 吐
+T2332	IndependentSymptoms 58458 58461	呕 吐
+T2333	IndependentSymptoms 58474 58477	呕 吐
+T2334	AnatomicSite 58482 58483	胃
+T2335	IndependentSymptoms 58500 58503	呕 吐
+T2336	IndependentSymptoms 58540 58543	恶 心
+T2337	IndependentSymptoms 58546 58549	呕 吐
+T2338	IndependentSymptoms 58552 58555	呕 吐
+T2339	AnatomicSite 58588 58589	胃
+T2340	IndependentSymptoms 58664 58671	胃 纳 极 差
+T2341	IndependentSymptoms 58690 58697	大 便 不 解
+T2342	AnatomicSite 58700 58703	肛 门
+T2343	AnatomicSite 58754 58759	胆 总 管
+T2344	Operation 58774 58781	胆 囊 切 除
+T2345	Operation 58784 58793	胆 总 管 探 查
+T2346	Operation 58796 58805	Ｔ 管 引 流 术
+T2347	AnatomicSite 58828 58829	肝
+T2348	IndependentSymptoms 58872 58875	畏 寒
+T2349	IndependentSymptoms 58876 58879	发 热
+T2350	IndependentSymptoms 58884 58887	恶 心
+T2351	IndependentSymptoms 58890 58893	呕 吐
+T2352	AnatomicSite 58898 58899	腹
+T2353	SymptomsDescribed 58900 58901	痛
+T2354	IndependentSymptoms 58912 58915	心 慌
+T2355	AnatomicSite 58918 58919	心
+T2356	SymptomsDescribed 58920 58921	悸
+T2357	IndependentSymptoms 58926 58929	尿 频
+T2358	IndependentSymptoms 58932 58935	尿 痛
+T2359	AnatomicSite 58960 58963	胆 道
+T2360	AnatomicSite 58996 58999	胆 道
+T2361	IndependentSymptoms 59044 59051	胃 纳 略 差
+T2362	IndependentSymptoms 59106 59117	排 便 习 惯 改 变
+T2363	AnatomicSite 59148 59155	左 半 结 肠
+T2364	Operation 59190 59205	左 半 结 肠 切 除 术 术
+T2365	AnatomicSite 59220 59223	结 肠
+T2366	AnatomicSite 59258 59269	肠 壁 浆 膜 下 层
+T2367	AnatomicSite 59280 59283	脉 管
+T2368	AnatomicSite 59286 59291	神 经 束
+T2369	AnatomicSite 59298 59307	中 央 淋 巴 结
+T2370	AnatomicSite 59320 59329	中 间 淋 巴 结
+T2371	AnatomicSite 59342 59351	肠 旁 淋 巴 结
+T2372	IndependentSymptoms 59420 59423	发 热
+T2373	AnatomicSite 59426 59427	腹
+T2374	SymptomsDescribed 59428 59429	痛
+T2375	SymptomsDescribed 59430 59433	不 适
+T2376	IndependentSymptoms 59482 59485	发 热
+T2377	AnatomicSite 59494 59499	腰 骶 部
+T2378	SymptomsDescribed 59500 59503	疼 痛
+T2379	AnatomicSite 59594 59599	上 腹 部
+T2380	SymptomsDescribed 59600 59603	疼 痛
+T2381	IndependentSymptoms 59620 59623	恶 心
+T2382	IndependentSymptoms 59626 59629	呕 吐
+T2383	IndependentSymptoms 59634 59637	呕 血
+T2384	IndependentSymptoms 59640 59643	黑 便
+T2385	AnatomicSite 59648 59649	腹
+T2386	SymptomsDescribed 59650 59651	胀
+T2387	Medicine 59658 59665	奥 美 拉 唑
+T2388	AnatomicSite 59718 59719	胃
+T2389	AnatomicSite 59740 59743	胃 窦
+T2390	Operation 59812 59821	胃 癌 根 治 术
+T2391	AnatomicSite 59844 59847	胃 窦
+T2392	AnatomicSite 59890 59895	淋 巴 结
+T2393	IndependentSymptoms 59960 59967	体 重 降 低
+T2394	Medicine 60030 60037	奥 沙 利 铂
+T2395	Medicine 60066 60071	维 康 达
+T2396	AnatomicSite 60088 60089	口
+T2397	AnatomicSite 60116 60119	骨 髓
+T2398	IndependentSymptoms 60136 60139	乏 力
+T2399	IndependentSymptoms 60194 60197	乏 力
+T2400	IndependentSymptoms 60224 60241	体 重 较 上 次 入 院 增 加
+T2401	AnatomicSite 60250 60253	周 身
+T2402	SymptomsDescribed 60256 60259	疼 痛
+T2403	AnatomicSite 60308 60313	上 腹 部
+T2404	SymptomsDescribed 60314 60321	闷 痛 不 适
+T2405	AnatomicSite 60336 60337	腹
+T2406	IndependentSymptoms 60346 60349	反 酸
+T2407	IndependentSymptoms 60352 60355	嗳 气
+T2408	IndependentSymptoms 60366 60369	呕 吐
+T2409	IndependentSymptoms 60374 60377	发 热
+T2410	IndependentSymptoms 60380 60383	眼 黄
+T2411	IndependentSymptoms 60386 60391	皮 肤 黄
+T2412	AnatomicSite 60398 60399	胸
+T2413	SymptomsDescribed 60400 60401	痛
+T2414	AnatomicSite 60404 60405	背
+T2415	SymptomsDescribed 60406 60407	痛
+T2416	IndependentSymptoms 60410 60413	咳 嗽
+T2417	IndependentSymptoms 60418 60425	声 音 嘶 哑
+T2418	IndependentSymptoms 60428 60431	呛 咳
+T2419	IndependentSymptoms 60436 60439	呕 血
+T2420	IndependentSymptoms 60442 60445	黑 便
+T2421	IndependentSymptoms 60450 60457	吞 咽 困 难
+T2422	IndependentSymptoms 60460 60467	呼 吸 困 难
+T2423	AnatomicSite 60480 60481	胃
+T2424	AnatomicSite 60488 60491	胃 体
+T2425	Operation 60592 60611	根 治 性 全 胃 大 部 切 除 术
+T2426	AnatomicSite 60628 60629	腹
+T2427	AnatomicSite 60634 60641	左 肝 脏 面
+T2428	AnatomicSite 60662 60665	盆 腔
+T2429	AnatomicSite 60678 60683	大 网 膜
+T2430	AnatomicSite 60702 60711	胃 体 部 后 壁
+T2431	AnatomicSite 60798 60805	胃 体 小 弯
+T2432	AnatomicSite 60858 60867	小 弯 淋 巴 结
+T2433	AnatomicSite 60878 60887	大 弯 淋 巴 结
+T2434	AnatomicSite 60898 60909	幽 门 下 淋 巴 结
+T2435	AnatomicSite 60920 60923	贲 门
+T2436	AnatomicSite 60932 60937	淋 巴 结
+T2437	AnatomicSite 60998 60999	胃
+T2438	AnatomicSite 61116 61119	腹 部
+T2439	SymptomsDescribed 61120 61127	疼 痛 不 适
+T2440	AnatomicSite 61132 61137	中 上 腹
+T2441	AnatomicSite 61140 61145	左 下 腹
+T2442	SymptomsDescribed 61152 61159	隐 痛 不 适
+T2443	AnatomicSite 61170 61175	肩 背 部
+T2444	SymptomsDescribed 61176 61181	放 射 痛
+T2445	IndependentSymptoms 61210 61213	反 酸
+T2446	IndependentSymptoms 61216 61219	嗳 气
+T2447	AnatomicSite 61222 61223	腹
+T2448	SymptomsDescribed 61224 61225	胀
+T2449	IndependentSymptoms 61234 61237	呕 吐
+T2450	AnatomicSite 61240 61241	腹
+T2451	SymptomsDescribed 61242 61243	泻
+T2452	IndependentSymptoms 61246 61249	黑 便
+T2453	IndependentSymptoms 61258 61261	发 热
+T2454	AnatomicSite 61264 61265	胸
+T2455	SymptomsDescribed 61266 61267	闷
+T2456	AnatomicSite 61270 61271	胸
+T2457	SymptomsDescribed 61272 61273	痛
+T2458	IndependentSymptoms 61276 61279	咳 嗽
+T2459	AnatomicSite 61294 61295	胃
+T2460	AnatomicSite 61306 61309	食 管
+T2461	AnatomicSite 61320 61321	胃
+T2462	AnatomicSite 61330 61331	口
+T2463	Medicine 61336 61343	雷 贝 拉 唑
+T2464	Medicine 61346 61349	安 达
+T2465	AnatomicSite 61408 61413	上 腹 部
+T2466	SymptomsDescribed 61414 61417	不 适
+T2467	AnatomicSite 61424 61425	胃
+T2468	AnatomicSite 61432 61435	胃 角
+T2469	AnatomicSite 61448 61451	胃 窦
+T2470	AnatomicSite 61462 61465	胃 体
+T2471	AnatomicSite 61470 61479	十 二 指 肠 球
+T2472	AnatomicSite 61488 61489	口
+T2473	Medicine 61494 61501	雷 贝 拉 唑
+T2474	Medicine 61504 61515	阿 拉 坦 五 味 丸
+T2475	AnatomicSite 61556 61561	左 下 腹
+T2476	SymptomsDescribed 61562 61569	疼 痛 不 适
+T2477	IndependentSymptoms 61572 61579	大 便 干 结
+T2478	AnatomicSite 61608 61609	肠
+T2479	AnatomicSite 61616 61619	结 肠
+T2480	AnatomicSite 61622 61625	直 肠
+T2481	IndependentSymptoms 61732 61741	大 便 较 干 结
+T2482	AnatomicSite 61816 61821	上 腹 部
+T2483	SymptomsDescribed 61822 61829	饱 胀 不 适
+T2484	AnatomicSite 61836 61843	右 肩 背 部
+T2485	SymptomsDescribed 61844 61849	撑 胀 感
+T2486	SymptomsDescribed 61874 61877	锐 痛
+T2487	IndependentSymptoms 61896 61899	反 酸
+T2488	IndependentSymptoms 61902 61905	恶 心
+T2489	IndependentSymptoms 61910 61917	吞 咽 困 难
+T2490	IndependentSymptoms 61922 61925	呕 吐
+T2491	IndependentSymptoms 61936 61939	发 热
+T2492	IndependentSymptoms 61944 61947	呕 血
+T2493	IndependentSymptoms 61950 61953	黑 便
+T2494	IndependentSymptoms 61958 61961	咳 嗽
+T2495	IndependentSymptoms 61964 61967	咳 痰
+T2496	IndependentSymptoms 61972 61975	尿 频
+T2497	IndependentSymptoms 61978 61981	尿 急
+T2498	IndependentSymptoms 61984 61987	尿 痛
+T2499	AnatomicSite 62022 62025	胆 囊
+T2500	Operation 62056 62071	腹 腔 镜 胆 囊 切 除 术
+T2501	AnatomicSite 62082 62085	腹 部
+T2502	SymptomsDescribed 62086 62089	不 适
+T2503	AnatomicSite 62096 62097	胃
+T2504	AnatomicSite 62106 62109	胃 角
+T2505	AnatomicSite 62126 62129	胃 角
+T2506	AnatomicSite 62260 62261	胃
+T2507	IndependentSymptoms 62340 62347	体 重 减 轻
+T2508	AnatomicSite 62390 62393	上 腹
+T2509	SymptomsDescribed 62394 62395	胀
+T2510	IndependentSymptoms 62400 62403	烧 心
+T2511	AnatomicSite 62408 62409	腹
+T2512	AnatomicSite 62420 62421	腹
+T2513	SymptomsDescribed 62422 62423	痛
+T2514	AnatomicSite 62426 62427	腹
+T2515	SymptomsDescribed 62428 62429	泻
+T2516	IndependentSymptoms 62434 62437	恶 心
+T2517	IndependentSymptoms 62440 62443	呕 吐
+T2518	IndependentSymptoms 62448 62451	返 酸
+T2519	IndependentSymptoms 62454 62457	返 食
+T2520	IndependentSymptoms 62462 62465	呕 血
+T2521	IndependentSymptoms 62468 62471	黑 便
+T2522	AnatomicSite 62482 62483	胃
+T2523	AnatomicSite 62496 62503	十 二 指 肠
+T2524	Medicine 62532 62537	安 斯 菲
+T2525	Medicine 62540 62547	膜 固 斯 达
+T2526	AnatomicSite 62600 62601	胃
+T2527	AnatomicSite 62626 62627	胃
+T2528	AnatomicSite 62670 62677	十 二 指 肠
+T2529	AnatomicSite 62702 62705	胃 窦
+T2530	AnatomicSite 62718 62719	胃
+T2531	AnatomicSite 62732 62735	幽 门
+T2532	Medicine 62760 62767	膜 固 斯 达
+T2533	AnatomicSite 62864 62867	胃 肠
+T2534	AnatomicSite 62878 62883	胃 粘 膜
+T2535	AnatomicSite 62956 62957	口
+T2536	Medicine 62962 62967	安 斯 菲
+T2537	Medicine 62970 62977	膜 固 思 达
+T2538	Medicine 62980 62985	吗 丁 啉
+T2539	IndependentSymptoms 63012 63015	恶 心
+T2540	IndependentSymptoms 63018 63021	呕 吐
+T2541	IndependentSymptoms 63026 63029	反 酸
+T2542	IndependentSymptoms 63032 63035	烧 心
+T2543	AnatomicSite 63040 63041	腹
+T2544	SymptomsDescribed 63042 63043	痛
+T2545	AnatomicSite 63046 63047	腹
+T2546	SymptomsDescribed 63048 63049	胀
+T2547	AnatomicSite 63062 63065	胃 肠
+T2548	AnatomicSite 63096 63103	十 二 指 肠
+T2549	AnatomicSite 63110 63111	胃
+T2550	IndependentSymptoms 63166 63173	饮 食 略 差
+T2551	IndependentSymptoms 63274 63281	大 便 带 血
+T2552	AnatomicSite 63320 63323	结 肠
+T2553	AnatomicSite 63340 63343	直 肠
+T2554	Medicine 63358 63365	美 沙 拉 嗪
+T2555	AnatomicSite 63370 63371	肛
+T2556	Medicine 63374 63381	激 素 盐 水
+T2557	AnatomicSite 63388 63389	肠
+T2558	Medicine 63470 63477	美 沙 拉 嗪
+T2559	AnatomicSite 63482 63483	肛
+T2560	AnatomicSite 63498 63501	结 肠
+T2561	AnatomicSite 63556 63559	直 肠
+T2562	IndependentSymptoms 63640 63643	发 热
+T2563	IndependentSymptoms 63694 63697	便 血
+T2564	SymptomsDescribed 63716 63719	疼 痛
+T2565	SymptomsDescribed 63722 63729	肿 物 脱 出
+T2566	IndependentSymptoms 63734 63737	恶 心
+T2567	IndependentSymptoms 63738 63741	呕 吐
+T2568	AnatomicSite 63746 63747	腹
+T2569	SymptomsDescribed 63748 63749	胀
+T2570	AnatomicSite 63750 63751	腹
+T2571	SymptomsDescribed 63752 63753	痛
+T2572	AnatomicSite 63796 63801	中 上 腹
+T2573	SymptomsDescribed 63802 63805	胀 痛
+T2574	AnatomicSite 63858 63861	胆 囊
+T2575	Operation 63900 63909	胆 囊 造 瘘 术
+T2576	AnatomicSite 63922 63925	腹 腔
+T2577	AnatomicSite 63950 63951	腹
+T2578	AnatomicSite 63956 63957	肝
+T2579	AnatomicSite 63968 63971	胆 囊
+T2580	AnatomicSite 63998 64005	胆 囊 三 角
+T2581	AnatomicSite 64024 64029	胆 总 管
+T2582	AnatomicSite 64056 64059	胃 肠
+T2583	AnatomicSite 64094 64097	胆 囊
+T2584	AnatomicSite 64162 64165	胆 囊
+T2585	IndependentSymptoms 64208 64211	恶 心
+T2586	IndependentSymptoms 64214 64217	呕 吐
+T2587	IndependentSymptoms 64220 64223	寒 战
+T2588	IndependentSymptoms 64226 64229	高 热
+T2589	AnatomicSite 64232 64233	腹
+T2590	SymptomsDescribed 64234 64235	胀
+T2591	AnatomicSite 64238 64239	腹
+T2592	SymptomsDescribed 64240 64241	泻
+T2593	AnatomicSite 64244 64247	皮 肤
+T2594	AnatomicSite 64248 64251	巩 膜
+T2595	SymptomsDescribed 64252 64255	黄 染
+T2596	SymptomsDescribed 64258 64261	不 适
+T2597	AnatomicSite 64276 64279	胆 囊
+T2598	Operation 64300 64309	胆 囊 造 瘘 术
+T2599	AnatomicSite 64372 64373	胃
+T2600	IndependentSymptoms 64448 64451	嗳 气
+T2601	AnatomicSite 64456 64457	口
+T2602	SymptomsDescribed 64458 64459	苦
+T2603	AnatomicSite 64464 64465	腹
+T2604	SymptomsDescribed 64466 64467	痛
+T2605	AnatomicSite 64470 64471	腹
+T2606	SymptomsDescribed 64472 64473	胀
+T2607	IndependentSymptoms 64478 64481	恶 心
+T2608	IndependentSymptoms 64484 64487	呕 吐
+T2609	SymptomsDescribed 64490 64493	不 适
+T2610	AnatomicSite 64542 64547	右 上 腹
+T2611	SymptomsDescribed 64552 64555	隐 痛
+T2612	SymptomsDescribed 64578 64583	放 射 痛
+T2613	AnatomicSite 64588 64591	皮 肤
+T2614	AnatomicSite 64592 64595	巩 膜
+T2615	SymptomsDescribed 64596 64599	黄 染
+T2616	AnatomicSite 64610 64615	中 上 腹
+T2617	SymptomsDescribed 64616 64621	按 压 痛
+T2618	AnatomicSite 64650 64651	胃
+T2619	AnatomicSite 64668 64671	胃 窦
+T2620	AnatomicSite 64682 64685	胃 窦
+T2621	AnatomicSite 64722 64729	十 二 指 肠
+T2622	AnatomicSite 64740 64749	十 二 指 肠 球
+T2623	AnatomicSite 64768 64771	胃 窦
+T2624	AnatomicSite 64940 64943	腹 部
+T2625	AnatomicSite 64954 64957	胆 囊
+T2626	AnatomicSite 65012 65017	上 腹 部
+T2627	SymptomsDescribed 65018 65021	疼 痛
+T2628	SymptomsDescribed 65032 65035	胀 痛
+T2629	AnatomicSite 65040 65045	腰 背 部
+T2630	SymptomsDescribed 65046 65051	放 射 痛
+T2631	IndependentSymptoms 65056 65059	反 酸
+T2632	IndependentSymptoms 65062 65065	呃 逆
+T2633	AnatomicSite 65068 65069	腹
+T2634	SymptomsDescribed 65070 65071	泻
+T2635	IndependentSymptoms 65076 65079	恶 心
+T2636	IndependentSymptoms 65082 65085	呕 吐
+T2637	IndependentSymptoms 65090 65093	发 热
+T2638	IndependentSymptoms 65096 65099	寒 战
+T2639	IndependentSymptoms 65104 65107	眼 黄
+T2640	IndependentSymptoms 65110 65113	身 黄
+T2641	IndependentSymptoms 65116 65119	尿 黄
+T2642	IndependentSymptoms 65124 65127	黑 便
+T2643	IndependentSymptoms 65130 65133	呕 血
+T2644	IndependentSymptoms 65138 65141	咳 嗽
+T2645	IndependentSymptoms 65144 65147	咳 痰
+T2646	AnatomicSite 65152 65153	心
+T2647	SymptomsDescribed 65154 65155	悸
+T2648	IndependentSymptoms 65158 65161	气 促
+T2649	AnatomicSite 65164 65165	胸
+T2650	SymptomsDescribed 65166 65167	闷
+T2651	SymptomsDescribed 65170 65173	不 适
+T2652	AnatomicSite 65182 65183	胃
+T2653	AnatomicSite 65194 65195	胃
+T2654	AnatomicSite 65218 65219	胃
+T2655	AnatomicSite 65278 65283	腰 背 部
+T2656	SymptomsDescribed 65284 65289	放 射 痛
+T2657	AnatomicSite 65318 65321	腹 部
+T2658	AnatomicSite 65328 65331	胆 囊
+T2659	AnatomicSite 65408 65411	胆 囊
+T2660	AnatomicSite 65422 65425	胆 囊
+T2661	AnatomicSite 65482 65483	胃
+T2662	IndependentSymptoms 65598 65601	痛 经
+T2663	AnatomicSite 65618 65631	左 输 卵 管 壶 腹 部
+T2664	AnatomicSite 65662 65665	子 宫
+T2665	Operation 65682 65685	子 宫
+T2666	AnatomicSite 65716 65719	子 宫
+T2667	AnatomicSite 65790 65793	子 宫
+T2668	AnatomicSite 65822 65823	腹
+T2669	SymptomsDescribed 65824 65825	痛
+T2670	IndependentSymptoms 65836 65843	经 量 增 多
+T2671	IndependentSymptoms 65848 65855	经 期 延 长
+T2672	IndependentSymptoms 65860 65871	月 经 周 期 紊 乱
+T2673	IndependentSymptoms 65876 65879	畏 寒
+T2674	IndependentSymptoms 65882 65885	发 热
+T2675	AnatomicSite 65890 65893	阴 道
+T2676	SymptomsDescribed 65894 65897	流 液
+T2677	SymptomsDescribed 65900 65903	不 适
+T2678	IndependentSymptoms 66058 66061	纳 差
+T2679	AnatomicSite 66064 66071	右 上 腹 部
+T2680	SymptomsDescribed 66072 66079	胀 痛 不 适
+T2681	AnatomicSite 66112 66113	肝
+T2682	AnatomicSite 66122 66125	胆 囊
+T2683	Operation 66166 66181	肝 癌 + 胆 囊 切 除 术
+T2684	AnatomicSite 66200 66201	肝
+T2685	AnatomicSite 66208 66209	肝
+T2686	Medicine 66280 66283	方 克
+T2687	Medicine 66286 66291	替 加 氟
+T2688	Medicine 66294 66301	丝 裂 霉 素
+T2689	Medicine 66304 66307	波 贝
+T2690	AnatomicSite 66324 66325	肝
+T2691	AnatomicSite 66432 66435	右 肝
+T2692	AnatomicSite 66446 66447	肝
+T2693	AnatomicSite 66466 66467	肝
+T2694	Operation 66526 66549	肝 癌 介 入 治 疗 （ T A C E ）
+T2695	Operation 66574 66587	肝 肿 瘤 射 频 消 融
+T2696	AnatomicSite 66604 66605	肝
+T2697	SymptomsDescribed 66634 66635	痛
+T2698	Operation 66688 66709	癌 介 入 治 疗 （ T A C E ）
+T2699	Operation 66716 66729	肝 肿 瘤 射 频 消 融
+T2700	AnatomicSite 66740 66741	肝
+T2701	Operation 66746 66757	无 水 酒 精 注 射
+T2702	AnatomicSite 66778 66779	肝
+T2703	AnatomicSite 66856 66859	上 腹
+T2704	SymptomsDescribed 66860 66867	隐 痛 不 适
+T2705	AnatomicSite 66872 66873	腹
+T2706	SymptomsDescribed 66874 66875	胀
+T2707	AnatomicSite 66878 66879	腹
+T2708	SymptomsDescribed 66880 66881	泻
+T2709	AnatomicSite 66884 66887	肝 区
+T2710	SymptomsDescribed 66888 66891	不 适
+T2711	IndependentSymptoms 66896 66899	发 热
+T2712	IndependentSymptoms 66910 66913	厌 食
+T2713	IndependentSymptoms 66916 66919	乏 力
+T2714	AnatomicSite 67048 67051	直 肠
+T2715	AnatomicSite 67060 67067	乙 状 结 肠
+T2716	AnatomicSite 67078 67079	肝
+T2717	AnatomicSite 67090 67093	胆 囊
+T2718	AnatomicSite 67100 67103	胆 囊
+T2719	Operation 67116 67129	腹 腔 镜 胆 囊 切 除
+T2720	Operation 67132 67143	直 肠 癌 根 治 术
+T2721	AnatomicSite 67166 67169	直 肠
+T2722	AnatomicSite 67288 67289	肠
+T2723	AnatomicSite 67298 67303	淋 巴 结
+T2724	AnatomicSite 67324 67327	胆 囊
+T2725	AnatomicSite 67334 67337	胆 囊
+T2726	AnatomicSite 67406 67411	右 下 肢
+T2727	SymptomsDescribed 67412 67415	疼 痛
+T2728	AnatomicSite 67422 67431	下 肢 动 静 脉
+T2729	AnatomicSite 67440 67453	右 下 肢 肌 间 静 脉
+T2730	AnatomicSite 67466 67469	血 管
+T2731	AnatomicSite 67484 67487	下 肢
+T2732	AnatomicSite 67508 67511	皮 下
+T2733	Medicine 67516 67521	速 碧 林
+T2734	IndependentSymptoms 67542 67545	恶 心
+T2735	IndependentSymptoms 67546 67549	呕 吐
+T2736	AnatomicSite 67552 67555	腹 部
+T2737	AnatomicSite 67566 67571	腹 盆 部
+T2738	AnatomicSite 67578 67581	肠 腔
+T2739	AnatomicSite 67588 67589	肠
+T2740	AnatomicSite 67608 67609	肠
+T2741	AnatomicSite 67632 67633	肠
+T2742	SymptomsDescribed 67666 67669	不 适
+T2743	Medicine 67716 67723	奥 沙 利 铂
+T2744	Medicine 67726 67729	C F
+T2745	Medicine 67732 67737	替 加 氟
+T2746	Medicine 67798 67805	奥 沙 利 铂
+T2747	Medicine 67808 67811	C F
+T2748	Medicine 67814 67819	替 加 氟
+T2749	AnatomicSite 67886 67889	直 肠
+T2750	AnatomicSite 68010 68015	上 腹 部
+T2751	SymptomsDescribed 68016 68019	疼 痛
+T2752	SymptomsDescribed 68024 68027	胀 痛
+T2753	IndependentSymptoms 68060 68063	发 热
+T2754	IndependentSymptoms 68066 68069	乏 力
+T2755	IndependentSymptoms 68074 68077	畏 寒
+T2756	IndependentSymptoms 68080 68083	寒 战
+T2757	IndependentSymptoms 68088 68091	咳 嗽
+T2758	IndependentSymptoms 68094 68097	咳 痰
+T2759	AnatomicSite 68102 68103	胸
+T2760	SymptomsDescribed 68104 68105	痛
+T2761	AnatomicSite 68108 68113	肩 背 部
+T2762	SymptomsDescribed 68114 68119	放 射 痛
+T2763	IndependentSymptoms 68124 68127	恶 心
+T2764	IndependentSymptoms 68130 68133	呕 吐
+T2765	IndependentSymptoms 68138 68141	反 酸
+T2766	IndependentSymptoms 68144 68147	烧 心
+T2767	IndependentSymptoms 68152 68165	停 止 排 便 、 排 气
+T2768	AnatomicSite 68230 68231	胃
+T2769	AnatomicSite 68246 68249	贲 门
+T2770	AnatomicSite 68254 68255	胃
+T2771	AnatomicSite 68282 68283	胃
+T2772	AnatomicSite 68298 68307	十 二 指 肠 球
+T2773	AnatomicSite 68348 68349	胃
+T2774	AnatomicSite 68400 68401	肠
+T2775	AnatomicSite 68476 68477	胃
+T2776	IndependentSymptoms 68534 68545	大 便 次 数 增 多
+T2777	IndependentSymptoms 68558 68565	大 便 偏 稀
+T2778	IndependentSymptoms 68614 68631	大 便 性 状 及 习 惯 改 变
+T2779	AnatomicSite 68646 68647	肠
+T2780	AnatomicSite 68678 68681	直 肠
+T2781	AnatomicSite 68948 68951	臀 部
+T2782	AnatomicSite 68954 68957	背 部
+T2783	SymptomsDescribed 68958 68961	皮 疹
+T2784	IndependentSymptoms 68966 68969	瘙 痒
+T2785	Medicine 68976 68983	奥 沙 利 铂
+T2786	AnatomicSite 69024 69029	结 直 肠
+T2787	Operation 69042 69053	D I X O N S
+T2788	Operation 69062 69075	回 肠 双 腔 造 瘘 术
+T2789	AnatomicSite 69088 69091	直 肠
+T2790	IndependentSymptoms 69242 69245	发 热
+T2791	IndependentSymptoms 69250 69253	乏 力
+T2792	IndependentSymptoms 69256 69259	咳 嗽
+T2793	IndependentSymptoms 69262 69265	气 促
+T2794	IndependentSymptoms 69268 69275	身 目 黄 染
+T2795	AnatomicSite 69282 69285	臀 部
+T2796	AnatomicSite 69288 69291	背 部
+T2797	SymptomsDescribed 69294 69297	皮 疹
+T2798	IndependentSymptoms 69302 69305	瘙 痒
+T2799	AnatomicSite 69324 69325	胃
+T2800	AnatomicSite 69408 69411	结 肠
+T2801	Operation 69432 69443	结 肠 癌 根 治 术
+T2802	Operation 69446 69461	放 射 性 粒 子 置 入 术
+T2803	AnatomicSite 69484 69491	乙 状 结 肠
+T2804	AnatomicSite 69508 69511	乳 头
+T2805	AnatomicSite 69524 69531	肠 壁 全 层
+T2806	AnatomicSite 69534 69537	脉 管
+T2807	AnatomicSite 69540 69543	神 经
+T2808	AnatomicSite 69574 69579	淋 巴 结
+T2809	IndependentSymptoms 69900 69903	畏 寒
+T2810	IndependentSymptoms 69906 69909	发 热
+T2811	IndependentSymptoms 69914 69917	恶 心
+T2812	IndependentSymptoms 69920 69923	呕 吐
+T2813	AnatomicSite 69928 69929	头
+T2814	SymptomsDescribed 69930 69931	昏
+T2815	IndependentSymptoms 69934 69937	乏 力
+T2816	SymptomsDescribed 69940 69943	不 适
+T2817	IndependentSymptoms 70010 70013	乏 力
+T2818	IndependentSymptoms 70018 70021	恶 心
+T2819	IndependentSymptoms 70024 70027	厌 油
+T2820	IndependentSymptoms 70030 70033	纳 差
+T2821	IndependentSymptoms 70036 70039	畏 寒
+T2822	IndependentSymptoms 70042 70045	发 热
+T2823	SymptomsDescribed 70048 70051	不 适
+T2824	IndependentSymptoms 70056 70063	体 重 下 降
+T2825	IndependentSymptoms 70072 70079	体 重 减 轻
+T2826	AnatomicSite 70110 70111	口
+T2827	IndependentSymptoms 70280 70287	体 重 减 少
+T2828	Operation 70330 70353	经 右 胸 上 腹 部 分 食 管 切 除 术
+T2829	Operation 70356 70367	胃 食 管 吻 合 术
+T2830	AnatomicSite 70516 70525	肝 S 6 / 7
+T2831	AnatomicSite 70538 70539	肝
+T2832	AnatomicSite 70544 70549	肝 S 6
+T2833	AnatomicSite 70560 70561	肝
+T2834	Operation 70644 70657	肝 动 脉 栓 塞 化 疗
+T2835	Operation 70660 70667	T A C E
+T2836	Medicine 70682 70689	表 阿 霉 素
+T2837	Medicine 70700 70703	洛 铂
+T2838	Medicine 70714 70717	碘 油
+T2839	AnatomicSite 70784 70787	食 管
+T2840	AnatomicSite 70796 70797	肝
+T2841	AnatomicSite 70810 70819	肝 S 6 / 7
+T2842	Medicine 70826 70829	碘 油
+T2843	AnatomicSite 70840 70843	门 脉
+T2844	AnatomicSite 70846 70851	肝 S 6
+T2845	AnatomicSite 70884 70885	腹
+T2846	SymptomsDescribed 70886 70887	痛
+T2847	AnatomicSite 70892 70893	腹
+T2848	SymptomsDescribed 70894 70895	胀
+T2849	IndependentSymptoms 70900 70903	恶 心
+T2850	IndependentSymptoms 70908 70911	呕 吐
+T2851	IndependentSymptoms 70916 70919	畏 寒
+T2852	IndependentSymptoms 70924 70927	发 热
+T2853	AnatomicSite 70932 70935	皮 肤
+T2854	IndependentSymptoms 70936 70939	搔 痒
+T2855	SymptomsDescribed 70942 70945	不 适
+T2856	IndependentSymptoms 71044 71047	乏 力
+T2857	IndependentSymptoms 71048 71055	体 重 减 轻
+T2858	AnatomicSite 71056 71059	胃 部
+T2859	SymptomsDescribed 71060 71063	不 适
+T2860	AnatomicSite 71086 71087	胃
+T2861	AnatomicSite 71100 71101	胃
+T2862	AnatomicSite 71124 71127	胃 窦
+T2863	AnatomicSite 71184 71187	肝 胆
+T2864	AnatomicSite 71188 71189	脾
+T2865	AnatomicSite 71190 71191	胰
+T2866	AnatomicSite 71200 71203	胰 头
+T2867	AnatomicSite 71212 71217	淋 巴 结
+T2868	Medicine 71238 71249	紫 杉 醇 脂 质 体
+T2869	Medicine 71254 71259	替 吉 奥
+T2870	Medicine 71286 71297	紫 杉 醇 脂 质 体
+T2871	Medicine 71314 71319	替 吉 奥
+T2872	IndependentSymptoms 71370 71373	恶 心
+T2873	IndependentSymptoms 71374 71377	呕 吐
+T2874	Medicine 71384 71391	托 烷 司 琼
+T2875	Medicine 71396 71401	异 丙 嗪
+T2876	Medicine 71470 71475	替 吉 奥
+T2877	Medicine 71478 71483	维 康 达
+T2878	SymptomsDescribed 71508 71511	不 适
+T2879	AnatomicSite 71642 71647	剑 突 下
+T2880	SymptomsDescribed 71648 71655	隐 痛 不 适
+T2881	AnatomicSite 71658 71659	腹
+T2882	SymptomsDescribed 71660 71661	胀
+T2883	AnatomicSite 71728 71729	胃
+T2884	AnatomicSite 71738 71739	胃
+T2885	AnatomicSite 71746 71749	胃 角
+T2886	AnatomicSite 71828 71831	胃 角
+T2887	AnatomicSite 71848 71853	全 腹 部
+T2888	AnatomicSite 71870 71877	. 胃 体 壁
+T2889	AnatomicSite 71904 71905	胃
+T2890	AnatomicSite 71914 71919	子 宫 颈
+T2891	AnatomicSite 71946 71953	子 宫 后 壁
+T2892	AnatomicSite 71966 71969	子 宫
+T2893	AnatomicSite 71980 71985	腹 膜 后
+T2894	AnatomicSite 71992 71997	淋 巴 结
+T2895	Operation 72068 72091	腹 腔 镜 下 远 端 胃 大 部 切 除 术
+T2896	Operation 72094 72109	放 射 性 粒 子 植 入 术
+T2897	AnatomicSite 72138 72139	胃
+T2898	AnatomicSite 72156 72163	胃 壁 全 层
+T2899	AnatomicSite 72174 72177	脉 管
+T2900	AnatomicSite 72180 72183	神 经
+T2901	AnatomicSite 72208 72223	胃 大 、 小 弯 淋 巴 结
+T2902	AnatomicSite 72262 72267	大 网 膜
+T2903	AnatomicSite 72298 72303	淋 巴 结
+T2904	IndependentSymptoms 72420 72423	发 热
+T2905	IndependentSymptoms 72426 72429	畏 寒
+T2906	IndependentSymptoms 72432 72435	恶 心
+T2907	IndependentSymptoms 72438 72441	呕 吐
+T2908	AnatomicSite 72444 72445	腹
+T2909	SymptomsDescribed 72446 72447	泻
+T2910	SymptomsDescribed 72450 72453	不 适
+T2911	AnatomicSite 72504 72505	胃
+T2912	AnatomicSite 72566 72567	胃
+T2913	IndependentSymptoms 72624 72631	大 便 带 血
+T2914	AnatomicSite 72646 72649	结 肠
+T2915	AnatomicSite 72664 72667	结 肠
+T2916	Operation 72674 72687	结 肠 息 肉 电 切 术
+T2917	AnatomicSite 72736 72739	结 肠
+T2918	AnatomicSite 72864 72867	肛 门
+T2919	SymptomsDescribed 72868 72875	肿 物 脱 出
+T2920	AnatomicSite 72878 72881	肛 门
+T2921	SymptomsDescribed 72882 72887	下 坠 感
+T2922	AnatomicSite 72892 72895	肛 周
+T2923	SymptomsDescribed 72896 72899	疼 痛
+T2924	AnatomicSite 72902 72905	肛 周
+T2925	IndependentSymptoms 72906 72909	瘙 痒
+T2926	IndependentSymptoms 72914 72917	恶 心
+T2927	IndependentSymptoms 72920 72923	呕 吐
+T2928	AnatomicSite 72928 72929	腹
+T2929	SymptomsDescribed 72930 72931	痛
+T2930	AnatomicSite 72934 72935	腹
+T2931	SymptomsDescribed 72936 72937	胀
+T2932	AnatomicSite 72988 72995	右 上 腹 部
+T2933	SymptomsDescribed 72996 72999	疼 痛
+T2934	SymptomsDescribed 73004 73007	刺 痛
+T2935	SymptomsDescribed 73020 73023	疼 痛
+T2936	AnatomicSite 73038 73041	脐 部
+T2937	AnatomicSite 73050 73055	肩 背 部
+T2938	SymptomsDescribed 73056 73061	放 射 痛
+T2939	IndependentSymptoms 73068 73075	大 汗 淋 漓
+T2940	IndependentSymptoms 73082 73085	畏 寒
+T2941	IndependentSymptoms 73088 73091	发 热
+T2942	AnatomicSite 73118 73119	头
+T2943	SymptomsDescribed 73120 73121	昏
+T2944	AnatomicSite 73124 73125	头
+T2945	SymptomsDescribed 73126 73127	痛
+T2946	IndependentSymptoms 73132 73139	面 色 苍 白
+T2947	AnatomicSite 73142 73145	四 肢
+T2948	IndependentSymptoms 73146 73149	乏 力
+T2949	IndependentSymptoms 73154 73157	恶 心
+T2950	IndependentSymptoms 73160 73163	呕 吐
+T2951	IndependentSymptoms 73168 73171	呕 血
+T2952	IndependentSymptoms 73174 73177	黑 便
+T2953	AnatomicSite 73180 73183	皮 肤
+T2954	AnatomicSite 73184 73187	巩 膜
+T2955	SymptomsDescribed 73190 73193	黄 染
+T2956	AnatomicSite 73254 73257	腹 部
+T2957	AnatomicSite 73276 73281	肝 实 质
+T2958	AnatomicSite 73308 73313	门 静 脉
+T2959	AnatomicSite 73344 73347	左 肾
+T2960	AnatomicSite 73360 73361	胃
+T2961	AnatomicSite 73374 73377	食 管
+T2962	AnatomicSite 73394 73397	胃 窦
+T2963	AnatomicSite 73416 73421	上 腹 部
+T2964	AnatomicSite 73442 73445	肝 门
+T2965	AnatomicSite 73448 73451	胆 管
+T2966	AnatomicSite 73520 73523	肝 门
+T2967	AnatomicSite 73536 73539	肝 门
+T2968	AnatomicSite 73542 73545	胆 管
+T2969	IndependentSymptoms 73602 73615	睡 眠 及 食 欲 欠 佳
+T2970	IndependentSymptoms 73674 73681	便 中 带 血
+T2971	IndependentSymptoms 73708 73715	里 急 后 重
+T2972	AnatomicSite 73722 73723	腹
+T2973	SymptomsDescribed 73724 73725	痛
+T2974	AnatomicSite 73728 73729	腹
+T2975	SymptomsDescribed 73730 73731	泻
+T2976	IndependentSymptoms 73734 73737	恶 心
+T2977	IndependentSymptoms 73738 73741	呕 吐
+T2978	SymptomsDescribed 73744 73747	不 适
+T2979	AnatomicSite 73802 73803	肠
+T2980	AnatomicSite 73814 73817	结 肠
+T2981	AnatomicSite 73846 73851	横 结 肠
+T2982	AnatomicSite 73870 73877	乙 状 结 肠
+T2983	Operation 73910 73923	结 肠 镜 电 切 手 术
+T2984	IndependentSymptoms 73940 73943	发 热
+T2985	IndependentSymptoms 73944 73947	寒 战
+T2986	IndependentSymptoms 73952 73955	咳 嗽
+T2987	IndependentSymptoms 73956 73959	咳 痰
+T2988	AnatomicSite 73964 73965	腹
+T2989	SymptomsDescribed 73966 73967	痛
+T2990	AnatomicSite 73970 73971	腹
+T2991	SymptomsDescribed 73972 73973	泻
+T2992	IndependentSymptoms 73978 73981	恶 心
+T2993	IndependentSymptoms 73984 73987	呕 吐
+T2994	IndependentSymptoms 73992 73995	尿 频
+T2995	IndependentSymptoms 73998 74001	尿 急
+T2996	IndependentSymptoms 74004 74007	尿 痛
+T2997	SymptomsDescribed 74010 74013	不 适
+T2998	AnatomicSite 74078 74085	皮 肤 黏 膜
+T2999	AnatomicSite 74088 74091	巩 膜
+T3000	SymptomsDescribed 74092 74095	黄 染
+T3001	AnatomicSite 74140 74143	壶 腹
+T3002	Operation 74218 74233	胰 十 二 指 肠 切 除 术
+T3003	AnatomicSite 74260 74265	壶 腹 部
+T3004	AnatomicSite 74324 74325	胃
+T3005	AnatomicSite 74332 74339	十 二 指 肠
+T3006	AnatomicSite 74346 74351	胆 总 管
+T3007	AnatomicSite 74358 74361	胰 腺
+T3008	AnatomicSite 74378 74379	胃
+T3009	AnatomicSite 74394 74397	胰 腺
+T3010	AnatomicSite 74412 74417	胆 总 管
+T3011	AnatomicSite 74454 74467	肝 十 二 指 肠 韧 带
+T3012	AnatomicSite 74478 74483	淋 巴 结
+T3013	AnatomicSite 74498 74501	胆 囊
+T3014	Medicine 74526 74533	吉 西 他 滨
+T3015	AnatomicSite 74576 74577	腹
+T3016	SymptomsDescribed 74578 74579	痛
+T3017	AnatomicSite 74582 74583	腹
+T3018	SymptomsDescribed 74584 74585	胀
+T3019	IndependentSymptoms 74590 74593	恶 心
+T3020	IndependentSymptoms 74596 74599	呕 吐
+T3021	IndependentSymptoms 74604 74607	发 热
+T3022	IndependentSymptoms 74610 74613	寒 战
+T3023	IndependentSymptoms 74618 74621	咳 嗽
+T3024	IndependentSymptoms 74624 74627	咳 痰
+T3025	IndependentSymptoms 74630 74637	呼 吸 困 难
+T3026	IndependentSymptoms 74642 74645	尿 频
+T3027	IndependentSymptoms 74648 74651	尿 急
+T3028	IndependentSymptoms 74654 74661	排 尿 困 难
+T3029	AnatomicSite 74704 74713	胰 十 二 指 肠
+T3030	IndependentSymptoms 74768 74775	饮 食 欠 佳
+T3031	AnatomicSite 74842 74847	中 上 腹
+T3032	SymptomsDescribed 74848 74849	痛
+T3033	SymptomsDescribed 74862 74865	隐 痛
+T3034	SymptomsDescribed 74868 74871	疼 痛
+T3035	AnatomicSite 74912 74915	身 体
+T3036	IndependentSymptoms 74936 74939	恶 心
+T3037	IndependentSymptoms 74944 74947	呕 吐
+T3038	AnatomicSite 74948 74949	胃
+T3039	IndependentSymptoms 74960 74963	呕 血
+T3040	IndependentSymptoms 74968 74971	黑 便
+T3041	IndependentSymptoms 74976 74979	嗳 气
+T3042	IndependentSymptoms 74984 74987	返 酸
+T3043	AnatomicSite 74992 74993	腹
+T3044	SymptomsDescribed 74994 74995	胀
+T3045	AnatomicSite 75000 75001	腹
+T3046	SymptomsDescribed 75002 75003	泻
+T3047	IndependentSymptoms 75008 75011	发 热
+T3048	AnatomicSite 75036 75037	胃
+T3049	AnatomicSite 75054 75057	胃 角
+T3050	AnatomicSite 75064 75065	胃
+T3051	AnatomicSite 75106 75109	胃 角
+T3052	IndependentSymptoms 75158 75165	食 欲 渐 差
+T3053	IndependentSymptoms 75198 75209	体 重 略 有 减 轻
+T3054	IndependentSymptoms 75242 75245	嗳 气
+T3055	AnatomicSite 75256 75261	剑 突 下
+T3056	SymptomsDescribed 75262 75265	不 适
+T3057	IndependentSymptoms 75274 75277	反 酸
+T3058	IndependentSymptoms 75280 75283	烧 心
+T3059	AnatomicSite 75288 75289	腹
+T3060	SymptomsDescribed 75290 75291	胀
+T3061	AnatomicSite 75294 75295	腹
+T3062	SymptomsDescribed 75296 75297	痛
+T3063	AnatomicSite 75300 75301	腹
+T3064	SymptomsDescribed 75302 75303	泻
+T3065	IndependentSymptoms 75362 75365	嗳 气
+T3066	IndependentSymptoms 75386 75389	嗳 气
+T3067	AnatomicSite 75398 75403	剑 突 下
+T3068	SymptomsDescribed 75404 75407	不 适
+T3069	AnatomicSite 75446 75447	胃
+T3070	AnatomicSite 75464 75475	十 二 指 肠 球 部
+T3071	AnatomicSite 75492 75493	胃
+T3072	IndependentSymptoms 75558 75561	嗳 气
+T3073	AnatomicSite 75594 75601	十 二 指 肠
+T3074	IndependentSymptoms 75758 75765	大 便 带 血
+T3075	AnatomicSite 75828 75829	腹
+T3076	SymptomsDescribed 75830 75831	痛
+T3077	AnatomicSite 75832 75833	腹
+T3078	SymptomsDescribed 75834 75835	泻
+T3079	IndependentSymptoms 75840 75843	便 秘
+T3080	AnatomicSite 75874 75879	下 腹 部
+T3081	AnatomicSite 75880 75883	盆 腔
+T3082	AnatomicSite 75892 75893	肠
+T3083	AnatomicSite 75904 75907	直 肠
+T3084	Operation 75940 75953	直 肠 癌 根 治 术 （
+T3085	Operation 75954 75965	D I X O N 术
+T3086	AnatomicSite 75982 75985	直 肠
+T3087	AnatomicSite 76018 76023	淋 巴 结
+T3088	AnatomicSite 76114 76115	肠
+T3089	IndependentSymptoms 76170 76173	咳 嗽
+T3090	IndependentSymptoms 76174 76177	咳 痰
+T3091	AnatomicSite 76192 76193	胸
+T3092	SymptomsDescribed 76194 76195	痛
+T3093	IndependentSymptoms 76196 76199	气 促
+T3094	AnatomicSite 76224 76227	盆 腔
+T3095	AnatomicSite 76234 76237	腹 部
+T3096	AnatomicSite 76260 76263	胸 部
+T3097	AnatomicSite 76278 76287	左 上 肺 舌 段
+T3098	AnatomicSite 76294 76303	右 上 肺 前 段
+T3099	AnatomicSite 76346 76349	直 肠
+T3100	AnatomicSite 76382 76385	双 肺
+T3101	AnatomicSite 76554 76555	腹
+T3102	SymptomsDescribed 76556 76557	泻
+T3103	IndependentSymptoms 76578 76585	食 欲 下 降
+T3104	SymptomsDescribed 76616 76619	不 适
+T3105	AnatomicSite 76680 76681	头
+T3106	SymptomsDescribed 76682 76683	晕
+T3107	AnatomicSite 76684 76685	头
+T3108	SymptomsDescribed 76686 76687	痛
+T3109	IndependentSymptoms 76692 76695	恶 心
+T3110	IndependentSymptoms 76696 76699	呕 吐
+T3111	AnatomicSite 76704 76705	腹
+T3112	SymptomsDescribed 76706 76707	痛
+T3113	AnatomicSite 76708 76709	腹
+T3114	SymptomsDescribed 76710 76711	泻
+T3115	IndependentSymptoms 76772 76787	大 便 习 惯 性 质 改 变
+T3116	AnatomicSite 76830 76833	直 肠
+T3117	Operation 76862 76885	腹 腔 镜 辅 助 下 直 肠 癌 根 治 术
+T3118	Operation 76888 76901	放 射 粒 子 植 入 术
+T3119	AnatomicSite 76938 76941	直 肠
+T3120	Operation 76978 76989	横 结 肠 造 口 术
+T3121	AnatomicSite 77006 77009	血 管
+T3122	AnatomicSite 77016 77021	左 下 肢
+T3123	AnatomicSite 77024 77031	下 腔 静 脉
+T3124	Operation 77038 77055	下 腔 静 脉 滤 器 取 出 术
+T3125	AnatomicSite 77142 77147	双 下 肺
+T3126	SymptomsDescribed 77154 77157	结 节
+T3127	AnatomicSite 77172 77175	直 肠
+T3128	AnatomicSite 77178 77179	肺
+T3129	SymptomsDescribed 77208 77211	不 适
+T3130	IndependentSymptoms 77216 77219	畏 寒
+T3131	IndependentSymptoms 77222 77225	发 热
+T3132	IndependentSymptoms 77230 77233	反 酸
+T3133	IndependentSymptoms 77236 77239	嗳 气
+T3134	IndependentSymptoms 77244 77247	咳 嗽
+T3135	IndependentSymptoms 77250 77253	咳 痰
+T3136	SymptomsDescribed 77256 77259	不 适
+T3137	AnatomicSite 77324 77325	胃
+T3138	IndependentSymptoms 77408 77415	黏 液 血 便
+T3139	IndependentSymptoms 77418 77421	纳 差
+T3140	IndependentSymptoms 77424 77427	厌 油
+T3141	AnatomicSite 77430 77431	腹
+T3142	SymptomsDescribed 77432 77433	胀
+T3143	AnatomicSite 77442 77443	腹
+T3144	SymptomsDescribed 77444 77445	痛
+T3145	IndependentSymptoms 77448 77455	里 急 后 重
+T3146	AnatomicSite 77458 77459	腹
+T3147	SymptomsDescribed 77460 77461	泻
+T3148	IndependentSymptoms 77464 77467	便 秘
+T3149	IndependentSymptoms 77470 77473	呕 吐
+T3150	IndependentSymptoms 77476 77479	发 热
+T3151	AnatomicSite 77512 77517	上 腹 部
+T3152	AnatomicSite 77530 77531	肝
+T3153	AnatomicSite 77610 77611	肠
+T3154	AnatomicSite 77618 77625	乙 状 结 肠
+T3155	AnatomicSite 77658 77665	乙 状 结 肠
+T3156	AnatomicSite 77670 77675	肛 门 口
+T3157	AnatomicSite 77700 77703	肠 腔
+T3158	AnatomicSite 77714 77717	直 肠
+T3159	AnatomicSite 77720 77725	肛 门 口
+T3160	AnatomicSite 77774 77781	乙 状 结 肠
+T3161	Operation 77898 77911	结 肠 肿 块 切 除 术
+T3162	Medicine 78024 78031	C 2 2 5
+T3163	AnatomicSite 78050 78053	全 身
+T3164	SymptomsDescribed 78062 78065	皮 疹
+T3165	AnatomicSite 78172 78173	腹
+T3166	SymptomsDescribed 78174 78175	泻
+T3167	IndependentSymptoms 78206 78209	发 热
+T3168	IndependentSymptoms 78214 78217	反 酸
+T3169	IndependentSymptoms 78220 78223	烧 心
+T3170	IndependentSymptoms 78228 78231	恶 心
+T3171	IndependentSymptoms 78234 78237	呕 吐
+T3172	IndependentSymptoms 78242 78259	进 食 阻 挡 感 及 哽 噎 感
+T3173	AnatomicSite 78264 78269	胸 骨 后
+T3174	SymptomsDescribed 78270 78273	疼 痛
+T3175	IndependentSymptoms 78278 78281	乏 力
+T3176	IndependentSymptoms 78284 78287	纳 差
+T3177	IndependentSymptoms 78292 78295	呕 血
+T3178	IndependentSymptoms 78298 78301	黑 便
+T3179	IndependentSymptoms 78306 78319	停 止 排 便 、 排 气
+T3180	AnatomicSite 78322 78323	腹
+T3181	SymptomsDescribed 78324 78325	痛
+T3182	AnatomicSite 78328 78329	腹
+T3183	SymptomsDescribed 78330 78331	胀
+T3184	AnatomicSite 78354 78355	肠
+T3185	AnatomicSite 78362 78363	肠
+T3186	Operation 78380 78391	肠 息 肉 切 除 术
+T3187	AnatomicSite 78430 78431	腹
+T3188	SymptomsDescribed 78432 78433	泻
+T3189	AnatomicSite 78472 78475	结 肠
+T3190	Operation 78490 78501	肠 息 肉 切 除 术
+T3191	AnatomicSite 78536 78537	腹
+T3192	SymptomsDescribed 78538 78539	泻
+T3193	AnatomicSite 78574 78577	结 肠
+T3194	AnatomicSite 78764 78771	中 上 腹 部
+T3195	SymptomsDescribed 78772 78779	闷 痛 不 适
+T3196	SymptomsDescribed 78790 78793	隐 痛
+T3197	IndependentSymptoms 78826 78829	恶 心
+T3198	IndependentSymptoms 78832 78835	呕 吐
+T3199	IndependentSymptoms 78838 78841	返 酸
+T3200	IndependentSymptoms 78844 78847	嗳 气
+T3201	IndependentSymptoms 78850 78853	纳 差
+T3202	IndependentSymptoms 78856 78859	乏 力
+T3203	IndependentSymptoms 78862 78865	消 瘦
+T3204	AnatomicSite 78868 78869	腹
+T3205	SymptomsDescribed 78870 78871	痛
+T3206	AnatomicSite 78874 78875	腹
+T3207	SymptomsDescribed 78876 78877	泻
+T3208	IndependentSymptoms 78880 78883	便 秘
+T3209	IndependentSymptoms 78888 78891	呕 血
+T3210	IndependentSymptoms 78894 78897	黑 便
+T3211	IndependentSymptoms 78902 78905	发 热
+T3212	IndependentSymptoms 78908 78911	咳 嗽
+T3213	IndependentSymptoms 78914 78917	咳 痰
+T3214	AnatomicSite 78962 78963	胃
+T3215	AnatomicSite 78976 78979	胃 底
+T3216	AnatomicSite 79000 79001	胃
+T3217	AnatomicSite 79108 79119	右 颈 部 淋 巴 结
+T3218	SymptomsDescribed 79120 79123	肿 大
+T3219	IndependentSymptoms 79146 79149	发 热
+T3220	IndependentSymptoms 79152 79155	盗 汗
+T3221	IndependentSymptoms 79160 79167	涕 中 带 血
+T3222	IndependentSymptoms 79172 79175	呛 咳
+T3223	IndependentSymptoms 79178 79185	声 音 嘶 哑
+T3224	AnatomicSite 79204 79213	颈 部 淋 巴 结
+T3225	AnatomicSite 79252 79263	右 颈 部 淋 巴 结
+T3226	IndependentSymptoms 79354 79361	吞 咽 困 难
+T3227	AnatomicSite 79366 79367	胃
+T3228	AnatomicSite 79388 79389	胃
+T3229	AnatomicSite 79410 79417	食 管 粘 膜
+T3230	AnatomicSite 79486 79489	骨 髓
+T3231	AnatomicSite 79628 79629	胃
+T3232	AnatomicSite 79696 79703	左 侧 腰 部
+T3233	SymptomsDescribed 79704 79707	疼 痛
+T3234	SymptomsDescribed 79718 79721	绞 痛
+T3235	AnatomicSite 79730 79737	左 下 腹 部
+T3236	IndependentSymptoms 79748 79751	血 尿
+T3237	IndependentSymptoms 79756 79759	畏 寒
+T3238	IndependentSymptoms 79762 79765	发 热
+T3239	IndependentSymptoms 79774 79777	尿 频
+T3240	IndependentSymptoms 79780 79783	尿 急
+T3241	IndependentSymptoms 79786 79789	尿 痛
+T3242	IndependentSymptoms 79794 79797	少 尿
+T3243	AnatomicSite 79800 79803	面 部
+T3244	AnatomicSite 79806 79809	四 肢
+T3245	SymptomsDescribed 79810 79813	浮 肿
+T3246	IndependentSymptoms 79818 79831	排 尿 困 难 及 中 断
+T3247	AnatomicSite 79860 79875	. 左 肾 输 尿 管 中 段
+T3248	AnatomicSite 79882 79885	左 肾
+T3249	AnatomicSite 79902 79905	左 肾
+T3250	AnatomicSite 79914 79917	右 肾
+T3251	Operation 79934 79943	子 宫 切 除 术
+T3252	SymptomsDescribed 79960 79961	痛
+T3253	AnatomicSite 79968 79971	腰 腹
+T3254	SymptomsDescribed 79972 79973	痛
+T3255	AnatomicSite 80038 80041	左 肾
+T3256	AnatomicSite 80052 80055	左 肾
+T3257	AnatomicSite 80058 80069	左 输 尿 管 上 段
+T3258	AnatomicSite 80086 80099	左 输 尿 管 中 下 段
+T3259	AnatomicSite 80146 80153	左 输 尿 管
+T3260	AnatomicSite 80248 80249	喉
+T3261	AnatomicSite 80254 80255	舌
+T3262	AnatomicSite 80314 80315	舌
+T3263	AnatomicSite 80328 80335	食 管 上 段
+T3264	AnatomicSite 80384 80387	食 管
+T3265	AnatomicSite 80400 80423	左 侧 锁 骨 上 下 、 纵 膈 淋 巴 结
+T3266	AnatomicSite 80430 80433	左 舌
+T3267	AnatomicSite 80436 80439	口 底
+T3268	AnatomicSite 80450 80461	右 侧 杓 会 厌 壁
+T3269	AnatomicSite 80484 80485	胃
+T3270	AnatomicSite 80502 80505	食 管
+T3271	Medicine 80570 80577	多 西 他 赛
+T3272	IndependentSymptoms 80650 80661	饮 食 及 睡 眠 差
+T3273	IndependentSymptoms 80676 80691	体 重 较 前 有 所 减 轻
+T3274	AnatomicSite 80736 80737	腹
+T3275	SymptomsDescribed 80738 80739	痛
+T3276	AnatomicSite 80742 80743	腹
+T3277	SymptomsDescribed 80744 80745	胀
+T3278	SymptomsDescribed 80746 80749	不 适
+T3279	AnatomicSite 80752 80753	腹
+T3280	SymptomsDescribed 80754 80755	痛
+T3281	AnatomicSite 80766 80769	下 腹
+T3282	IndependentSymptoms 80796 80799	呕 吐
+T3283	IndependentSymptoms 80818 80821	呕 吐
+T3284	AnatomicSite 80828 80829	胃
+T3285	AnatomicSite 80858 80859	腹
+T3286	SymptomsDescribed 80860 80861	痛
+T3287	AnatomicSite 80864 80865	腹
+T3288	SymptomsDescribed 80866 80867	胀
+T3289	AnatomicSite 80894 80895	腹
+T3290	AnatomicSite 80904 80905	肠
+T3291	AnatomicSite 80960 80963	腹 部
+T3292	AnatomicSite 80976 80979	直 肠
+T3293	AnatomicSite 81000 81003	腹 部
+T3294	AnatomicSite 81014 81019	消 化 道
+T3295	IndependentSymptoms 81038 81045	排 稀 水 便
+T3296	IndependentSymptoms 81058 81063	未 排 气
+T3297	AnatomicSite 81082 81083	腹
+T3298	SymptomsDescribed 81084 81085	胀
+T3299	AnatomicSite 81108 81111	四 肢
+T3300	SymptomsDescribed 81112 81115	发 冷
+T3301	AnatomicSite 81172 81175	直 肠
+T3302	Operation 81182 81197	H A R T M A N N
+T3303	Operation 81200 81213	乙 状 结 肠 造 瘘 术
+T3304	Operation 81330 81347	乙 状 结 肠 造 口 回 纳 术
+T3305	IndependentSymptoms 81384 81387	便 秘
+T3306	AnatomicSite 81426 81431	升 结 肠
+T3307	AnatomicSite 81456 81459	腹 膜
+T3308	Operation 81472 81479	剖 腹 探 查
+T3309	Operation 81482 81493	腹 腔 粘 连 松 解
+T3310	Operation 81496 81507	肠 间 脓 肿 引 流
+T3311	Operation 81510 81523	升 结 肠 肿 瘤 切 除
+T3312	Operation 81526 81539	末 段 小 肠 造 口 术
+T3313	AnatomicSite 81574 81579	升 结 肠
+T3314	AnatomicSite 81600 81607	肠 壁 全 层
+T3315	AnatomicSite 81628 81637	肠 壁 淋 巴 结
+T3316	AnatomicSite 81752 81753	胃
+T3317	IndependentSymptoms 81822 81829	身 目 黄 染
+T3318	AnatomicSite 81840 81845	肝 门 区
+T3319	AnatomicSite 81874 81875	肝
+T3320	Operation 81904 81913	肝 癌 切 除 术
+T3321	Operation 81916 81925	胆 囊 切 除 术
+T3322	Operation 81928 81943	胆 总 管 切 开 取 栓 术
+T3323	AnatomicSite 81956 81957	肝
+T3324	AnatomicSite 81964 81965	肝
+T3325	AnatomicSite 81970 81973	胆 管
+T3326	AnatomicSite 82056 82057	腹
+T3327	SymptomsDescribed 82058 82059	痛
+T3328	AnatomicSite 82064 82065	腹
+T3329	SymptomsDescribed 82066 82067	胀
+T3330	IndependentSymptoms 82072 82075	恶 心
+T3331	IndependentSymptoms 82080 82083	呕 吐
+T3332	IndependentSymptoms 82088 82091	畏 寒
+T3333	IndependentSymptoms 82096 82099	发 热
+T3334	AnatomicSite 82232 82235	子 宫
+T3335	Operation 82274 82283	子 宫 全 切 术
+T3336	AnatomicSite 82334 82341	左 侧 腰 部
+T3337	SymptomsDescribed 82342 82349	胀 痛 不 适
+T3338	AnatomicSite 82376 82379	阴 道
+T3339	IndependentSymptoms 82404 82407	发 热
+T3340	IndependentSymptoms 82410 82413	恶 心
+T3341	IndependentSymptoms 82416 82419	呕 吐
+T3342	AnatomicSite 82422 82423	腹
+T3343	SymptomsDescribed 82424 82425	泻
+T3344	IndependentSymptoms 82430 82433	尿 频
+T3345	IndependentSymptoms 82436 82439	尿 急
+T3346	IndependentSymptoms 82442 82445	尿 痛
+T3347	AnatomicSite 82560 82565	右 卵 巢
+T3348	AnatomicSite 82576 82581	左 附 件
+T3349	IndependentSymptoms 82794 82801	体 重 增 加
+T3350	AnatomicSite 82886 82889	腹 部
+T3351	SymptomsDescribed 82890 82893	疼 痛
+T3352	IndependentSymptoms 82916 82933	体 重 依 旧 进 行 性 增 加
+T3353	IndependentSymptoms 82948 82955	体 重 增 加
+T3354	AnatomicSite 83318 83321	肝 脏
+T3355	AnatomicSite 83416 83417	胃
+T3356	AnatomicSite 83476 83481	胃 肠 道
+T3357	Medicine 83482 83485	碘 水
+T3358	Operation 83494 83505	袖 状 胃 切 除 术
+T3359	AnatomicSite 83530 83533	静 脉
+T3360	SymptomsDescribed 83552 83555	不 适
+T3361	Medicine 83622 83625	善 存
+T3362	Medicine 83628 83635	维 生 素 D
+T3363	Medicine 83638 83641	钙 片
+T3364	Medicine 83644 83647	叶 酸
+T3365	Medicine 83650 83653	铁 剂
+T3366	IndependentSymptoms 83690 83693	高 热
+T3367	IndependentSymptoms 83718 83721	咳 嗽
+T3368	IndependentSymptoms 83724 83727	咳 痰
+T3369	AnatomicSite 83732 83733	腹
+T3370	SymptomsDescribed 83734 83735	胀
+T3371	AnatomicSite 83738 83739	腹
+T3372	SymptomsDescribed 83740 83741	痛
+T3373	IndependentSymptoms 83746 83749	恶 心
+T3374	IndependentSymptoms 83750 83753	呕 吐
+T3375	SymptomsDescribed 83756 83759	不 适
+T3376	IndependentSymptoms 83834 83841	体 重 减 轻
+T3377	IndependentSymptoms 83886 83893	月 经 紊 乱
+T3378	IndependentSymptoms 83898 83901	痛 经
+T3379	IndependentSymptoms 83904 83907	恶 心
+T3380	IndependentSymptoms 83910 83913	呕 吐
+T3381	AnatomicSite 83916 83917	腹
+T3382	SymptomsDescribed 83918 83919	泻
+T3383	AnatomicSite 83952 83955	宫 颈
+T3384	AnatomicSite 84068 84069	肠
+T3385	AnatomicSite 84108 84111	腹 部
+T3386	AnatomicSite 84130 84131	腹
+T3387	SymptomsDescribed 84132 84133	痛
+T3388	AnatomicSite 84136 84137	腹
+T3389	SymptomsDescribed 84138 84139	泻
+T3390	AnatomicSite 84186 84187	肠
+T3391	AnatomicSite 84202 84205	胃 肠
+T3392	AnatomicSite 84230 84231	腹
+T3393	SymptomsDescribed 84232 84233	痛
+T3394	AnatomicSite 84282 84285	头 颅
+T3395	AnatomicSite 84294 84301	左 侧 额 部
+T3396	AnatomicSite 84320 84323	头 颅
+T3397	AnatomicSite 84340 84343	头 部
+T3398	AnatomicSite 84376 84385	左 侧 额 顶 叶
+T3399	AnatomicSite 84450 84453	颅 脑
+T3400	AnatomicSite 84532 84535	腹 部
+T3401	SymptomsDescribed 84536 84539	隐 痛
+T3402	IndependentSymptoms 84544 84547	恶 心
+T3403	IndependentSymptoms 84548 84551	呕 吐
+T3404	AnatomicSite 84556 84557	腹
+T3405	SymptomsDescribed 84558 84559	泻
+T3406	AnatomicSite 84562 84565	肛 门
+T3407	AnatomicSite 84614 84617	宫 颈
+T3408	AnatomicSite 84626 84627	肠
+T3409	Operation 84676 84689	根 治 性 膀 胱 切 除
+T3410	Operation 84692 84701	回 肠 导 管 术
+T3411	IndependentSymptoms 84752 84755	便 秘
+T3412	AnatomicSite 84758 84763	会 阴 部
+T3413	SymptomsDescribed 84764 84767	坠 胀
+T3414	SymptomsDescribed 84768 84771	不 适
+T3415	IndependentSymptoms 84790 84793	便 秘
+T3416	AnatomicSite 84804 84809	会 阴 部
+T3417	SymptomsDescribed 84810 84813	坠 胀
+T3418	SymptomsDescribed 84814 84817	不 适
+T3419	AnatomicSite 84842 84843	肠
+T3420	AnatomicSite 84856 84859	结 肠
+T3421	AnatomicSite 84884 84889	下 腹 部
+T3422	SymptomsDescribed 84906 84909	不 适
+T3423	Operation 84950 84961	膀 胱 癌 根 治 术
+T3424	Operation 84970 84983	P C S 盒 植 入 术
+T3425	IndependentSymptoms 85036 85039	咳 嗽
+T3426	IndependentSymptoms 85042 85045	咳 痰
+T3427	AnatomicSite 85048 85049	胸
+T3428	SymptomsDescribed 85050 85051	痛
+T3429	AnatomicSite 85054 85055	心
+T3430	SymptomsDescribed 85056 85057	慌
+T3431	IndependentSymptoms 85058 85061	气 短
+T3432	AnatomicSite 85116 85119	直 肠
+T3433	AnatomicSite 85130 85133	胃 肠
+T3434	Operation 85170 85179	结 肠 造 口 术
+T3435	AnatomicSite 85250 85253	腹 部
+T3436	AnatomicSite 85264 85265	肝
+T3437	AnatomicSite 85294 85297	腹 部
+T3438	AnatomicSite 85306 85307	肝
+T3439	Operation 85348 85357	结 肠 还 瘘 术
+T3440	Operation 85360 85371	肝 部 分 切 除 术
+T3441	AnatomicSite 85406 85409	肺 部
+T3442	AnatomicSite 85420 85427	右 肺 下 叶
+T3443	AnatomicSite 85454 85457	肺 部
+T3444	AnatomicSite 85466 85473	右 肺 下 叶
+T3445	AnatomicSite 85586 85591	中 上 腹
+T3446	SymptomsDescribed 85592 85595	疼 痛
+T3447	IndependentSymptoms 85648 85651	打 嗝
+T3448	IndependentSymptoms 85656 85659	反 酸
+T3449	IndependentSymptoms 85662 85665	烧 心
+T3450	IndependentSymptoms 85668 85671	嗳 气
+T3451	IndependentSymptoms 85676 85679	恶 心
+T3452	IndependentSymptoms 85682 85685	呕 吐
+T3453	IndependentSymptoms 85690 85693	呕 血
+T3454	IndependentSymptoms 85696 85699	黑 便
+T3455	AnatomicSite 85776 85781	中 上 腹
+T3456	SymptomsDescribed 85782 85785	疼 痛
+T3457	IndependentSymptoms 85792 85795	打 嗝
+T3458	AnatomicSite 85800 85801	腹
+T3459	SymptomsDescribed 85802 85803	胀
+T3460	IndependentSymptoms 85806 85809	烧 心
+T3461	IndependentSymptoms 85816 85819	反 酸
+T3462	IndependentSymptoms 85822 85825	嗳 气
+T3463	IndependentSymptoms 85828 85831	呃 逆
+T3464	IndependentSymptoms 85838 85841	呕 吐
+T3465	AnatomicSite 85844 85845	腹
+T3466	SymptomsDescribed 85846 85847	泻
+T3467	IndependentSymptoms 85854 85857	呕 血
+T3468	IndependentSymptoms 85860 85863	黑 便
+T3469	AnatomicSite 85868 85869	心
+T3470	SymptomsDescribed 85870 85871	悸
+T3471	SymptomsDescribed 85874 85875	胸
+T3472	SymptomsDescribed 85876 85877	闷
+T3473	IndependentSymptoms 85880 85883	咳 嗽
+T3474	IndependentSymptoms 85886 85889	咳 痰
+T3475	AnatomicSite 85904 85905	胃
+T3476	AnatomicSite 85924 85927	胃 窦
+T3477	AnatomicSite 85938 85955	十 二 指 肠 降 段 口 粘 膜
+T3478	AnatomicSite 85966 85977	十 二 指 肠 球 部
+T3479	AnatomicSite 86202 86205	右 肝
+T3480	AnatomicSite 86212 86213	肝
+T3481	Operation 86222 86229	剖 腹 探 查
+T3482	Operation 86232 86243	右 肝 肿 瘤 切 除
+T3483	Operation 86246 86253	胆 囊 切 除
+T3484	Operation 86256 86273	右 肝 结 节 射 频 消 融 术
+T3485	AnatomicSite 86348 86349	肝
+T3486	AnatomicSite 86356 86357	肝
+T3487	AnatomicSite 86362 86363	肝
+T3488	AnatomicSite 86374 86377	胆 囊
+T3489	AnatomicSite 86400 86401	腹
+T3490	SymptomsDescribed 86402 86403	痛
+T3491	SymptomsDescribed 86406 86409	不 适
+T3492	IndependentSymptoms 86420 86423	咳 嗽
+T3493	IndependentSymptoms 86424 86427	咳 痰
+T3494	IndependentSymptoms 86432 86435	恶 心
+T3495	IndependentSymptoms 86438 86441	呕 吐
+T3496	AnatomicSite 86446 86449	肝 区
+T3497	SymptomsDescribed 86450 86453	疼 痛
+T3498	IndependentSymptoms 86458 86461	厌 油
+T3499	IndependentSymptoms 86464 86467	纳 差
+T3500	IndependentSymptoms 86470 86473	乏 力
+T3501	AnatomicSite 86478 86479	胸
+T3502	SymptomsDescribed 86480 86481	闷
+T3503	AnatomicSite 86484 86485	胸
+T3504	SymptomsDescribed 86486 86487	痛
+T3505	AnatomicSite 86492 86493	腹
+T3506	SymptomsDescribed 86494 86495	痛
+T3507	AnatomicSite 86498 86499	腹
+T3508	SymptomsDescribed 86500 86501	胀
+T3509	IndependentSymptoms 86506 86509	尿 频
+T3510	IndependentSymptoms 86512 86515	尿 急
+T3511	IndependentSymptoms 86518 86521	尿 痛
+T3512	AnatomicSite 86562 86563	肝
+T3513	AnatomicSite 86704 86711	中 上 腹 部
+T3514	SymptomsDescribed 86712 86719	闷 痛 不 适
+T3515	SymptomsDescribed 86730 86733	隐 痛
+T3516	IndependentSymptoms 86754 86763	进 食 时 恶 心
+T3517	IndependentSymptoms 86766 86773	食 欲 下 降
+T3518	IndependentSymptoms 86796 86799	呕 吐
+T3519	AnatomicSite 86804 86805	腹
+T3520	SymptomsDescribed 86806 86807	痛
+T3521	AnatomicSite 86810 86811	腹
+T3522	SymptomsDescribed 86812 86813	泻
+T3523	IndependentSymptoms 86816 86819	便 秘
+T3524	IndependentSymptoms 86824 86827	发 热
+T3525	IndependentSymptoms 86830 86833	咳 嗽
+T3526	IndependentSymptoms 86836 86839	咳 痰
+T3527	AnatomicSite 86888 86889	胃
+T3528	AnatomicSite 86902 86905	胃 窦
+T3529	AnatomicSite 86922 86925	胃 角
+T3530	AnatomicSite 86928 86931	幽 门
+T3531	AnatomicSite 86944 86945	胃
+T3532	AnatomicSite 86972 86973	胃
+T3533	AnatomicSite 86994 86995	胃
+T3534	IndependentSymptoms 87034 87039	食 欲 差
+T3535	IndependentSymptoms 87054 87061	体 重 减 轻
+T3536	Operation 87106 87123	直 肠 癌 低 位 前 切 除 术
+T3537	Operation 87126 87141	预 防 性 回 肠 造 瘘 术
+T3538	AnatomicSite 87158 87165	腹 膜 反 折
+T3539	AnatomicSite 87226 87229	脉 管
+T3540	AnatomicSite 87240 87243	肠 壁
+T3541	AnatomicSite 87254 87259	淋 巴 结
+T3542	Operation 87332 87345	回 肠 造 口 还 纳 术
+T3543	IndependentSymptoms 87352 87367	排 便 习 惯 较 前 改 变
+T3544	IndependentSymptoms 87370 87375	大 便 干
+T3545	AnatomicSite 87380 87381	口
+T3546	SymptomsDescribed 87444 87447	不 适
+T3547	AnatomicSite 87476 87477	肝
+T3548	AnatomicSite 87500 87501	肝
+T3549	AnatomicSite 87536 87549	肝 S 4 / 8 交 界
+T3550	AnatomicSite 87588 87591	肝 脏
+T3551	AnatomicSite 87730 87733	胃 肠
+T3552	AnatomicSite 87746 87749	结 肠
+T3553	AnatomicSite 87790 87791	胃
+T3554	IndependentSymptoms 87818 87821	恶 心
+T3555	IndependentSymptoms 87824 87827	呕 吐
+T3556	IndependentSymptoms 87832 87835	反 酸
+T3557	IndependentSymptoms 87838 87841	嗳 气
+T3558	AnatomicSite 87846 87847	腹
+T3559	SymptomsDescribed 87848 87849	痛
+T3560	AnatomicSite 87852 87853	腹
+T3561	SymptomsDescribed 87854 87855	泻
+T3562	IndependentSymptoms 87860 87863	黑 便
+T3563	IndependentSymptoms 87866 87869	血 便
+T3564	IndependentSymptoms 87874 87877	发 热
+T3565	IndependentSymptoms 87880 87883	咳 嗽
+T3566	AnatomicSite 87888 87889	胸
+T3567	SymptomsDescribed 87890 87891	闷
+T3568	IndependentSymptoms 87894 87897	气 促
+T3569	AnatomicSite 87902 87903	头
+T3570	SymptomsDescribed 87904 87905	晕
+T3571	AnatomicSite 87908 87909	头
+T3572	SymptomsDescribed 87910 87911	痛
+T3573	Operation 87934 87953	结 肠 息 肉 内 镜 下 切 除 术
+T3574	Medicine 88126 88135	元 胡 止 痛 片
+T3575	IndependentSymptoms 88158 88161	血 便
+T3576	AnatomicSite 88170 88171	头
+T3577	SymptomsDescribed 88172 88173	昏
+T3578	AnatomicSite 88176 88177	心
+T3579	SymptomsDescribed 88178 88179	慌
+T3580	IndependentSymptoms 88182 88185	气 促
+T3581	IndependentSymptoms 88190 88193	恶 心
+T3582	IndependentSymptoms 88196 88199	呕 吐
+T3583	IndependentSymptoms 88202 88205	呕 血
+T3584	AnatomicSite 88210 88211	腹
+T3585	SymptomsDescribed 88212 88213	痛
+T3586	AnatomicSite 88216 88217	腹
+T3587	SymptomsDescribed 88218 88219	泻
+T3588	IndependentSymptoms 88230 88237	里 急 后 重
+T3589	AnatomicSite 88242 88245	肛 门
+T3590	SymptomsDescribed 88246 88251	坠 胀 感
+T3591	IndependentSymptoms 88256 88263	畏 寒 发 热
+T3592	AnatomicSite 88268 88275	皮 肤 黏 膜
+T3593	SymptomsDescribed 88276 88279	黄 染
+T3594	AnatomicSite 88288 88291	胃 肠
+T3595	AnatomicSite 88302 88303	胃
+T3596	AnatomicSite 88322 88323	胃
+T3597	IndependentSymptoms 88380 88383	便 血
+T3598	AnatomicSite 88400 88401	肠
+T3599	AnatomicSite 88416 88419	结 肠
+T3600	AnatomicSite 88440 88447	下 消 化 道
+T3601	SymptomsDescribed 88448 88451	出 血
+T3602	AnatomicSite 88470 88473	结 肠
+T3603	AnatomicSite 88482 88493	十 二 指 肠 乳 头
+T3604	AnatomicSite 88494 88497	神 经
+T3605	AnatomicSite 88528 88529	胃
+T3606	IndependentSymptoms 88576 88579	便 血
+T3607	IndependentSymptoms 88632 88635	便 血
+T3608	AnatomicSite 88782 88783	肝
+T3609	AnatomicSite 88802 88803	肝
+T3610	AnatomicSite 88844 88845	肝
+T3611	AnatomicSite 88852 88853	肝
+T3612	AnatomicSite 88854 88855	肝
+T3613	Operation 88902 88913	右 肝 肿 瘤 切 除
+T3614	Operation 88916 88925	胆 囊 切 除 术
+T3615	AnatomicSite 88950 88953	右 肝
+T3616	AnatomicSite 88956 88957	肝
+T3617	AnatomicSite 88962 88963	肝
+T3618	AnatomicSite 89034 89035	肝
+T3619	AnatomicSite 89042 89045	胆 囊
+T3620	AnatomicSite 89064 89067	胆 囊
+T3621	AnatomicSite 89112 89113	肝
+T3622	AnatomicSite 89184 89185	肝
+T3623	Operation 89196 89201	T A I
+T3624	Medicine 89214 89219	替 加 氟
+T3625	Medicine 89222 89229	亚 叶 酸 钙
+T3626	Medicine 89232 89235	泽 菲
+T3627	AnatomicSite 89236 89239	静 脉
+T3628	AnatomicSite 89260 89261	肝
+T3629	IndependentSymptoms 89272 89273	吐
+T3630	AnatomicSite 89278 89279	胃
+T3631	IndependentSymptoms 89352 89355	发 热
+T3632	AnatomicSite 89360 89361	腹
+T3633	SymptomsDescribed 89362 89363	痛
+T3634	AnatomicSite 89366 89367	腹
+T3635	SymptomsDescribed 89368 89369	胀
+T3636	AnatomicSite 89372 89373	腹
+T3637	SymptomsDescribed 89374 89375	泻
+T3638	AnatomicSite 89378 89381	肝 区
+T3639	SymptomsDescribed 89382 89385	不 适
+T3640	IndependentSymptoms 89390 89393	恶 心
+T3641	IndependentSymptoms 89396 89399	呕 吐
+T3642	AnatomicSite 89478 89479	肝
+T3643	AnatomicSite 89514 89521	子 宫 内 膜
+T3644	Operation 89562 89583	全 子 宫 及 双 侧 附 件 切 除 术
+T3645	AnatomicSite 89620 89627	子 宫 内 膜
+T3646	AnatomicSite 89646 89649	阴 道
+T3647	SymptomsDescribed 89650 89653	流 血
+T3648	SymptomsDescribed 89656 89659	流 液
+T3649	AnatomicSite 89668 89669	腹
+T3650	SymptomsDescribed 89670 89671	痛
+T3651	AnatomicSite 89674 89675	腹
+T3652	SymptomsDescribed 89676 89677	胀
+T3653	IndependentSymptoms 89682 89685	恶 心
+T3654	IndependentSymptoms 89688 89691	呕 吐
+T3655	IndependentSymptoms 89696 89699	咳 嗽
+T3656	IndependentSymptoms 89702 89705	咳 痰
+T3657	SymptomsDescribed 89708 89711	不 适
+T3658	AnatomicSite 89756 89759	盆 腔
+T3659	Medicine 89820 89825	紫 杉 醇
+T3660	Medicine 89838 89845	奥 沙 利 铂
+T3661	AnatomicSite 89888 89889	腹
+T3662	SymptomsDescribed 89890 89891	泻
+T3663	AnatomicSite 89916 89923	子 宫 内 膜
+T3664	Medicine 90014 90019	紫 杉 醇
+T3665	Medicine 90032 90039	奥 沙 利 铂
+T3666	IndependentSymptoms 90060 90063	恶 心
+T3667	IndependentSymptoms 90066 90069	呕 吐
+T3668	SymptomsDescribed 90072 90075	不 适
+T3669	AnatomicSite 90080 90081	腹
+T3670	SymptomsDescribed 90082 90083	痛
+T3671	IndependentSymptoms 90086 90089	黑 便
+T3672	IndependentSymptoms 90092 90095	呕 血
+T3673	AnatomicSite 90100 90101	骨
+T3674	SymptomsDescribed 90102 90103	痛
+T3675	IndependentSymptoms 90106 90109	皮 疹
+T3676	AnatomicSite 90114 90117	阴 道
+T3677	SymptomsDescribed 90118 90121	流 血
+T3678	SymptomsDescribed 90124 90127	流 液
+T3679	SymptomsDescribed 90130 90133	不 适
+T3680	AnatomicSite 90164 90171	子 宫 内 膜
+T3681	IndependentSymptoms 90234 90241	食 欲 减 退
+T3682	AnatomicSite 90342 90347	降 结 肠
+T3683	Operation 90360 90373	左 半 结 肠 切 除 术
+T3684	AnatomicSite 90404 90405	腹
+T3685	SymptomsDescribed 90406 90407	痛
+T3686	SymptomsDescribed 90418 90421	闷 痛
+T3687	AnatomicSite 90438 90439	腹
+T3688	SymptomsDescribed 90440 90441	胀
+T3689	IndependentSymptoms 90444 90447	恶 心
+T3690	IndependentSymptoms 90458 90461	呕 吐
+T3691	AnatomicSite 90464 90467	肛 门
+T3692	IndependentSymptoms 90470 90481	未 排 气 、 排 便
+T3693	IndependentSymptoms 90486 90489	呕 血
+T3694	IndependentSymptoms 90492 90495	黑 便
+T3695	AnatomicSite 90500 90501	心
+T3696	SymptomsDescribed 90502 90503	悸
+T3697	IndependentSymptoms 90506 90509	气 促
+T3698	IndependentSymptoms 90514 90517	畏 冷
+T3699	IndependentSymptoms 90520 90523	发 热
+T3700	IndependentSymptoms 90528 90535	肉 眼 血 尿
+T3701	IndependentSymptoms 90538 90541	尿 频
+T3702	IndependentSymptoms 90544 90547	尿 急
+T3703	IndependentSymptoms 90550 90553	尿 痛
+T3704	AnatomicSite 90578 90581	腹 部
+T3705	AnatomicSite 90598 90599	肠
+T3706	AnatomicSite 90638 90639	肠
+T3707	IndependentSymptoms 90662 90679	精 神 、 睡 眠 、 食 欲 差
+T3708	AnatomicSite 90748 90751	上 腹
+T3709	SymptomsDescribed 90752 90755	疼 痛
+T3710	IndependentSymptoms 90760 90763	反 酸
+T3711	SymptomsDescribed 90768 90773	放 射 痛
+T3712	AnatomicSite 90800 90801	腹
+T3713	SymptomsDescribed 90802 90803	痛
+T3714	IndependentSymptoms 90816 90819	呕 吐
+T3715	AnatomicSite 90824 90825	胃
+T3716	AnatomicSite 90850 90851	胃
+T3717	AnatomicSite 90862 90863	胃
+T3718	AnatomicSite 90892 90903	十 二 指 肠 球 部
+T3719	AnatomicSite 90926 90937	十 二 指 肠 球 部
+T3720	AnatomicSite 90948 90951	胃 体
+T3721	AnatomicSite 91004 91009	胃 黏 膜
+T3722	Medicine 91232 91239	环 磷 酰 胺
+T3723	Medicine 91258 91265	长 春 新 碱
+T3724	Medicine 91278 91289	醋 酸 泼 尼 松 片
+T3725	Medicine 91326 91329	卓 迪
+T3726	Medicine 91332 91337	耐 信 片
+T3727	Medicine 91340 91345	甲 硝 唑
+T3728	Medicine 91348 91355	阿 莫 西 林
+T3729	SymptomsDescribed 91380 91383	不 适
+T3730	Medicine 91464 91471	环 磷 酰 胺
+T3731	Medicine 91486 91493	表 阿 霉 素
+T3732	Medicine 91496 91501	艾 达 生
+T3733	Medicine 91524 91531	长 春 新 碱
+T3734	Medicine 91544 91553	醋 酸 泼 尼 松
+T3735	Medicine 91580 91585	高 舒 达
+T3736	AnatomicSite 91646 91647	腹
+T3737	SymptomsDescribed 91648 91649	泻
+T3738	AnatomicSite 91652 91655	眼 睑
+T3739	SymptomsDescribed 91656 91659	水 肿
+T3740	AnatomicSite 91716 91721	上 腹 部
+T3741	SymptomsDescribed 91722 91725	不 适
+T3742	AnatomicSite 91758 91761	周 身
+T3743	SymptomsDescribed 91772 91775	疼 痛
+T3744	AnatomicSite 91856 91865	右 侧 股 动 脉
+T3745	AnatomicSite 91870 91873	动 脉
+T3746	Operation 91890 91903	右 下 肢 截 肢 手 术
+T3747	AnatomicSite 91948 91955	腹 部 血 管
+T3748	AnatomicSite 91968 91973	腹 主 动
+T3749	AnatomicSite 91978 91981	动 脉
+T3750	AnatomicSite 91986 92007	左 侧 髂 总 动 脉 起 始 处 管 腔
+T3751	AnatomicSite 92014 92021	左 肾 动 脉
+T3752	AnatomicSite 92026 92029	动 脉
+T3753	AnatomicSite 92042 92047	下 腹 部
+T3754	SymptomsDescribed 92048 92051	隐 痛
+T3755	IndependentSymptoms 92056 92071	排 尿 、 排 便 不 尽 感
+T3756	IndependentSymptoms 92076 92079	恶 心
+T3757	IndependentSymptoms 92080 92083	呕 吐
+T3758	IndependentSymptoms 92088 92091	呕 血
+T3759	IndependentSymptoms 92092 92095	便 血
+T3760	IndependentSymptoms 92096 92099	黑 便
+T3761	AnatomicSite 92104 92105	头
+T3762	SymptomsDescribed 92106 92107	痛
+T3763	AnatomicSite 92108 92109	头
+T3764	SymptomsDescribed 92110 92111	晕
+T3765	IndependentSymptoms 92114 92117	黑 朦
+T3766	IndependentSymptoms 92118 92121	晕 厥
+T3767	AnatomicSite 92258 92259	腹
+T3768	SymptomsDescribed 92260 92261	痛
+T3769	AnatomicSite 92266 92269	脐 周
+T3770	SymptomsDescribed 92276 92279	隐 痛
+T3771	AnatomicSite 92284 92285	腹
+T3772	SymptomsDescribed 92286 92287	胀
+T3773	SymptomsDescribed 92288 92291	不 适
+T3774	IndependentSymptoms 92296 92299	恶 心
+T3775	IndependentSymptoms 92302 92305	呕 吐
+T3776	IndependentSymptoms 92310 92313	反 酸
+T3777	IndependentSymptoms 92316 92319	烧 心
+T3778	AnatomicSite 92322 92323	腹
+T3779	SymptomsDescribed 92324 92325	痛
+T3780	AnatomicSite 92350 92351	肠
+T3781	AnatomicSite 92464 92465	腹
+T3782	SymptomsDescribed 92466 92467	痛
+T3783	AnatomicSite 92508 92509	肠
+T3784	AnatomicSite 92526 92529	胃 肠
+T3785	AnatomicSite 92554 92555	胃
+T3786	AnatomicSite 92640 92641	腹
+T3787	SymptomsDescribed 92642 92643	痛
+T3788	AnatomicSite 92648 92651	脐 周
+T3789	SymptomsDescribed 92658 92661	疼 痛
+T3790	AnatomicSite 92666 92669	上 腹
+T3791	SymptomsDescribed 92670 92675	饱 胀 感
+T3792	IndependentSymptoms 92678 92685	食 欲 不 振
+T3793	AnatomicSite 92690 92691	腹
+T3794	SymptomsDescribed 92692 92693	泻
+T3795	AnatomicSite 92696 92697	腹
+T3796	IndependentSymptoms 92704 92707	发 热
+T3797	AnatomicSite 92710 92711	头
+T3798	SymptomsDescribed 92712 92713	痛
+T3799	AnatomicSite 92718 92719	胸
+T3800	SymptomsDescribed 92720 92721	闷
+T3801	AnatomicSite 92724 92725	胸
+T3802	SymptomsDescribed 92726 92727	痛
+T3803	IndependentSymptoms 92732 92735	恶 心
+T3804	IndependentSymptoms 92738 92741	呕 吐
+T3805	IndependentSymptoms 92746 92749	反 酸
+T3806	IndependentSymptoms 92752 92755	烧 心
+T3807	IndependentSymptoms 92804 92809	饮 食 差
+T3808	IndependentSymptoms 92834 92841	体 重 减 轻
+T3809	AnatomicSite 92880 92885	下 腹 部
+T3810	SymptomsDescribed 92886 92889	隐 痛
+T3811	AnatomicSite 92904 92909	腰 骶 部
+T3812	IndependentSymptoms 92916 92923	经 量 增 多
+T3813	Operation 92972 92997	宫 腔 镜 下 子 宫 内 膜 息 肉 切 除 术
+T3814	AnatomicSite 93012 93019	子 宫 内 膜
+T3815	AnatomicSite 93038 93039	口
+T3816	AnatomicSite 93062 93063	腹
+T3817	SymptomsDescribed 93064 93065	痛
+T3818	AnatomicSite 93112 93119	子 宫 内 膜
+T3819	AnatomicSite 93252 93255	下 腹
+T3820	SymptomsDescribed 93256 93257	痛
+T3821	IndependentSymptoms 93316 93319	尿 频
+T3822	IndependentSymptoms 93340 93343	尿 急
+T3823	IndependentSymptoms 93344 93347	尿 痛
+T3824	AnatomicSite 93356 93357	头
+T3825	SymptomsDescribed 93358 93359	晕
+T3826	AnatomicSite 93360 93361	头
+T3827	SymptomsDescribed 93362 93363	迷
+T3828	AnatomicSite 93368 93369	胸
+T3829	SymptomsDescribed 93370 93371	闷
+T3830	IndependentSymptoms 93372 93375	气 短
+T3831	IndependentSymptoms 93380 93383	恶 心
+T3832	IndependentSymptoms 93384 93387	呕 吐
+T3833	IndependentSymptoms 93394 93397	便 秘
+T3834	AnatomicSite 93456 93463	皮 肤 粘 膜
+T3835	AnatomicSite 93466 93469	巩 膜
+T3836	SymptomsDescribed 93470 93473	黄 染
+T3837	Operation 93538 93545	胆 囊 切 除
+T3838	Operation 93548 93555	胆 肠 吻 合
+T3839	Operation 93558 93567	胃 肠 吻 合 术
+T3840	AnatomicSite 93592 93595	胆 囊
+T3841	IndependentSymptoms 93674 93677	寒 战
+T3842	IndependentSymptoms 93680 93683	发 热
+T3843	AnatomicSite 93688 93689	腹
+T3844	SymptomsDescribed 93690 93691	胀
+T3845	AnatomicSite 93694 93695	腹
+T3846	SymptomsDescribed 93696 93697	痛
+T3847	IndependentSymptoms 93702 93705	恶 心
+T3848	IndependentSymptoms 93708 93711	呕 吐
+T3849	IndependentSymptoms 93716 93719	咳 嗽
+T3850	IndependentSymptoms 93722 93725	咳 痰
+T3851	AnatomicSite 93730 93731	胸
+T3852	SymptomsDescribed 93732 93733	闷
+T3853	IndependentSymptoms 93736 93739	憋 喘
+T3854	IndependentSymptoms 93744 93747	尿 频
+T3855	IndependentSymptoms 93750 93753	尿 急
+T3856	IndependentSymptoms 93756 93759	尿 痛
+T3857	AnatomicSite 93798 93801	壶 腹
+T3858	AnatomicSite 93930 93943	左 下 肢 浅 表 血 管
+T3859	SymptomsDescribed 93944 93951	迂 曲 扩 张
+T3860	SymptomsDescribed 94004 94007	水 肿
+T3861	AnatomicSite 94010 94013	皮 肤
+T3862	IndependentSymptoms 94014 94017	搔 痒
+T3863	SymptomsDescribed 94018 94021	不 适
+T3864	IndependentSymptoms 94024 94027	脱 屑
+T3865	SymptomsDescribed 94030 94037	颜 色 改 变
+T3866	AnatomicSite 94042 94045	下 肢
+T3867	SymptomsDescribed 94046 94049	酸 痛
+T3868	SymptomsDescribed 94052 94055	疼 痛
+T3869	IndependentSymptoms 94058 94061	发 热
+T3870	AnatomicSite 94064 94065	头
+T3871	SymptomsDescribed 94066 94067	痛
+T3872	IndependentSymptoms 94070 94073	恶 心
+T3873	AnatomicSite 94100 94107	小 腿 皮 肤
+T3874	SymptomsDescribed 94108 94115	颜 色 加 深
+T3875	AnatomicSite 94156 94163	下 肢 静 脉
+T3876	AnatomicSite 94184 94191	左 髂 静 脉
+T3877	AnatomicSite 94202 94211	左 侧 髂 静 脉
+T3878	Operation 94218 94233	髂 静 脉 支 架 置 入 术
+T3879	Operation 94236 94243	球 囊 扩 张
+T3880	SymptomsDescribed 94296 94305	左 下 肢 静 脉
+T3881	SymptomsDescribed 94306 94309	曲 张
+T3882	AnatomicSite 94338 94339	胸
+T3883	SymptomsDescribed 94340 94341	闷
+T3884	IndependentSymptoms 94344 94347	气 短
+T3885	IndependentSymptoms 94352 94355	发 烧
